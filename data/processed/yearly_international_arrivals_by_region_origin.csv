@@ -1,0 +1,175 @@
+year,destination_region,origin_country_grouped,passengers_total
+2021,Central-West,Argentina,418
+2021,Central-West,Chile,82
+2021,Central-West,Estados Unidos Da América,206
+2021,Central-West,Other,3949
+2021,Central-West,Panamá,18081
+2021,Central-West,Peru,0
+2021,Central-West,Portugal,17663
+2021,North,Colômbia,119
+2021,North,Estados Unidos Da América,805
+2021,North,Other,750
+2021,North,Panamá,1443
+2021,North,Portugal,2160
+2021,North,Suriname,4103
+2021,Northeast,Argentina,577
+2021,Northeast,Espanha,837
+2021,Northeast,Estados Unidos Da América,0
+2021,Northeast,França,8376
+2021,Northeast,Other,366
+2021,Northeast,Portugal,76961
+2021,Northeast,Uruguai,85
+2021,South,Argentina,3840
+2021,South,Chile,3721
+2021,South,Other,1307
+2021,South,Panamá,16532
+2021,South,Peru,119
+2021,South,Portugal,0
+2021,South,Uruguai,4298
+2021,Southeast,Argentina,87262
+2021,Southeast,Chile,100268
+2021,Southeast,Espanha,136948
+2021,Southeast,Estados Unidos Da América,478914
+2021,Southeast,Other,902972
+2021,Southeast,Panamá,208668
+2021,Southeast,Portugal,226330
+2022,Central-West,Argentina,14666
+2022,Central-West,Chile,55
+2022,Central-West,Estados Unidos Da América,61121
+2022,Central-West,Other,24335
+2022,Central-West,Panamá,41926
+2022,Central-West,Peru,221
+2022,Central-West,Portugal,51041
+2022,North,Colômbia,435
+2022,North,Estados Unidos Da América,1824
+2022,North,Guiana Francesa,376
+2022,North,Other,4213
+2022,North,Panamá,20082
+2022,North,Portugal,15459
+2022,North,Suriname,13010
+2022,Northeast,Argentina,23759
+2022,Northeast,Espanha,1314
+2022,Northeast,Estados Unidos Da América,4978
+2022,Northeast,França,33290
+2022,Northeast,Other,355
+2022,Northeast,Portugal,234343
+2022,Northeast,Uruguai,3241
+2022,South,Argentina,88752
+2022,South,Chile,38486
+2022,South,Other,1218
+2022,South,Panamá,31705
+2022,South,Peru,9959
+2022,South,Portugal,26337
+2022,South,Uruguai,45093
+2022,Southeast,Argentina,926673
+2022,Southeast,Chile,449063
+2022,Southeast,Espanha,338869
+2022,Southeast,Estados Unidos Da América,1392876
+2022,Southeast,Other,2742636
+2022,Southeast,Panamá,380683
+2022,Southeast,Portugal,649557
+2023,Central-West,Argentina,20811
+2023,Central-West,Chile,0
+2023,Central-West,Estados Unidos Da América,95665
+2023,Central-West,Other,1197
+2023,Central-West,Panamá,49993
+2023,Central-West,Peru,39614
+2023,Central-West,Portugal,68897
+2023,North,Colômbia,14674
+2023,North,Estados Unidos Da América,38313
+2023,North,Guiana Francesa,4171
+2023,North,Other,3070
+2023,North,Panamá,22706
+2023,North,Portugal,24078
+2023,North,Suriname,15029
+2023,Northeast,Argentina,67215
+2023,Northeast,Espanha,29847
+2023,Northeast,Estados Unidos Da América,66155
+2023,Northeast,França,35322
+2023,Northeast,Other,2645
+2023,Northeast,Portugal,287298
+2023,Northeast,Uruguai,16436
+2023,South,Argentina,180498
+2023,South,Chile,141421
+2023,South,Other,1181
+2023,South,Panamá,39576
+2023,South,Peru,18386
+2023,South,Portugal,37803
+2023,South,Uruguai,49656
+2023,Southeast,Argentina,1352860
+2023,Southeast,Chile,850339
+2023,Southeast,Espanha,436777
+2023,Southeast,Estados Unidos Da América,1804342
+2023,Southeast,Other,3601563
+2023,Southeast,Panamá,435085
+2023,Southeast,Portugal,817509
+2024,Central-West,Argentina,22730
+2024,Central-West,Chile,24395
+2024,Central-West,Estados Unidos Da América,123087
+2024,Central-West,Other,1592
+2024,Central-West,Panamá,51490
+2024,Central-West,Peru,53844
+2024,Central-West,Portugal,76197
+2024,North,Colômbia,22149
+2024,North,Estados Unidos Da América,48026
+2024,North,Guiana Francesa,6781
+2024,North,Other,6667
+2024,North,Panamá,26935
+2024,North,Portugal,30610
+2024,North,Suriname,18289
+2024,Northeast,Argentina,113895
+2024,Northeast,Espanha,37112
+2024,Northeast,Estados Unidos Da América,88589
+2024,Northeast,França,58924
+2024,Northeast,Other,19913
+2024,Northeast,Portugal,335773
+2024,Northeast,Uruguai,24741
+2024,South,Argentina,240694
+2024,South,Chile,313072
+2024,South,Other,2749
+2024,South,Panamá,27703
+2024,South,Peru,15566
+2024,South,Portugal,24238
+2024,South,Uruguai,29529
+2024,Southeast,Argentina,1481388
+2024,Southeast,Chile,1238955
+2024,Southeast,Espanha,550277
+2024,Southeast,Estados Unidos Da América,1984337
+2024,Southeast,Other,4189480
+2024,Southeast,Panamá,474622
+2024,Southeast,Portugal,878158
+2025,Central-West,Argentina,29145
+2025,Central-West,Chile,17939
+2025,Central-West,Estados Unidos Da América,85413
+2025,Central-West,Other,23032
+2025,Central-West,Panamá,34709
+2025,Central-West,Peru,28761
+2025,Central-West,Portugal,40401
+2025,North,Colômbia,15313
+2025,North,Estados Unidos Da América,23243
+2025,North,Guiana Francesa,3924
+2025,North,Other,4703
+2025,North,Panamá,19314
+2025,North,Portugal,22249
+2025,North,Suriname,8903
+2025,Northeast,Argentina,99351
+2025,Northeast,Espanha,28913
+2025,Northeast,Estados Unidos Da América,59901
+2025,Northeast,França,51404
+2025,Northeast,Other,24180
+2025,Northeast,Portugal,190997
+2025,Northeast,Uruguai,16349
+2025,South,Argentina,215218
+2025,South,Chile,216203
+2025,South,Other,8439
+2025,South,Panamá,40938
+2025,South,Peru,27197
+2025,South,Portugal,31527
+2025,South,Uruguai,12316
+2025,Southeast,Argentina,1096194
+2025,Southeast,Chile,769143
+2025,Southeast,Espanha,355768
+2025,Southeast,Estados Unidos Da América,1264419
+2025,Southeast,Other,2608427
+2025,Southeast,Panamá,279061
+2025,Southeast,Portugal,520677
