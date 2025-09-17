@@ -1,12 +1,12 @@
 # Raw ANAC JSON extractions (large files kept out of git)
-data/raw/
-!data/raw/.gitkeep
+#data/raw/
+#!data/raw/.gitkeep
 Dados_Estatisticos_*.json
-Dados_Estatisticos_*.json.tar.gz
+#Dados_Estatisticos_*.json.tar.gz
 
 # Generated figures are reproduced by the notebook and should not be tracked
-figures/*
-!figures/.gitkeep
+#figures/*
+#!figures/.gitkeep
 
 # Python cache and notebook checkpoints
 __pycache__/

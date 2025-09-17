@@ -1,175 +1,342 @@
 year,destination_region,origin_country_grouped,passengers_total
-2021,Central-West,Argentina,418
-2021,Central-West,Chile,82
-2021,Central-West,Estados Unidos Da América,206
-2021,Central-West,Other,3949
-2021,Central-West,Panamá,18081
-2021,Central-West,Peru,0
-2021,Central-West,Portugal,17663
-2021,North,Colômbia,119
-2021,North,Estados Unidos Da América,805
-2021,North,Other,750
-2021,North,Panamá,1443
-2021,North,Portugal,2160
-2021,North,Suriname,4103
-2021,Northeast,Argentina,577
-2021,Northeast,Espanha,837
-2021,Northeast,Estados Unidos Da América,0
-2021,Northeast,França,8376
-2021,Northeast,Other,366
-2021,Northeast,Portugal,76961
-2021,Northeast,Uruguai,85
-2021,South,Argentina,3840
-2021,South,Chile,3721
-2021,South,Other,1307
-2021,South,Panamá,16532
-2021,South,Peru,119
-2021,South,Portugal,0
-2021,South,Uruguai,4298
-2021,Southeast,Argentina,87262
-2021,Southeast,Chile,100268
-2021,Southeast,Espanha,136948
-2021,Southeast,Estados Unidos Da América,478914
-2021,Southeast,Other,902972
-2021,Southeast,Panamá,208668
-2021,Southeast,Portugal,226330
-2022,Central-West,Argentina,14666
-2022,Central-West,Chile,55
-2022,Central-West,Estados Unidos Da América,61121
-2022,Central-West,Other,24335
-2022,Central-West,Panamá,41926
-2022,Central-West,Peru,221
-2022,Central-West,Portugal,51041
-2022,North,Colômbia,435
-2022,North,Estados Unidos Da América,1824
-2022,North,Guiana Francesa,376
-2022,North,Other,4213
-2022,North,Panamá,20082
-2022,North,Portugal,15459
-2022,North,Suriname,13010
-2022,Northeast,Argentina,23759
-2022,Northeast,Espanha,1314
-2022,Northeast,Estados Unidos Da América,4978
-2022,Northeast,França,33290
-2022,Northeast,Other,355
-2022,Northeast,Portugal,234343
-2022,Northeast,Uruguai,3241
-2022,South,Argentina,88752
-2022,South,Chile,38486
-2022,South,Other,1218
-2022,South,Panamá,31705
-2022,South,Peru,9959
-2022,South,Portugal,26337
-2022,South,Uruguai,45093
-2022,Southeast,Argentina,926673
-2022,Southeast,Chile,449063
-2022,Southeast,Espanha,338869
-2022,Southeast,Estados Unidos Da América,1392876
-2022,Southeast,Other,2742636
-2022,Southeast,Panamá,380683
-2022,Southeast,Portugal,649557
-2023,Central-West,Argentina,20811
-2023,Central-West,Chile,0
-2023,Central-West,Estados Unidos Da América,95665
-2023,Central-West,Other,1197
-2023,Central-West,Panamá,49993
-2023,Central-West,Peru,39614
-2023,Central-West,Portugal,68897
-2023,North,Colômbia,14674
-2023,North,Estados Unidos Da América,38313
-2023,North,Guiana Francesa,4171
-2023,North,Other,3070
-2023,North,Panamá,22706
-2023,North,Portugal,24078
-2023,North,Suriname,15029
-2023,Northeast,Argentina,67215
-2023,Northeast,Espanha,29847
-2023,Northeast,Estados Unidos Da América,66155
-2023,Northeast,França,35322
-2023,Northeast,Other,2645
-2023,Northeast,Portugal,287298
-2023,Northeast,Uruguai,16436
-2023,South,Argentina,180498
-2023,South,Chile,141421
-2023,South,Other,1181
-2023,South,Panamá,39576
-2023,South,Peru,18386
-2023,South,Portugal,37803
-2023,South,Uruguai,49656
-2023,Southeast,Argentina,1352860
-2023,Southeast,Chile,850339
-2023,Southeast,Espanha,436777
-2023,Southeast,Estados Unidos Da América,1804342
-2023,Southeast,Other,3601563
-2023,Southeast,Panamá,435085
-2023,Southeast,Portugal,817509
-2024,Central-West,Argentina,22730
-2024,Central-West,Chile,24395
-2024,Central-West,Estados Unidos Da América,123087
-2024,Central-West,Other,1592
-2024,Central-West,Panamá,51490
-2024,Central-West,Peru,53844
-2024,Central-West,Portugal,76197
-2024,North,Colômbia,22149
-2024,North,Estados Unidos Da América,48026
-2024,North,Guiana Francesa,6781
-2024,North,Other,6667
-2024,North,Panamá,26935
-2024,North,Portugal,30610
-2024,North,Suriname,18289
-2024,Northeast,Argentina,113895
-2024,Northeast,Espanha,37112
-2024,Northeast,Estados Unidos Da América,88589
-2024,Northeast,França,58924
-2024,Northeast,Other,19913
-2024,Northeast,Portugal,335773
-2024,Northeast,Uruguai,24741
-2024,South,Argentina,240694
-2024,South,Chile,313072
-2024,South,Other,2749
-2024,South,Panamá,27703
-2024,South,Peru,15566
-2024,South,Portugal,24238
-2024,South,Uruguai,29529
-2024,Southeast,Argentina,1481388
-2024,Southeast,Chile,1238955
-2024,Southeast,Espanha,550277
-2024,Southeast,Estados Unidos Da América,1984337
-2024,Southeast,Other,4189480
-2024,Southeast,Panamá,474622
-2024,Southeast,Portugal,878158
-2025,Central-West,Argentina,29145
-2025,Central-West,Chile,17939
-2025,Central-West,Estados Unidos Da América,85413
-2025,Central-West,Other,23032
-2025,Central-West,Panamá,34709
-2025,Central-West,Peru,28761
-2025,Central-West,Portugal,40401
-2025,North,Colômbia,15313
-2025,North,Estados Unidos Da América,23243
-2025,North,Guiana Francesa,3924
-2025,North,Other,4703
-2025,North,Panamá,19314
-2025,North,Portugal,22249
-2025,North,Suriname,8903
-2025,Northeast,Argentina,99351
-2025,Northeast,Espanha,28913
-2025,Northeast,Estados Unidos Da América,59901
-2025,Northeast,França,51404
-2025,Northeast,Other,24180
-2025,Northeast,Portugal,190997
-2025,Northeast,Uruguai,16349
-2025,South,Argentina,215218
-2025,South,Chile,216203
-2025,South,Other,8439
-2025,South,Panamá,40938
-2025,South,Peru,27197
-2025,South,Portugal,31527
-2025,South,Uruguai,12316
-2025,Southeast,Argentina,1096194
-2025,Southeast,Chile,769143
-2025,Southeast,Espanha,355768
-2025,Southeast,Estados Unidos Da América,1264419
-2025,Southeast,Other,2608427
-2025,Southeast,Panamá,279061
-2025,Southeast,Portugal,520677
+2011,Central-West,Argentina,2438
+2011,Central-West,Estados Unidos Da América,106425
+2011,Central-West,Other,41209
+2011,Central-West,Panamá,10981
+2011,Central-West,Portugal,75350
+2011,Central-West,República Dominicana,142
+2011,North,Estados Unidos Da América,63429
+2011,North,Guiana Francesa,6487
+2011,North,Other,2123
+2011,North,Panamá,17637
+2011,North,Suriname,14971
+2011,North,Venezuela,2753
+2011,Northeast,Alemanha,30052
+2011,Northeast,Argentina,25800
+2011,Northeast,Espanha,51578
+2011,Northeast,Estados Unidos Da América,52634
+2011,Northeast,Other,26724
+2011,Northeast,Portugal,256498
+2011,South,Argentina,213807
+2011,South,Chile,18033
+2011,South,Other,11508
+2011,South,Panamá,11629
+2011,South,Peru,33022
+2011,South,Portugal,25529
+2011,South,Uruguai,106429
+2011,Southeast,Argentina,1192547
+2011,Southeast,Chile,414332
+2011,Southeast,Espanha,380188
+2011,Southeast,Estados Unidos Da América,1790628
+2011,Southeast,França,508648
+2011,Southeast,Other,2824078
+2011,Southeast,Portugal,410112
+2012,Central-West,Argentina,2974
+2012,Central-West,Estados Unidos Da América,125649
+2012,Central-West,França,301
+2012,Central-West,Other,24229
+2012,Central-West,Panamá,30115
+2012,Central-West,Portugal,76756
+2012,Central-West,República Dominicana,0
+2012,North,Estados Unidos Da América,78256
+2012,North,Guiana Francesa,6381
+2012,North,Other,2759
+2012,North,Panamá,20164
+2012,North,Suriname,18167
+2012,North,Venezuela,146
+2012,Northeast,Alemanha,31700
+2012,Northeast,Argentina,424
+2012,Northeast,Espanha,36564
+2012,Northeast,Estados Unidos Da América,49841
+2012,Northeast,Other,35743
+2012,Northeast,Panamá,7794
+2012,Northeast,Portugal,261766
+2012,South,Argentina,210045
+2012,South,Chile,22391
+2012,South,Other,7631
+2012,South,Panamá,34999
+2012,South,Peru,38115
+2012,South,Portugal,43580
+2012,South,Uruguai,95552
+2012,Southeast,Argentina,1227852
+2012,Southeast,Chile,522808
+2012,Southeast,Espanha,367955
+2012,Southeast,Estados Unidos Da América,1960328
+2012,Southeast,França,486472
+2012,Southeast,Other,3064623
+2012,Southeast,Portugal,419446
+2013,Central-West,Argentina,9971
+2013,Central-West,Estados Unidos Da América,136803
+2013,Central-West,França,0
+2013,Central-West,Other,12362
+2013,Central-West,Panamá,41858
+2013,Central-West,Portugal,76016
+2013,Central-West,República Dominicana,0
+2013,North,Estados Unidos Da América,86458
+2013,North,Guiana Francesa,10253
+2013,North,Other,2390
+2013,North,Panamá,20999
+2013,North,Suriname,19083
+2013,North,Venezuela,144
+2013,Northeast,Alemanha,29669
+2013,Northeast,Argentina,12435
+2013,Northeast,Espanha,40184
+2013,Northeast,Estados Unidos Da América,64355
+2013,Northeast,Other,37235
+2013,Northeast,Panamá,16901
+2013,Northeast,Portugal,261311
+2013,South,Argentina,192478
+2013,South,Chile,2053
+2013,South,Other,7431
+2013,South,Panamá,36832
+2013,South,Peru,42297
+2013,South,Portugal,43450
+2013,South,Uruguai,35261
+2013,Southeast,Argentina,1230512
+2013,Southeast,Chile,553110
+2013,Southeast,Espanha,346445
+2013,Southeast,Estados Unidos Da América,2246228
+2013,Southeast,França,483064
+2013,Southeast,Other,3245983
+2013,Southeast,Portugal,412219
+2014,Central-West,Argentina,21711
+2014,Central-West,Estados Unidos Da América,144660
+2014,Central-West,França,25967
+2014,Central-West,Other,2742
+2014,Central-West,Panamá,55417
+2014,Central-West,Portugal,69738
+2014,Central-West,República Dominicana,76
+2014,North,Estados Unidos Da América,100633
+2014,North,Guiana Francesa,8968
+2014,North,Other,4715
+2014,North,Panamá,24290
+2014,North,Portugal,21948
+2014,North,Suriname,15841
+2014,North,Venezuela,2685
+2014,Northeast,Alemanha,29072
+2014,Northeast,Argentina,5622
+2014,Northeast,Espanha,40629
+2014,Northeast,Estados Unidos Da América,68884
+2014,Northeast,Other,45187
+2014,Northeast,Panamá,19293
+2014,Northeast,Portugal,263768
+2014,South,Argentina,189905
+2014,South,Chile,4771
+2014,South,Other,57951
+2014,South,Panamá,45260
+2014,South,Peru,70346
+2014,South,Portugal,48016
+2014,South,Uruguai,38529
+2014,Southeast,Argentina,1251844
+2014,Southeast,Chile,597435
+2014,Southeast,Espanha,416389
+2014,Southeast,Estados Unidos Da América,2372681
+2014,Southeast,França,467650
+2014,Southeast,Other,3490087
+2014,Southeast,Portugal,405111
+2015,Central-West,Argentina,39631
+2015,Central-West,Estados Unidos Da América,160398
+2015,Central-West,França,32181
+2015,Central-West,Other,8367
+2015,Central-West,Panamá,53839
+2015,Central-West,Portugal,62212
+2015,Central-West,República Dominicana,2750
+2015,North,Estados Unidos Da América,76287
+2015,North,Guiana Francesa,7171
+2015,North,Other,8335
+2015,North,Panamá,23062
+2015,North,Portugal,34138
+2015,North,Suriname,16149
+2015,North,Venezuela,10203
+2015,Northeast,Alemanha,32202
+2015,Northeast,Argentina,71990
+2015,Northeast,Espanha,32543
+2015,Northeast,Estados Unidos Da América,68077
+2015,Northeast,Other,25829
+2015,Northeast,Panamá,18039
+2015,Northeast,Portugal,251941
+2015,South,Argentina,188596
+2015,South,Chile,13645
+2015,South,Other,51914
+2015,South,Panamá,41356
+2015,South,Peru,68118
+2015,South,Portugal,45917
+2015,South,Uruguai,20733
+2015,Southeast,Argentina,1257656
+2015,Southeast,Chile,692928
+2015,Southeast,Espanha,452740
+2015,Southeast,Estados Unidos Da América,2372274
+2015,Southeast,França,459394
+2015,Southeast,Other,3475725
+2015,Southeast,Portugal,395736
+2016,Central-West,Argentina,56278
+2016,Central-West,Estados Unidos Da América,99081
+2016,Central-West,França,20027
+2016,Central-West,Other,6495
+2016,Central-West,Panamá,43989
+2016,Central-West,Portugal,57300
+2016,Central-West,República Dominicana,19525
+2016,North,Estados Unidos Da América,51193
+2016,North,Guiana Francesa,13401
+2016,North,Other,15038
+2016,North,Panamá,15857
+2016,North,Portugal,23132
+2016,North,Suriname,19933
+2016,North,Venezuela,6257
+2016,Northeast,Alemanha,31664
+2016,Northeast,Argentina,101016
+2016,Northeast,Espanha,28739
+2016,Northeast,Estados Unidos Da América,33460
+2016,Northeast,Other,32620
+2016,Northeast,Panamá,12457
+2016,Northeast,Portugal,217997
+2016,South,Argentina,142454
+2016,South,Chile,11803
+2016,South,Other,8840
+2016,South,Panamá,41259
+2016,South,Peru,65576
+2016,South,Portugal,34280
+2016,South,Uruguai,16606
+2016,Southeast,Argentina,1430846
+2016,Southeast,Chile,744281
+2016,Southeast,Espanha,467866
+2016,Southeast,Estados Unidos Da América,2066305
+2016,Southeast,França,437313
+2016,Southeast,Other,3436763
+2016,Southeast,Portugal,395058
+2017,Central-West,Argentina,55100
+2017,Central-West,Estados Unidos Da América,47386
+2017,Central-West,Other,6224
+2017,Central-West,Panamá,54567
+2017,Central-West,Portugal,62656
+2017,Central-West,República Dominicana,1737
+2017,North,Estados Unidos Da América,46239
+2017,North,Guiana Francesa,8731
+2017,North,Other,8987
+2017,North,Panamá,15936
+2017,North,Portugal,23829
+2017,North,Suriname,15709
+2017,North,Venezuela,1986
+2017,Northeast,Alemanha,27636
+2017,Northeast,Argentina,141921
+2017,Northeast,Espanha,32794
+2017,Northeast,Estados Unidos Da América,49440
+2017,Northeast,Other,41617
+2017,Northeast,Panamá,10752
+2017,Northeast,Portugal,252842
+2017,South,Argentina,169949
+2017,South,Chile,23322
+2017,South,Other,1926
+2017,South,Panamá,46206
+2017,South,Peru,70538
+2017,South,Portugal,38605
+2017,South,Uruguai,39017
+2017,Southeast,Argentina,1544760
+2017,Southeast,Chile,834702
+2017,Southeast,Espanha,429943
+2017,Southeast,Estados Unidos Da América,2091054
+2017,Southeast,França,419930
+2017,Southeast,Other,3598424
+2017,Southeast,Portugal,479032
+2018,Central-West,Argentina,43934
+2018,Central-West,Estados Unidos Da América,62364
+2018,Central-West,Other,5510
+2018,Central-West,Panamá,47964
+2018,Central-West,Portugal,70834
+2018,Central-West,República Dominicana,11202
+2018,North,Estados Unidos Da América,70721
+2018,North,Guiana Francesa,5504
+2018,North,Other,5317
+2018,North,Panamá,14934
+2018,North,Portugal,24336
+2018,North,Suriname,15404
+2018,North,Venezuela,12059
+2018,Northeast,Alemanha,30419
+2018,Northeast,Argentina,171321
+2018,Northeast,Espanha,58716
+2018,Northeast,Estados Unidos Da América,115997
+2018,Northeast,Other,81034
+2018,Northeast,Panamá,17588
+2018,Northeast,Portugal,274386
+2018,South,Argentina,258230
+2018,South,Chile,28231
+2018,South,Other,6255
+2018,South,Panamá,53548
+2018,South,Peru,72325
+2018,South,Portugal,41506
+2018,South,Uruguai,51244
+2018,Southeast,Argentina,1524496
+2018,Southeast,Chile,1007293
+2018,Southeast,Espanha,459043
+2018,Southeast,Estados Unidos Da América,2301494
+2018,Southeast,França,446473
+2018,Southeast,Other,3836084
+2018,Southeast,Portugal,551420
+2019,Central-West,Argentina,53839
+2019,Central-West,Estados Unidos Da América,136808
+2019,Central-West,Other,17833
+2019,Central-West,Panamá,46649
+2019,Central-West,Portugal,66558
+2019,Central-West,República Dominicana,4826
+2019,North,Estados Unidos Da América,75072
+2019,North,Guiana Francesa,4110
+2019,North,Other,4711
+2019,North,Panamá,13771
+2019,North,Portugal,24697
+2019,North,Suriname,17604
+2019,North,Venezuela,4994
+2019,Northeast,Alemanha,15927
+2019,Northeast,Argentina,154399
+2019,Northeast,Espanha,68006
+2019,Northeast,Estados Unidos Da América,151052
+2019,Northeast,Other,130253
+2019,Northeast,Panamá,21306
+2019,Northeast,Portugal,274580
+2019,South,Argentina,203474
+2019,South,Chile,49659
+2019,South,Other,5378
+2019,South,Panamá,47449
+2019,South,Peru,73378
+2019,South,Portugal,38832
+2019,South,Uruguai,43493
+2019,Southeast,Argentina,1502174
+2019,Southeast,Chile,949920
+2019,Southeast,Espanha,495289
+2019,Southeast,Estados Unidos Da América,2052414
+2019,Southeast,França,462396
+2019,Southeast,Other,3936877
+2019,Southeast,Portugal,694688
+2020,Central-West,Argentina,9710
+2020,Central-West,Estados Unidos Da América,31693
+2020,Central-West,Other,17119
+2020,Central-West,Panamá,11816
+2020,Central-West,Portugal,19832
+2020,Central-West,República Dominicana,0
+2020,North,Estados Unidos Da América,17816
+2020,North,Guiana Francesa,640
+2020,North,Other,689
+2020,North,Panamá,3587
+2020,North,Portugal,4422
+2020,North,Suriname,6753
+2020,North,Venezuela,828
+2020,Northeast,Alemanha,0
+2020,Northeast,Argentina,35970
+2020,Northeast,Espanha,17561
+2020,Northeast,Estados Unidos Da América,33976
+2020,Northeast,Other,40719
+2020,Northeast,Panamá,5015
+2020,Northeast,Portugal,82038
+2020,South,Argentina,70105
+2020,South,Chile,28793
+2020,South,Other,3708
+2020,South,Panamá,10580
+2020,South,Peru,20301
+2020,South,Portugal,6661
+2020,South,Uruguai,14784
+2020,Southeast,Argentina,360913
+2020,Southeast,Chile,236290
+2020,Southeast,Espanha,146464
+2020,Southeast,Estados Unidos Da América,657543
+2020,Southeast,França,136005
+2020,Southeast,Other,1202292
+2020,Southeast,Portugal,264953
