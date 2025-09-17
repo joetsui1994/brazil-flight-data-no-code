@@ -1,0 +1,17 @@
+# Raw ANAC JSON extractions (large files kept out of git)
+data/raw/
+!data/raw/.gitkeep
+Dados_Estatisticos_*.json
+Dados_Estatisticos_*.json.tar.gz
+
+# Generated figures are reproduced by the notebook and should not be tracked
+figures/*
+!figures/.gitkeep
+
+# Python cache and notebook checkpoints
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/

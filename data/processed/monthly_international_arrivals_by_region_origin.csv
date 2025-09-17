@@ -1,0 +1,4470 @@
+year_month,year,month,destination_region,origin_country,passengers_total
+2021-01-01,2021,1,Central-West,Panamá,1445
+2021-01-01,2021,1,Central-West,Portugal,1272
+2021-01-01,2021,1,North,Estados Unidos Da América,259
+2021-01-01,2021,1,North,Guiana,13
+2021-01-01,2021,1,North,Haiti,0
+2021-01-01,2021,1,North,Panamá,86
+2021-01-01,2021,1,North,Suriname,300
+2021-01-01,2021,1,North,Venezuela,0
+2021-01-01,2021,1,Northeast,Alemanha,0
+2021-01-01,2021,1,Northeast,Argentina,302
+2021-01-01,2021,1,Northeast,Chile,0
+2021-01-01,2021,1,Northeast,Colômbia,0
+2021-01-01,2021,1,Northeast,Espanha,693
+2021-01-01,2021,1,Northeast,Estados Unidos Da América,0
+2021-01-01,2021,1,Northeast,França,192
+2021-01-01,2021,1,Northeast,Ilhas Canárias,0
+2021-01-01,2021,1,Northeast,Itália,0
+2021-01-01,2021,1,Northeast,Portugal,4965
+2021-01-01,2021,1,South,Alemanha,0
+2021-01-01,2021,1,South,Argentina,1062
+2021-01-01,2021,1,South,Chile,1103
+2021-01-01,2021,1,South,Colômbia,0
+2021-01-01,2021,1,South,Estados Unidos Da América,0
+2021-01-01,2021,1,South,Luxemburgo,0
+2021-01-01,2021,1,South,Paraguai,70
+2021-01-01,2021,1,South,Portugal,0
+2021-01-01,2021,1,Southeast,Alemanha,10025
+2021-01-01,2021,1,Southeast,Angola,914
+2021-01-01,2021,1,Southeast,Argentina,11634
+2021-01-01,2021,1,Southeast,Austrália,0
+2021-01-01,2021,1,Southeast,Bolívia,5768
+2021-01-01,2021,1,Southeast,Cabo Verde,0
+2021-01-01,2021,1,Southeast,Camarões,104
+2021-01-01,2021,1,Southeast,Canadá,1776
+2021-01-01,2021,1,Southeast,Chile,11735
+2021-01-01,2021,1,Southeast,Colômbia,5081
+2021-01-01,2021,1,Southeast,Coreia Do Sul,0
+2021-01-01,2021,1,Southeast,Costa Rica,0
+2021-01-01,2021,1,Southeast,Emirados Árabes Unidos,3852
+2021-01-01,2021,1,Southeast,Espanha,12587
+2021-01-01,2021,1,Southeast,Estados Unidos Da América,22952
+2021-01-01,2021,1,Southeast,Etiópia,1273
+2021-01-01,2021,1,Southeast,França,8360
+2021-01-01,2021,1,Southeast,Gana,0
+2021-01-01,2021,1,Southeast,Haiti,136
+2021-01-01,2021,1,Southeast,Holanda,4666
+2021-01-01,2021,1,Southeast,Ilhas Feroé,0
+2021-01-01,2021,1,Southeast,Itália,271
+2021-01-01,2021,1,Southeast,Luxemburgo,0
+2021-01-01,2021,1,Southeast,México,7070
+2021-01-01,2021,1,Southeast,Nigéria,0
+2021-01-01,2021,1,Southeast,Panamá,13652
+2021-01-01,2021,1,Southeast,Paraguai,1640
+2021-01-01,2021,1,Southeast,Peru,5554
+2021-01-01,2021,1,Southeast,Porto Rico,0
+2021-01-01,2021,1,Southeast,Portugal,16090
+2021-01-01,2021,1,Southeast,Qatar,4964
+2021-01-01,2021,1,Southeast,Senegal,0
+2021-01-01,2021,1,Southeast,Suíça,2265
+2021-01-01,2021,1,Southeast,Turquia,1979
+2021-01-01,2021,1,Southeast,Uruguai,1148
+2021-02-01,2021,2,Central-West,Panamá,680
+2021-02-01,2021,2,Central-West,Portugal,0
+2021-02-01,2021,2,North,Colômbia,0
+2021-02-01,2021,2,North,Estados Unidos Da América,139
+2021-02-01,2021,2,North,Guatemala,0
+2021-02-01,2021,2,North,Haiti,0
+2021-02-01,2021,2,North,Suriname,191
+2021-02-01,2021,2,Northeast,Alemanha,0
+2021-02-01,2021,2,Northeast,Colômbia,0
+2021-02-01,2021,2,Northeast,Espanha,144
+2021-02-01,2021,2,Northeast,Estados Unidos Da América,0
+2021-02-01,2021,2,Northeast,Holanda,0
+2021-02-01,2021,2,Northeast,Itália,0
+2021-02-01,2021,2,Northeast,Portugal,0
+2021-02-01,2021,2,South,Alemanha,0
+2021-02-01,2021,2,South,Argentina,720
+2021-02-01,2021,2,South,Chile,1122
+2021-02-01,2021,2,South,Estados Unidos Da América,0
+2021-02-01,2021,2,South,Itália,0
+2021-02-01,2021,2,South,Luxemburgo,0
+2021-02-01,2021,2,Southeast,Alemanha,6259
+2021-02-01,2021,2,Southeast,Angola,151
+2021-02-01,2021,2,Southeast,Argentina,6434
+2021-02-01,2021,2,Southeast,Bolívia,5019
+2021-02-01,2021,2,Southeast,Bélgica,0
+2021-02-01,2021,2,Southeast,Cabo Verde,0
+2021-02-01,2021,2,Southeast,Canadá,770
+2021-02-01,2021,2,Southeast,Chile,11008
+2021-02-01,2021,2,Southeast,China,0
+2021-02-01,2021,2,Southeast,Colômbia,0
+2021-02-01,2021,2,Southeast,Coreia Do Sul,0
+2021-02-01,2021,2,Southeast,Emirados Árabes Unidos,1858
+2021-02-01,2021,2,Southeast,Espanha,7830
+2021-02-01,2021,2,Southeast,Estados Unidos Da América,18869
+2021-02-01,2021,2,Southeast,Etiópia,1343
+2021-02-01,2021,2,Southeast,França,5233
+2021-02-01,2021,2,Southeast,Gana,0
+2021-02-01,2021,2,Southeast,Holanda,2766
+2021-02-01,2021,2,Southeast,Ilhas Feroé,0
+2021-02-01,2021,2,Southeast,Itália,0
+2021-02-01,2021,2,Southeast,Luxemburgo,0
+2021-02-01,2021,2,Southeast,México,4484
+2021-02-01,2021,2,Southeast,Nigéria,0
+2021-02-01,2021,2,Southeast,Panamá,9051
+2021-02-01,2021,2,Southeast,Paraguai,1454
+2021-02-01,2021,2,Southeast,Peru,0
+2021-02-01,2021,2,Southeast,Porto Rico,0
+2021-02-01,2021,2,Southeast,Portugal,298
+2021-02-01,2021,2,Southeast,Qatar,4670
+2021-02-01,2021,2,Southeast,Senegal,0
+2021-02-01,2021,2,Southeast,Suíça,1658
+2021-02-01,2021,2,Southeast,Turquia,1423
+2021-02-01,2021,2,Southeast,Uruguai,992
+2021-02-01,2021,2,Southeast,Venezuela,0
+2021-03-01,2021,3,Central-West,Estados Unidos Da América,0
+2021-03-01,2021,3,Central-West,Holanda,0
+2021-03-01,2021,3,Central-West,Panamá,466
+2021-03-01,2021,3,Central-West,Portugal,0
+2021-03-01,2021,3,North,Colômbia,0
+2021-03-01,2021,3,North,Equador,0
+2021-03-01,2021,3,North,Estados Unidos Da América,183
+2021-03-01,2021,3,North,Haiti,0
+2021-03-01,2021,3,North,Suriname,148
+2021-03-01,2021,3,North,Venezuela,0
+2021-03-01,2021,3,Northeast,Alemanha,0
+2021-03-01,2021,3,Northeast,Colômbia,0
+2021-03-01,2021,3,Northeast,Estados Unidos Da América,0
+2021-03-01,2021,3,Northeast,Itália,0
+2021-03-01,2021,3,Northeast,Portugal,0
+2021-03-01,2021,3,South,Alemanha,0
+2021-03-01,2021,3,South,Argentina,388
+2021-03-01,2021,3,South,Chile,72
+2021-03-01,2021,3,South,Equador,45
+2021-03-01,2021,3,South,Estados Unidos Da América,0
+2021-03-01,2021,3,South,Luxemburgo,0
+2021-03-01,2021,3,South,Panamá,294
+2021-03-01,2021,3,South,Peru,35
+2021-03-01,2021,3,Southeast,Alemanha,5250
+2021-03-01,2021,3,Southeast,Angola,0
+2021-03-01,2021,3,Southeast,Argentina,4818
+2021-03-01,2021,3,Southeast,Bolívia,2702
+2021-03-01,2021,3,Southeast,Bélgica,0
+2021-03-01,2021,3,Southeast,Cabo Verde,0
+2021-03-01,2021,3,Southeast,Canadá,0
+2021-03-01,2021,3,Southeast,Chile,6498
+2021-03-01,2021,3,Southeast,Colômbia,0
+2021-03-01,2021,3,Southeast,Coreia Do Sul,0
+2021-03-01,2021,3,Southeast,Emirados Árabes Unidos,2086
+2021-03-01,2021,3,Southeast,Espanha,6735
+2021-03-01,2021,3,Southeast,Estados Unidos Da América,17514
+2021-03-01,2021,3,Southeast,Etiópia,1741
+2021-03-01,2021,3,Southeast,França,4278
+2021-03-01,2021,3,Southeast,Gabão,0
+2021-03-01,2021,3,Southeast,Gana,0
+2021-03-01,2021,3,Southeast,Guiana,0
+2021-03-01,2021,3,Southeast,Haiti,30
+2021-03-01,2021,3,Southeast,Holanda,2987
+2021-03-01,2021,3,Southeast,Ilhas Feroé,0
+2021-03-01,2021,3,Southeast,Itália,0
+2021-03-01,2021,3,Southeast,Luxemburgo,0
+2021-03-01,2021,3,Southeast,Macau,0
+2021-03-01,2021,3,Southeast,México,4281
+2021-03-01,2021,3,Southeast,Nigéria,0
+2021-03-01,2021,3,Southeast,Panamá,9054
+2021-03-01,2021,3,Southeast,Paraguai,1422
+2021-03-01,2021,3,Southeast,Peru,0
+2021-03-01,2021,3,Southeast,Porto Rico,0
+2021-03-01,2021,3,Southeast,Portugal,999
+2021-03-01,2021,3,Southeast,Qatar,4808
+2021-03-01,2021,3,Southeast,Quênia,0
+2021-03-01,2021,3,Southeast,Reino Unido,0
+2021-03-01,2021,3,Southeast,Senegal,0
+2021-03-01,2021,3,Southeast,Sri Lanka,0
+2021-03-01,2021,3,Southeast,Suriname,0
+2021-03-01,2021,3,Southeast,Suíça,1235
+2021-03-01,2021,3,Southeast,Turquia,1296
+2021-03-01,2021,3,Southeast,Uruguai,915
+2021-03-01,2021,3,Southeast,Venezuela,91
+2021-04-01,2021,4,Central-West,Argentina,162
+2021-04-01,2021,4,Central-West,Chile,45
+2021-04-01,2021,4,Central-West,Holanda,0
+2021-04-01,2021,4,Central-West,Panamá,709
+2021-04-01,2021,4,Central-West,Portugal,284
+2021-04-01,2021,4,North,Colômbia,0
+2021-04-01,2021,4,North,Equador,0
+2021-04-01,2021,4,North,Estados Unidos Da América,94
+2021-04-01,2021,4,North,Haiti,164
+2021-04-01,2021,4,North,Nicarágua,0
+2021-04-01,2021,4,North,Suriname,91
+2021-04-01,2021,4,North,Venezuela,0
+2021-04-01,2021,4,Northeast,Alemanha,0
+2021-04-01,2021,4,Northeast,Argentina,54
+2021-04-01,2021,4,Northeast,Bolívia,46
+2021-04-01,2021,4,Northeast,Colômbia,0
+2021-04-01,2021,4,Northeast,Estados Unidos Da América,0
+2021-04-01,2021,4,Northeast,Gana,0
+2021-04-01,2021,4,Northeast,Macau,0
+2021-04-01,2021,4,Northeast,Portugal,1211
+2021-04-01,2021,4,Northeast,Quênia,0
+2021-04-01,2021,4,Northeast,Sri Lanka,0
+2021-04-01,2021,4,Northeast,Uruguai,42
+2021-04-01,2021,4,South,Alemanha,0
+2021-04-01,2021,4,South,Argentina,96
+2021-04-01,2021,4,South,Bolívia,0
+2021-04-01,2021,4,South,Chile,0
+2021-04-01,2021,4,South,Colômbia,30
+2021-04-01,2021,4,South,Equador,48
+2021-04-01,2021,4,South,Estados Unidos Da América,0
+2021-04-01,2021,4,South,Luxemburgo,0
+2021-04-01,2021,4,South,Panamá,737
+2021-04-01,2021,4,South,Paraguai,92
+2021-04-01,2021,4,South,Peru,0
+2021-04-01,2021,4,South,Uruguai,0
+2021-04-01,2021,4,South,Venezuela,85
+2021-04-01,2021,4,Southeast,Alemanha,3635
+2021-04-01,2021,4,Southeast,Argentina,1365
+2021-04-01,2021,4,Southeast,Bolívia,1808
+2021-04-01,2021,4,Southeast,Bélgica,0
+2021-04-01,2021,4,Southeast,Cabo Verde,0
+2021-04-01,2021,4,Southeast,Canadá,0
+2021-04-01,2021,4,Southeast,Chile,1516
+2021-04-01,2021,4,Southeast,Colômbia,138
+2021-04-01,2021,4,Southeast,Coreia Do Sul,0
+2021-04-01,2021,4,Southeast,Emirados Árabes Unidos,1708
+2021-04-01,2021,4,Southeast,Equador,172
+2021-04-01,2021,4,Southeast,Espanha,4324
+2021-04-01,2021,4,Southeast,Estados Unidos Da América,17297
+2021-04-01,2021,4,Southeast,Etiópia,1626
+2021-04-01,2021,4,Southeast,França,2407
+2021-04-01,2021,4,Southeast,Gana,0
+2021-04-01,2021,4,Southeast,Haiti,150
+2021-04-01,2021,4,Southeast,Holanda,2575
+2021-04-01,2021,4,Southeast,Itália,0
+2021-04-01,2021,4,Southeast,Luxemburgo,0
+2021-04-01,2021,4,Southeast,Macau,0
+2021-04-01,2021,4,Southeast,México,4561
+2021-04-01,2021,4,Southeast,Nigéria,0
+2021-04-01,2021,4,Southeast,Panamá,8268
+2021-04-01,2021,4,Southeast,Paraguai,1052
+2021-04-01,2021,4,Southeast,Peru,54
+2021-04-01,2021,4,Southeast,Porto Rico,0
+2021-04-01,2021,4,Southeast,Portugal,3876
+2021-04-01,2021,4,Southeast,Qatar,4412
+2021-04-01,2021,4,Southeast,Quirguistão,0
+2021-04-01,2021,4,Southeast,Quênia,0
+2021-04-01,2021,4,Southeast,Reino Unido,0
+2021-04-01,2021,4,Southeast,Senegal,0
+2021-04-01,2021,4,Southeast,Sri Lanka,0
+2021-04-01,2021,4,Southeast,Suíça,1285
+2021-04-01,2021,4,Southeast,Turquia,1101
+2021-04-01,2021,4,Southeast,Uruguai,1030
+2021-04-01,2021,4,Southeast,Venezuela,50
+2021-05-01,2021,5,Central-West,Argentina,44
+2021-05-01,2021,5,Central-West,Bolívia,49
+2021-05-01,2021,5,Central-West,Chile,37
+2021-05-01,2021,5,Central-West,Panamá,1016
+2021-05-01,2021,5,Central-West,Paraguai,91
+2021-05-01,2021,5,Central-West,Peru,0
+2021-05-01,2021,5,Central-West,Portugal,491
+2021-05-01,2021,5,Central-West,República Tcheca,0
+2021-05-01,2021,5,North,Colômbia,0
+2021-05-01,2021,5,North,Equador,34
+2021-05-01,2021,5,North,Estados Unidos Da América,0
+2021-05-01,2021,5,North,Haiti,44
+2021-05-01,2021,5,North,México,0
+2021-05-01,2021,5,North,Suriname,115
+2021-05-01,2021,5,North,Venezuela,44
+2021-05-01,2021,5,Northeast,Alemanha,0
+2021-05-01,2021,5,Northeast,Argentina,221
+2021-05-01,2021,5,Northeast,Bahrein,0
+2021-05-01,2021,5,Northeast,Bolívia,208
+2021-05-01,2021,5,Northeast,Colômbia,0
+2021-05-01,2021,5,Northeast,Costa Do Marfim,0
+2021-05-01,2021,5,Northeast,Equador,53
+2021-05-01,2021,5,Northeast,Estados Unidos Da América,0
+2021-05-01,2021,5,Northeast,Gana,0
+2021-05-01,2021,5,Northeast,Ilhas Canárias,0
+2021-05-01,2021,5,Northeast,Itália,0
+2021-05-01,2021,5,Northeast,Macau,0
+2021-05-01,2021,5,Northeast,México,0
+2021-05-01,2021,5,Northeast,Portugal,2147
+2021-05-01,2021,5,Northeast,Quênia,0
+2021-05-01,2021,5,Northeast,Sri Lanka,0
+2021-05-01,2021,5,Northeast,Sudão,0
+2021-05-01,2021,5,Northeast,Uruguai,43
+2021-05-01,2021,5,Northeast,Índia,0
+2021-05-01,2021,5,South,Alemanha,0
+2021-05-01,2021,5,South,Argentina,40
+2021-05-01,2021,5,South,Bolívia,98
+2021-05-01,2021,5,South,Chile,0
+2021-05-01,2021,5,South,Colômbia,0
+2021-05-01,2021,5,South,Equador,33
+2021-05-01,2021,5,South,Estados Unidos Da América,0
+2021-05-01,2021,5,South,Luxemburgo,0
+2021-05-01,2021,5,South,Panamá,1052
+2021-05-01,2021,5,South,Paraguai,100
+2021-05-01,2021,5,South,Peru,84
+2021-05-01,2021,5,South,Portugal,0
+2021-05-01,2021,5,South,Uruguai,0
+2021-05-01,2021,5,South,Venezuela,139
+2021-05-01,2021,5,Southeast,Alemanha,3534
+2021-05-01,2021,5,Southeast,Argentina,2008
+2021-05-01,2021,5,Southeast,Arábia Saudita,0
+2021-05-01,2021,5,Southeast,Bahrein,0
+2021-05-01,2021,5,Southeast,Bolívia,2490
+2021-05-01,2021,5,Southeast,Bélgica,0
+2021-05-01,2021,5,Southeast,Cabo Verde,0
+2021-05-01,2021,5,Southeast,Canadá,0
+2021-05-01,2021,5,Southeast,Chile,1060
+2021-05-01,2021,5,Southeast,China,0
+2021-05-01,2021,5,Southeast,Colômbia,127
+2021-05-01,2021,5,Southeast,Coreia Do Sul,0
+2021-05-01,2021,5,Southeast,Costa Do Marfim,0
+2021-05-01,2021,5,Southeast,Emirados Árabes Unidos,1737
+2021-05-01,2021,5,Southeast,Equador,164
+2021-05-01,2021,5,Southeast,Espanha,3560
+2021-05-01,2021,5,Southeast,Estados Unidos Da América,28937
+2021-05-01,2021,5,Southeast,Etiópia,1492
+2021-05-01,2021,5,Southeast,França,2024
+2021-05-01,2021,5,Southeast,Gana,0
+2021-05-01,2021,5,Southeast,Guiana,0
+2021-05-01,2021,5,Southeast,Guiné,0
+2021-05-01,2021,5,Southeast,Haiti,146
+2021-05-01,2021,5,Southeast,Holanda,2658
+2021-05-01,2021,5,Southeast,Itália,0
+2021-05-01,2021,5,Southeast,Luxemburgo,0
+2021-05-01,2021,5,Southeast,Macau,0
+2021-05-01,2021,5,Southeast,México,5177
+2021-05-01,2021,5,Southeast,Nigéria,0
+2021-05-01,2021,5,Southeast,Panamá,10798
+2021-05-01,2021,5,Southeast,Paraguai,1105
+2021-05-01,2021,5,Southeast,Peru,117
+2021-05-01,2021,5,Southeast,Porto Rico,0
+2021-05-01,2021,5,Southeast,Portugal,8163
+2021-05-01,2021,5,Southeast,Qatar,5100
+2021-05-01,2021,5,Southeast,Quirguistão,0
+2021-05-01,2021,5,Southeast,Quênia,0
+2021-05-01,2021,5,Southeast,Reino Unido,0
+2021-05-01,2021,5,Southeast,República Dominicana,0
+2021-05-01,2021,5,Southeast,Senegal,0
+2021-05-01,2021,5,Southeast,Sri Lanka,0
+2021-05-01,2021,5,Southeast,Sudão,0
+2021-05-01,2021,5,Southeast,Suriname,0
+2021-05-01,2021,5,Southeast,Suíça,1241
+2021-05-01,2021,5,Southeast,Turquia,1245
+2021-05-01,2021,5,Southeast,Uruguai,1240
+2021-05-01,2021,5,Southeast,Venezuela,92
+2021-05-01,2021,5,Southeast,Índia,0
+2021-06-01,2021,6,Central-West,Argentina,141
+2021-06-01,2021,6,Central-West,Bolívia,86
+2021-06-01,2021,6,Central-West,Chile,0
+2021-06-01,2021,6,Central-West,Colômbia,66
+2021-06-01,2021,6,Central-West,Equador,54
+2021-06-01,2021,6,Central-West,Holanda,0
+2021-06-01,2021,6,Central-West,Panamá,1116
+2021-06-01,2021,6,Central-West,Paraguai,125
+2021-06-01,2021,6,Central-West,Portugal,838
+2021-06-01,2021,6,Central-West,Uruguai,56
+2021-06-01,2021,6,Central-West,Venezuela,15
+2021-06-01,2021,6,North,Equador,0
+2021-06-01,2021,6,North,Espanha,0
+2021-06-01,2021,6,North,Estados Unidos Da América,130
+2021-06-01,2021,6,North,Guatemala,0
+2021-06-01,2021,6,North,Haiti,3
+2021-06-01,2021,6,North,Suriname,0
+2021-06-01,2021,6,North,Venezuela,51
+2021-06-01,2021,6,Northeast,Alemanha,0
+2021-06-01,2021,6,Northeast,Cabo Verde,0
+2021-06-01,2021,6,Northeast,Chile,0
+2021-06-01,2021,6,Northeast,Colômbia,0
+2021-06-01,2021,6,Northeast,Estados Unidos Da América,0
+2021-06-01,2021,6,Northeast,França,213
+2021-06-01,2021,6,Northeast,Portugal,3331
+2021-06-01,2021,6,South,Alemanha,0
+2021-06-01,2021,6,South,Equador,53
+2021-06-01,2021,6,South,Estados Unidos Da América,0
+2021-06-01,2021,6,South,Luxemburgo,0
+2021-06-01,2021,6,South,Panamá,1156
+2021-06-01,2021,6,South,Paraguai,68
+2021-06-01,2021,6,Southeast,Alemanha,3919
+2021-06-01,2021,6,Southeast,Angola,0
+2021-06-01,2021,6,Southeast,Argentina,1201
+2021-06-01,2021,6,Southeast,Arábia Saudita,0
+2021-06-01,2021,6,Southeast,Bolívia,2434
+2021-06-01,2021,6,Southeast,Bélgica,0
+2021-06-01,2021,6,Southeast,Cabo Verde,0
+2021-06-01,2021,6,Southeast,Canadá,0
+2021-06-01,2021,6,Southeast,Chile,1292
+2021-06-01,2021,6,Southeast,China,0
+2021-06-01,2021,6,Southeast,Colômbia,0
+2021-06-01,2021,6,Southeast,Coreia Do Sul,0
+2021-06-01,2021,6,Southeast,Emirados Árabes Unidos,1962
+2021-06-01,2021,6,Southeast,Equador,0
+2021-06-01,2021,6,Southeast,Espanha,5731
+2021-06-01,2021,6,Southeast,Estados Unidos Da América,40836
+2021-06-01,2021,6,Southeast,Etiópia,1551
+2021-06-01,2021,6,Southeast,França,3548
+2021-06-01,2021,6,Southeast,Gana,0
+2021-06-01,2021,6,Southeast,Guiana,0
+2021-06-01,2021,6,Southeast,Guiné,0
+2021-06-01,2021,6,Southeast,Haiti,166
+2021-06-01,2021,6,Southeast,Holanda,3269
+2021-06-01,2021,6,Southeast,Itália,0
+2021-06-01,2021,6,Southeast,Luxemburgo,0
+2021-06-01,2021,6,Southeast,Macau,0
+2021-06-01,2021,6,Southeast,Marrocos,0
+2021-06-01,2021,6,Southeast,México,5237
+2021-06-01,2021,6,Southeast,Nigéria,0
+2021-06-01,2021,6,Southeast,Panamá,14622
+2021-06-01,2021,6,Southeast,Paraguai,1697
+2021-06-01,2021,6,Southeast,Peru,64
+2021-06-01,2021,6,Southeast,Porto Rico,0
+2021-06-01,2021,6,Southeast,Portugal,11825
+2021-06-01,2021,6,Southeast,Qatar,6091
+2021-06-01,2021,6,Southeast,Reino Unido,0
+2021-06-01,2021,6,Southeast,Senegal,0
+2021-06-01,2021,6,Southeast,Sri Lanka,0
+2021-06-01,2021,6,Southeast,Suíça,1876
+2021-06-01,2021,6,Southeast,Turquia,1325
+2021-06-01,2021,6,Southeast,Uruguai,1086
+2021-06-01,2021,6,Southeast,Venezuela,0
+2021-07-01,2021,7,Central-West,Argentina,71
+2021-07-01,2021,7,Central-West,Colômbia,0
+2021-07-01,2021,7,Central-West,Estados Unidos Da América,206
+2021-07-01,2021,7,Central-West,Holanda,0
+2021-07-01,2021,7,Central-West,Panamá,1815
+2021-07-01,2021,7,Central-West,Peru,0
+2021-07-01,2021,7,Central-West,Portugal,1704
+2021-07-01,2021,7,North,Argentina,0
+2021-07-01,2021,7,North,Arábia Saudita,0
+2021-07-01,2021,7,North,Colômbia,49
+2021-07-01,2021,7,North,Equador,51
+2021-07-01,2021,7,North,Estados Unidos Da América,0
+2021-07-01,2021,7,North,Guatemala,0
+2021-07-01,2021,7,North,Guiné,0
+2021-07-01,2021,7,North,Haiti,1
+2021-07-01,2021,7,North,México,0
+2021-07-01,2021,7,North,Sri Lanka,0
+2021-07-01,2021,7,North,Suriname,80
+2021-07-01,2021,7,North,Vietnã,0
+2021-07-01,2021,7,Northeast,Alemanha,0
+2021-07-01,2021,7,Northeast,Chile,0
+2021-07-01,2021,7,Northeast,Colômbia,0
+2021-07-01,2021,7,Northeast,Equador,0
+2021-07-01,2021,7,Northeast,Estados Unidos Da América,0
+2021-07-01,2021,7,Northeast,México,0
+2021-07-01,2021,7,Northeast,Portugal,5834
+2021-07-01,2021,7,South,Alemanha,0
+2021-07-01,2021,7,South,Equador,50
+2021-07-01,2021,7,South,Estados Unidos Da América,0
+2021-07-01,2021,7,South,Haiti,0
+2021-07-01,2021,7,South,Luxemburgo,0
+2021-07-01,2021,7,South,Panamá,1648
+2021-07-01,2021,7,South,Paraguai,49
+2021-07-01,2021,7,South,Uruguai,0
+2021-07-01,2021,7,Southeast,Alemanha,8165
+2021-07-01,2021,7,Southeast,Angola,0
+2021-07-01,2021,7,Southeast,Argentina,419
+2021-07-01,2021,7,Southeast,Arábia Saudita,0
+2021-07-01,2021,7,Southeast,Bolívia,3206
+2021-07-01,2021,7,Southeast,Bélgica,0
+2021-07-01,2021,7,Southeast,Cabo Verde,0
+2021-07-01,2021,7,Southeast,Canadá,0
+2021-07-01,2021,7,Southeast,Chile,2796
+2021-07-01,2021,7,Southeast,Colômbia,3701
+2021-07-01,2021,7,Southeast,Coreia Do Sul,0
+2021-07-01,2021,7,Southeast,Emirados Árabes Unidos,4148
+2021-07-01,2021,7,Southeast,Equador,212
+2021-07-01,2021,7,Southeast,Espanha,9329
+2021-07-01,2021,7,Southeast,Estados Unidos Da América,50815
+2021-07-01,2021,7,Southeast,Etiópia,1265
+2021-07-01,2021,7,Southeast,França,9452
+2021-07-01,2021,7,Southeast,Gana,0
+2021-07-01,2021,7,Southeast,Guiné,0
+2021-07-01,2021,7,Southeast,Holanda,6041
+2021-07-01,2021,7,Southeast,Itália,0
+2021-07-01,2021,7,Southeast,Luxemburgo,0
+2021-07-01,2021,7,Southeast,Macau,0
+2021-07-01,2021,7,Southeast,Marrocos,0
+2021-07-01,2021,7,Southeast,México,8025
+2021-07-01,2021,7,Southeast,Nigéria,0
+2021-07-01,2021,7,Southeast,Panamá,18717
+2021-07-01,2021,7,Southeast,Paraguai,1935
+2021-07-01,2021,7,Southeast,Peru,0
+2021-07-01,2021,7,Southeast,Porto Rico,0
+2021-07-01,2021,7,Southeast,Portugal,21955
+2021-07-01,2021,7,Southeast,Qatar,6901
+2021-07-01,2021,7,Southeast,Reino Unido,0
+2021-07-01,2021,7,Southeast,Senegal,0
+2021-07-01,2021,7,Southeast,Sri Lanka,0
+2021-07-01,2021,7,Southeast,Suriname,0
+2021-07-01,2021,7,Southeast,Suíça,6146
+2021-07-01,2021,7,Southeast,Turquia,2650
+2021-07-01,2021,7,Southeast,Uruguai,2115
+2021-08-01,2021,8,Central-West,Panamá,1384
+2021-08-01,2021,8,Central-West,Paraguai,50
+2021-08-01,2021,8,Central-West,Portugal,1508
+2021-08-01,2021,8,North,Argentina,0
+2021-08-01,2021,8,North,Colômbia,0
+2021-08-01,2021,8,North,Equador,0
+2021-08-01,2021,8,North,Estados Unidos Da América,0
+2021-08-01,2021,8,North,Guatemala,0
+2021-08-01,2021,8,North,Guiana,0
+2021-08-01,2021,8,North,Haiti,2
+2021-08-01,2021,8,North,Martinica,0
+2021-08-01,2021,8,North,República Dominicana,0
+2021-08-01,2021,8,North,Suriname,268
+2021-08-01,2021,8,Northeast,Alemanha,0
+2021-08-01,2021,8,Northeast,Chile,0
+2021-08-01,2021,8,Northeast,Colômbia,0
+2021-08-01,2021,8,Northeast,Estados Unidos Da América,0
+2021-08-01,2021,8,Northeast,Portugal,6029
+2021-08-01,2021,8,South,Alemanha,0
+2021-08-01,2021,8,South,Colômbia,0
+2021-08-01,2021,8,South,Equador,147
+2021-08-01,2021,8,South,Estados Unidos Da América,0
+2021-08-01,2021,8,South,Luxemburgo,0
+2021-08-01,2021,8,South,Panamá,1480
+2021-08-01,2021,8,Southeast,Alemanha,8715
+2021-08-01,2021,8,Southeast,Angola,0
+2021-08-01,2021,8,Southeast,Argentina,1327
+2021-08-01,2021,8,Southeast,Arábia Saudita,0
+2021-08-01,2021,8,Southeast,Bolívia,4420
+2021-08-01,2021,8,Southeast,Bélgica,0
+2021-08-01,2021,8,Southeast,Cabo Verde,0
+2021-08-01,2021,8,Southeast,Canadá,0
+2021-08-01,2021,8,Southeast,Chile,5407
+2021-08-01,2021,8,Southeast,Colômbia,4615
+2021-08-01,2021,8,Southeast,Coreia Do Sul,0
+2021-08-01,2021,8,Southeast,Emirados Árabes Unidos,3215
+2021-08-01,2021,8,Southeast,Equador,390
+2021-08-01,2021,8,Southeast,Espanha,10472
+2021-08-01,2021,8,Southeast,Estados Unidos Da América,38423
+2021-08-01,2021,8,Southeast,Etiópia,1417
+2021-08-01,2021,8,Southeast,França,10089
+2021-08-01,2021,8,Southeast,Gana,0
+2021-08-01,2021,8,Southeast,Guiana,89
+2021-08-01,2021,8,Southeast,Guiné,0
+2021-08-01,2021,8,Southeast,Holanda,5811
+2021-08-01,2021,8,Southeast,Itália,0
+2021-08-01,2021,8,Southeast,Luxemburgo,0
+2021-08-01,2021,8,Southeast,Macau,0
+2021-08-01,2021,8,Southeast,México,6580
+2021-08-01,2021,8,Southeast,Nigéria,0
+2021-08-01,2021,8,Southeast,Panamá,21041
+2021-08-01,2021,8,Southeast,Paraguai,1862
+2021-08-01,2021,8,Southeast,Peru,0
+2021-08-01,2021,8,Southeast,Porto Rico,0
+2021-08-01,2021,8,Southeast,Portugal,23660
+2021-08-01,2021,8,Southeast,Qatar,6807
+2021-08-01,2021,8,Southeast,Reino Unido,0
+2021-08-01,2021,8,Southeast,Senegal,0
+2021-08-01,2021,8,Southeast,Sri Lanka,0
+2021-08-01,2021,8,Southeast,Suíça,5238
+2021-08-01,2021,8,Southeast,Trinidad E Tobago,0
+2021-08-01,2021,8,Southeast,Turquia,4562
+2021-08-01,2021,8,Southeast,Uruguai,1620
+2021-08-01,2021,8,Southeast,Vietnã,0
+2021-09-01,2021,9,Central-West,Holanda,0
+2021-09-01,2021,9,Central-West,Panamá,1793
+2021-09-01,2021,9,Central-West,Portugal,1423
+2021-09-01,2021,9,North,Aruba,0
+2021-09-01,2021,9,North,Colômbia,0
+2021-09-01,2021,9,North,Estados Unidos Da América,0
+2021-09-01,2021,9,North,Haiti,0
+2021-09-01,2021,9,North,México,0
+2021-09-01,2021,9,North,República Dominicana,44
+2021-09-01,2021,9,North,Suriname,313
+2021-09-01,2021,9,North,Trinidad E Tobago,80
+2021-09-01,2021,9,North,Venezuela,0
+2021-09-01,2021,9,Northeast,Alemanha,0
+2021-09-01,2021,9,Northeast,Estados Unidos Da América,0
+2021-09-01,2021,9,Northeast,Itália,0
+2021-09-01,2021,9,Northeast,Peru,59
+2021-09-01,2021,9,Northeast,Portugal,6665
+2021-09-01,2021,9,South,Alemanha,0
+2021-09-01,2021,9,South,Equador,55
+2021-09-01,2021,9,South,Estados Unidos Da América,0
+2021-09-01,2021,9,South,Jamaica,0
+2021-09-01,2021,9,South,Luxemburgo,0
+2021-09-01,2021,9,South,Panamá,2034
+2021-09-01,2021,9,South,Paraguai,0
+2021-09-01,2021,9,South,Uruguai,122
+2021-09-01,2021,9,Southeast,Alemanha,8794
+2021-09-01,2021,9,Southeast,Angola,0
+2021-09-01,2021,9,Southeast,Argentina,1790
+2021-09-01,2021,9,Southeast,Arábia Saudita,0
+2021-09-01,2021,9,Southeast,Bolívia,4721
+2021-09-01,2021,9,Southeast,Bélgica,0
+2021-09-01,2021,9,Southeast,Cabo Verde,0
+2021-09-01,2021,9,Southeast,Canadá,2342
+2021-09-01,2021,9,Southeast,Chile,7577
+2021-09-01,2021,9,Southeast,China,0
+2021-09-01,2021,9,Southeast,Colômbia,5999
+2021-09-01,2021,9,Southeast,Coreia Do Sul,0
+2021-09-01,2021,9,Southeast,Costa Do Marfim,0
+2021-09-01,2021,9,Southeast,Emirados Árabes Unidos,5013
+2021-09-01,2021,9,Southeast,Equador,318
+2021-09-01,2021,9,Southeast,Espanha,10716
+2021-09-01,2021,9,Southeast,Estados Unidos Da América,33373
+2021-09-01,2021,9,Southeast,Etiópia,1624
+2021-09-01,2021,9,Southeast,França,10336
+2021-09-01,2021,9,Southeast,Gana,0
+2021-09-01,2021,9,Southeast,Guiana,101
+2021-09-01,2021,9,Southeast,Guiné,0
+2021-09-01,2021,9,Southeast,Holanda,6487
+2021-09-01,2021,9,Southeast,Itália,0
+2021-09-01,2021,9,Southeast,Jamaica,0
+2021-09-01,2021,9,Southeast,Luxemburgo,0
+2021-09-01,2021,9,Southeast,Líbia,0
+2021-09-01,2021,9,Southeast,Macau,0
+2021-09-01,2021,9,Southeast,Marrocos,0
+2021-09-01,2021,9,Southeast,México,5683
+2021-09-01,2021,9,Southeast,Nigéria,0
+2021-09-01,2021,9,Southeast,Omã,0
+2021-09-01,2021,9,Southeast,Panamá,21788
+2021-09-01,2021,9,Southeast,Paraguai,2780
+2021-09-01,2021,9,Southeast,Peru,0
+2021-09-01,2021,9,Southeast,Porto Rico,0
+2021-09-01,2021,9,Southeast,Portugal,22493
+2021-09-01,2021,9,Southeast,Qatar,9063
+2021-09-01,2021,9,Southeast,Reino Unido,0
+2021-09-01,2021,9,Southeast,Senegal,0
+2021-09-01,2021,9,Southeast,Sri Lanka,0
+2021-09-01,2021,9,Southeast,Suíça,6051
+2021-09-01,2021,9,Southeast,Togo,0
+2021-09-01,2021,9,Southeast,Trinidad E Tobago,0
+2021-09-01,2021,9,Southeast,Turquia,4493
+2021-09-01,2021,9,Southeast,Uruguai,1908
+2021-09-01,2021,9,Southeast,Venezuela,0
+2021-10-01,2021,10,Central-West,Holanda,0
+2021-10-01,2021,10,Central-West,Panamá,2038
+2021-10-01,2021,10,Central-West,Portugal,2472
+2021-10-01,2021,10,North,Arábia Saudita,0
+2021-10-01,2021,10,North,Chile,0
+2021-10-01,2021,10,North,Colômbia,70
+2021-10-01,2021,10,North,Estados Unidos Da América,0
+2021-10-01,2021,10,North,Guiné,0
+2021-10-01,2021,10,North,Haiti,158
+2021-10-01,2021,10,North,Porto Rico,0
+2021-10-01,2021,10,North,Portugal,112
+2021-10-01,2021,10,North,Sri Lanka,0
+2021-10-01,2021,10,North,Suriname,481
+2021-10-01,2021,10,North,Uruguai,53
+2021-10-01,2021,10,North,Venezuela,0
+2021-10-01,2021,10,North,Vietnã,0
+2021-10-01,2021,10,Northeast,Alemanha,0
+2021-10-01,2021,10,Northeast,Chile,0
+2021-10-01,2021,10,Northeast,Colômbia,0
+2021-10-01,2021,10,Northeast,Estados Unidos Da América,0
+2021-10-01,2021,10,Northeast,França,1281
+2021-10-01,2021,10,Northeast,Portugal,12724
+2021-10-01,2021,10,South,Alemanha,0
+2021-10-01,2021,10,South,Colômbia,0
+2021-10-01,2021,10,South,Estados Unidos Da América,0
+2021-10-01,2021,10,South,Luxemburgo,0
+2021-10-01,2021,10,South,Panamá,2235
+2021-10-01,2021,10,Southeast,Alemanha,15171
+2021-10-01,2021,10,Southeast,Angola,173
+2021-10-01,2021,10,Southeast,Argentina,5918
+2021-10-01,2021,10,Southeast,Arábia Saudita,0
+2021-10-01,2021,10,Southeast,Bolívia,5014
+2021-10-01,2021,10,Southeast,Bélgica,0
+2021-10-01,2021,10,Southeast,Cabo Verde,0
+2021-10-01,2021,10,Southeast,Canadá,3307
+2021-10-01,2021,10,Southeast,Chile,9603
+2021-10-01,2021,10,Southeast,Colômbia,7437
+2021-10-01,2021,10,Southeast,Coreia Do Sul,0
+2021-10-01,2021,10,Southeast,El Salvador,0
+2021-10-01,2021,10,Southeast,Emirados Árabes Unidos,7191
+2021-10-01,2021,10,Southeast,Equador,327
+2021-10-01,2021,10,Southeast,Espanha,17667
+2021-10-01,2021,10,Southeast,Estados Unidos Da América,39111
+2021-10-01,2021,10,Southeast,Etiópia,2015
+2021-10-01,2021,10,Southeast,França,18160
+2021-10-01,2021,10,Southeast,Gana,139
+2021-10-01,2021,10,Southeast,Guiné,0
+2021-10-01,2021,10,Southeast,Holanda,11891
+2021-10-01,2021,10,Southeast,Itália,0
+2021-10-01,2021,10,Southeast,Luxemburgo,0
+2021-10-01,2021,10,Southeast,Macau,0
+2021-10-01,2021,10,Southeast,México,8135
+2021-10-01,2021,10,Southeast,Nigéria,0
+2021-10-01,2021,10,Southeast,Panamá,23362
+2021-10-01,2021,10,Southeast,Paraguai,2803
+2021-10-01,2021,10,Southeast,Peru,4442
+2021-10-01,2021,10,Southeast,Porto Rico,104
+2021-10-01,2021,10,Southeast,Portugal,35778
+2021-10-01,2021,10,Southeast,Qatar,9354
+2021-10-01,2021,10,Southeast,Reino Unido,0
+2021-10-01,2021,10,Southeast,Senegal,0
+2021-10-01,2021,10,Southeast,Sri Lanka,0
+2021-10-01,2021,10,Southeast,Suíça,8923
+2021-10-01,2021,10,Southeast,Togo,0
+2021-10-01,2021,10,Southeast,Trinidad E Tobago,0
+2021-10-01,2021,10,Southeast,Turquia,5384
+2021-10-01,2021,10,Southeast,Uruguai,2321
+2021-10-01,2021,10,Southeast,Venezuela,0
+2021-11-01,2021,11,Central-West,Colômbia,0
+2021-11-01,2021,11,Central-West,Estados Unidos Da América,0
+2021-11-01,2021,11,Central-West,Jamaica,0
+2021-11-01,2021,11,Central-West,México,1082
+2021-11-01,2021,11,Central-West,Panamá,2144
+2021-11-01,2021,11,Central-West,Portugal,3368
+2021-11-01,2021,11,Central-West,Trinidad E Tobago,0
+2021-11-01,2021,11,North,Cabo Verde,0
+2021-11-01,2021,11,North,Colômbia,0
+2021-11-01,2021,11,North,Emirados Árabes Unidos,0
+2021-11-01,2021,11,North,Estados Unidos Da América,0
+2021-11-01,2021,11,North,Gana,0
+2021-11-01,2021,11,North,Jamaica,0
+2021-11-01,2021,11,North,Marrocos,0
+2021-11-01,2021,11,North,Portugal,896
+2021-11-01,2021,11,North,Reino Unido,0
+2021-11-01,2021,11,North,Suriname,783
+2021-11-01,2021,11,North,Trinidad E Tobago,0
+2021-11-01,2021,11,North,Venezuela,0
+2021-11-01,2021,11,Northeast,Alemanha,0
+2021-11-01,2021,11,Northeast,Chile,0
+2021-11-01,2021,11,Northeast,Colômbia,0
+2021-11-01,2021,11,Northeast,Estados Unidos Da América,0
+2021-11-01,2021,11,Northeast,França,3357
+2021-11-01,2021,11,Northeast,Portugal,14846
+2021-11-01,2021,11,South,Alemanha,0
+2021-11-01,2021,11,South,Colômbia,0
+2021-11-01,2021,11,South,Estados Unidos Da América,0
+2021-11-01,2021,11,South,Luxemburgo,0
+2021-11-01,2021,11,South,Panamá,2448
+2021-11-01,2021,11,South,Portugal,0
+2021-11-01,2021,11,South,Uruguai,1611
+2021-11-01,2021,11,Southeast,Alemanha,18740
+2021-11-01,2021,11,Southeast,Angola,0
+2021-11-01,2021,11,Southeast,Argentina,18370
+2021-11-01,2021,11,Southeast,Arábia Saudita,0
+2021-11-01,2021,11,Southeast,Bolívia,5420
+2021-11-01,2021,11,Southeast,Bélgica,0
+2021-11-01,2021,11,Southeast,Cabo Verde,0
+2021-11-01,2021,11,Southeast,Canadá,7196
+2021-11-01,2021,11,Southeast,Chile,16380
+2021-11-01,2021,11,Southeast,Colômbia,11421
+2021-11-01,2021,11,Southeast,Coreia Do Sul,0
+2021-11-01,2021,11,Southeast,Emirados Árabes Unidos,10863
+2021-11-01,2021,11,Southeast,Equador,185
+2021-11-01,2021,11,Southeast,Espanha,22685
+2021-11-01,2021,11,Southeast,Estados Unidos Da América,60093
+2021-11-01,2021,11,Southeast,Etiópia,2694
+2021-11-01,2021,11,Southeast,França,19792
+2021-11-01,2021,11,Southeast,Gana,0
+2021-11-01,2021,11,Southeast,Guiné,0
+2021-11-01,2021,11,Southeast,Holanda,14208
+2021-11-01,2021,11,Southeast,Hong Kong,0
+2021-11-01,2021,11,Southeast,Itália,0
+2021-11-01,2021,11,Southeast,Jamaica,0
+2021-11-01,2021,11,Southeast,Luxemburgo,0
+2021-11-01,2021,11,Southeast,Macau,0
+2021-11-01,2021,11,Southeast,Marrocos,0
+2021-11-01,2021,11,Southeast,México,10760
+2021-11-01,2021,11,Southeast,Nigéria,0
+2021-11-01,2021,11,Southeast,Panamá,27616
+2021-11-01,2021,11,Southeast,Paraguai,2889
+2021-11-01,2021,11,Southeast,Peru,8016
+2021-11-01,2021,11,Southeast,Porto Rico,0
+2021-11-01,2021,11,Southeast,Portugal,36098
+2021-11-01,2021,11,Southeast,Qatar,11833
+2021-11-01,2021,11,Southeast,Reino Unido,0
+2021-11-01,2021,11,Southeast,República Dominicana,805
+2021-11-01,2021,11,Southeast,Senegal,0
+2021-11-01,2021,11,Southeast,Sri Lanka,0
+2021-11-01,2021,11,Southeast,Suíça,8496
+2021-11-01,2021,11,Southeast,Trinidad E Tobago,0
+2021-11-01,2021,11,Southeast,Turquia,4158
+2021-11-01,2021,11,Southeast,Uruguai,14998
+2021-11-01,2021,11,Southeast,Venezuela,0
+2021-11-01,2021,11,Southeast,África Do Sul,0
+2021-12-01,2021,12,Central-West,Alemanha,0
+2021-12-01,2021,12,Central-West,Bolívia,4
+2021-12-01,2021,12,Central-West,Estados Unidos Da América,0
+2021-12-01,2021,12,Central-West,Holanda,0
+2021-12-01,2021,12,Central-West,Ilhas Canárias,0
+2021-12-01,2021,12,Central-West,México,2271
+2021-12-01,2021,12,Central-West,Panamá,3475
+2021-12-01,2021,12,Central-West,Portugal,4303
+2021-12-01,2021,12,North,Cabo Verde,0
+2021-12-01,2021,12,North,Estados Unidos Da América,0
+2021-12-01,2021,12,North,Guiana,8
+2021-12-01,2021,12,North,México,0
+2021-12-01,2021,12,North,Panamá,1357
+2021-12-01,2021,12,North,Portugal,1152
+2021-12-01,2021,12,North,Suriname,1333
+2021-12-01,2021,12,North,Venezuela,0
+2021-12-01,2021,12,Northeast,Alemanha,0
+2021-12-01,2021,12,Northeast,Arábia Saudita,0
+2021-12-01,2021,12,Northeast,Cabo Verde,0
+2021-12-01,2021,12,Northeast,Chile,0
+2021-12-01,2021,12,Northeast,Colômbia,0
+2021-12-01,2021,12,Northeast,Equador,0
+2021-12-01,2021,12,Northeast,Espanha,0
+2021-12-01,2021,12,Northeast,Estados Unidos Da América,0
+2021-12-01,2021,12,Northeast,França,3333
+2021-12-01,2021,12,Northeast,Gana,0
+2021-12-01,2021,12,Northeast,Holanda,0
+2021-12-01,2021,12,Northeast,Macau,0
+2021-12-01,2021,12,Northeast,Portugal,19209
+2021-12-01,2021,12,Northeast,Sri Lanka,0
+2021-12-01,2021,12,South,Alemanha,0
+2021-12-01,2021,12,South,Argentina,1534
+2021-12-01,2021,12,South,Chile,1424
+2021-12-01,2021,12,South,Colômbia,0
+2021-12-01,2021,12,South,Estados Unidos Da América,0
+2021-12-01,2021,12,South,Luxemburgo,0
+2021-12-01,2021,12,South,Panamá,3448
+2021-12-01,2021,12,South,Paraguai,145
+2021-12-01,2021,12,South,Uruguai,2565
+2021-12-01,2021,12,Southeast,Alemanha,23190
+2021-12-01,2021,12,Southeast,Angola,1769
+2021-12-01,2021,12,Southeast,Argentina,31978
+2021-12-01,2021,12,Southeast,Arábia Saudita,0
+2021-12-01,2021,12,Southeast,Bolívia,7099
+2021-12-01,2021,12,Southeast,Bélgica,0
+2021-12-01,2021,12,Southeast,Cabo Verde,0
+2021-12-01,2021,12,Southeast,Canadá,11861
+2021-12-01,2021,12,Southeast,Chile,25396
+2021-12-01,2021,12,Southeast,Colômbia,14659
+2021-12-01,2021,12,Southeast,Coreia Do Sul,0
+2021-12-01,2021,12,Southeast,Emirados Árabes Unidos,12598
+2021-12-01,2021,12,Southeast,Equador,293
+2021-12-01,2021,12,Southeast,Espanha,25312
+2021-12-01,2021,12,Southeast,Estados Unidos Da América,110694
+2021-12-01,2021,12,Southeast,Etiópia,2698
+2021-12-01,2021,12,Southeast,França,22577
+2021-12-01,2021,12,Southeast,Gana,0
+2021-12-01,2021,12,Southeast,Guiné,0
+2021-12-01,2021,12,Southeast,Holanda,15681
+2021-12-01,2021,12,Southeast,Hong Kong,0
+2021-12-01,2021,12,Southeast,Ilhas Canárias,0
+2021-12-01,2021,12,Southeast,Itália,5686
+2021-12-01,2021,12,Southeast,Luxemburgo,0
+2021-12-01,2021,12,Southeast,Macau,0
+2021-12-01,2021,12,Southeast,Moçambique,129
+2021-12-01,2021,12,Southeast,México,13930
+2021-12-01,2021,12,Southeast,Nigéria,0
+2021-12-01,2021,12,Southeast,Panamá,30699
+2021-12-01,2021,12,Southeast,Paraguai,3622
+2021-12-01,2021,12,Southeast,Peru,8610
+2021-12-01,2021,12,Southeast,Portugal,45095
+2021-12-01,2021,12,Southeast,Qatar,17468
+2021-12-01,2021,12,Southeast,Reino Unido,15346
+2021-12-01,2021,12,Southeast,República Dominicana,1872
+2021-12-01,2021,12,Southeast,Senegal,0
+2021-12-01,2021,12,Southeast,Sri Lanka,0
+2021-12-01,2021,12,Southeast,Suíça,10633
+2021-12-01,2021,12,Southeast,Togo,239
+2021-12-01,2021,12,Southeast,Trinidad E Tobago,0
+2021-12-01,2021,12,Southeast,Turquia,5015
+2021-12-01,2021,12,Southeast,Uruguai,8401
+2021-12-01,2021,12,Southeast,Venezuela,0
+2022-01-01,2022,1,Central-West,Estados Unidos Da América,0
+2022-01-01,2022,1,Central-West,Jamaica,0
+2022-01-01,2022,1,Central-West,México,2648
+2022-01-01,2022,1,Central-West,Panamá,3508
+2022-01-01,2022,1,Central-West,Portugal,3409
+2022-01-01,2022,1,Central-West,Trinidad E Tobago,0
+2022-01-01,2022,1,North,Colômbia,0
+2022-01-01,2022,1,North,Equador,0
+2022-01-01,2022,1,North,Estados Unidos Da América,0
+2022-01-01,2022,1,North,Guiana,20
+2022-01-01,2022,1,North,Jamaica,0
+2022-01-01,2022,1,North,Panamá,1406
+2022-01-01,2022,1,North,Portugal,998
+2022-01-01,2022,1,North,Suriname,870
+2022-01-01,2022,1,North,Trinidad E Tobago,0
+2022-01-01,2022,1,Northeast,Alemanha,0
+2022-01-01,2022,1,Northeast,Argentina,1826
+2022-01-01,2022,1,Northeast,Arábia Saudita,0
+2022-01-01,2022,1,Northeast,Chile,0
+2022-01-01,2022,1,Northeast,Colômbia,0
+2022-01-01,2022,1,Northeast,Espanha,156
+2022-01-01,2022,1,Northeast,Estados Unidos Da América,0
+2022-01-01,2022,1,Northeast,França,2886
+2022-01-01,2022,1,Northeast,Gana,0
+2022-01-01,2022,1,Northeast,Macau,0
+2022-01-01,2022,1,Northeast,Portugal,13933
+2022-01-01,2022,1,Northeast,Sri Lanka,0
+2022-01-01,2022,1,South,Alemanha,0
+2022-01-01,2022,1,South,Argentina,12433
+2022-01-01,2022,1,South,Chile,5571
+2022-01-01,2022,1,South,Estados Unidos Da América,0
+2022-01-01,2022,1,South,Luxemburgo,0
+2022-01-01,2022,1,South,Panamá,2883
+2022-01-01,2022,1,South,Paraguai,209
+2022-01-01,2022,1,South,Uruguai,4521
+2022-01-01,2022,1,Southeast,Alemanha,22510
+2022-01-01,2022,1,Southeast,Angola,1206
+2022-01-01,2022,1,Southeast,Argentina,49465
+2022-01-01,2022,1,Southeast,Arábia Saudita,0
+2022-01-01,2022,1,Southeast,Bolívia,7189
+2022-01-01,2022,1,Southeast,Bélgica,0
+2022-01-01,2022,1,Southeast,Cabo Verde,0
+2022-01-01,2022,1,Southeast,Canadá,9127
+2022-01-01,2022,1,Southeast,Chile,30125
+2022-01-01,2022,1,Southeast,Colômbia,13960
+2022-01-01,2022,1,Southeast,Coreia Do Sul,0
+2022-01-01,2022,1,Southeast,Emirados Árabes Unidos,11501
+2022-01-01,2022,1,Southeast,Equador,414
+2022-01-01,2022,1,Southeast,Espanha,23221
+2022-01-01,2022,1,Southeast,Estados Unidos Da América,104555
+2022-01-01,2022,1,Southeast,Etiópia,2152
+2022-01-01,2022,1,Southeast,França,21599
+2022-01-01,2022,1,Southeast,Gana,0
+2022-01-01,2022,1,Southeast,Guiana,43
+2022-01-01,2022,1,Southeast,Guiné,0
+2022-01-01,2022,1,Southeast,Holanda,12647
+2022-01-01,2022,1,Southeast,Itália,5049
+2022-01-01,2022,1,Southeast,Jamaica,0
+2022-01-01,2022,1,Southeast,Luxemburgo,0
+2022-01-01,2022,1,Southeast,Macau,0
+2022-01-01,2022,1,Southeast,México,9646
+2022-01-01,2022,1,Southeast,Nigéria,0
+2022-01-01,2022,1,Southeast,Panamá,29748
+2022-01-01,2022,1,Southeast,Paraguai,5577
+2022-01-01,2022,1,Southeast,Peru,8131
+2022-01-01,2022,1,Southeast,Porto Rico,0
+2022-01-01,2022,1,Southeast,Portugal,37344
+2022-01-01,2022,1,Southeast,Qatar,10946
+2022-01-01,2022,1,Southeast,Reino Unido,16575
+2022-01-01,2022,1,Southeast,República Dominicana,2550
+2022-01-01,2022,1,Southeast,Senegal,0
+2022-01-01,2022,1,Southeast,Sri Lanka,0
+2022-01-01,2022,1,Southeast,Suíça,8973
+2022-01-01,2022,1,Southeast,Trinidad E Tobago,0
+2022-01-01,2022,1,Southeast,Turquia,4246
+2022-01-01,2022,1,Southeast,Uruguai,9935
+2022-02-01,2022,2,Central-West,Argentina,92
+2022-02-01,2022,2,Central-West,México,1426
+2022-02-01,2022,2,Central-West,Panamá,2883
+2022-02-01,2022,2,Central-West,Portugal,1583
+2022-02-01,2022,2,North,Colômbia,0
+2022-02-01,2022,2,North,Estados Unidos Da América,0
+2022-02-01,2022,2,North,Guiana,35
+2022-02-01,2022,2,North,México,0
+2022-02-01,2022,2,North,Panamá,1129
+2022-02-01,2022,2,North,Portugal,633
+2022-02-01,2022,2,North,Suriname,772
+2022-02-01,2022,2,North,Venezuela,0
+2022-02-01,2022,2,Northeast,Alemanha,0
+2022-02-01,2022,2,Northeast,Argentina,1747
+2022-02-01,2022,2,Northeast,Colômbia,0
+2022-02-01,2022,2,Northeast,Estados Unidos Da América,0
+2022-02-01,2022,2,Northeast,França,2485
+2022-02-01,2022,2,Northeast,México,0
+2022-02-01,2022,2,Northeast,Portugal,10228
+2022-02-01,2022,2,Northeast,Venezuela,0
+2022-02-01,2022,2,South,Alemanha,0
+2022-02-01,2022,2,South,Argentina,9377
+2022-02-01,2022,2,South,Chile,4706
+2022-02-01,2022,2,South,Estados Unidos Da América,0
+2022-02-01,2022,2,South,Luxemburgo,0
+2022-02-01,2022,2,South,Panamá,2373
+2022-02-01,2022,2,South,Uruguai,2292
+2022-02-01,2022,2,Southeast,Alemanha,17064
+2022-02-01,2022,2,Southeast,Angola,1465
+2022-02-01,2022,2,Southeast,Argentina,42559
+2022-02-01,2022,2,Southeast,Arábia Saudita,0
+2022-02-01,2022,2,Southeast,Bolívia,4552
+2022-02-01,2022,2,Southeast,Bélgica,0
+2022-02-01,2022,2,Southeast,Cabo Verde,0
+2022-02-01,2022,2,Southeast,Canadá,6751
+2022-02-01,2022,2,Southeast,Chile,22208
+2022-02-01,2022,2,Southeast,Colômbia,12848
+2022-02-01,2022,2,Southeast,Coreia Do Sul,0
+2022-02-01,2022,2,Southeast,Emirados Árabes Unidos,10786
+2022-02-01,2022,2,Southeast,Equador,383
+2022-02-01,2022,2,Southeast,Espanha,20169
+2022-02-01,2022,2,Southeast,Estados Unidos Da América,88940
+2022-02-01,2022,2,Southeast,Etiópia,1744
+2022-02-01,2022,2,Southeast,França,21662
+2022-02-01,2022,2,Southeast,Gana,0
+2022-02-01,2022,2,Southeast,Guiana,101
+2022-02-01,2022,2,Southeast,Guiné,0
+2022-02-01,2022,2,Southeast,Holanda,13345
+2022-02-01,2022,2,Southeast,Hong Kong,0
+2022-02-01,2022,2,Southeast,Islândia,0
+2022-02-01,2022,2,Southeast,Itália,3306
+2022-02-01,2022,2,Southeast,Japão,0
+2022-02-01,2022,2,Southeast,Luxemburgo,0
+2022-02-01,2022,2,Southeast,Macau,0
+2022-02-01,2022,2,Southeast,México,5660
+2022-02-01,2022,2,Southeast,Panamá,25366
+2022-02-01,2022,2,Southeast,Paraguai,5500
+2022-02-01,2022,2,Southeast,Peru,7267
+2022-02-01,2022,2,Southeast,Porto Rico,0
+2022-02-01,2022,2,Southeast,Portugal,26923
+2022-02-01,2022,2,Southeast,Qatar,12144
+2022-02-01,2022,2,Southeast,Quênia,0
+2022-02-01,2022,2,Southeast,Reino Unido,12697
+2022-02-01,2022,2,Southeast,República Dominicana,1453
+2022-02-01,2022,2,Southeast,Senegal,0
+2022-02-01,2022,2,Southeast,Sri Lanka,0
+2022-02-01,2022,2,Southeast,Suíça,7642
+2022-02-01,2022,2,Southeast,Trinidad E Tobago,0
+2022-02-01,2022,2,Southeast,Turquia,3881
+2022-02-01,2022,2,Southeast,Uruguai,6968
+2022-02-01,2022,2,Southeast,Venezuela,0
+2022-02-01,2022,2,Southeast,Vietnã,0
+2022-03-01,2022,3,Central-West,Alemanha,0
+2022-03-01,2022,3,Central-West,Cabo Verde,0
+2022-03-01,2022,3,Central-West,Estados Unidos Da América,0
+2022-03-01,2022,3,Central-West,Holanda,0
+2022-03-01,2022,3,Central-West,México,1717
+2022-03-01,2022,3,Central-West,Panamá,2986
+2022-03-01,2022,3,Central-West,Portugal,1987
+2022-03-01,2022,3,Central-West,Uruguai,1
+2022-03-01,2022,3,North,Colômbia,0
+2022-03-01,2022,3,North,Equador,0
+2022-03-01,2022,3,North,Estados Unidos Da América,0
+2022-03-01,2022,3,North,Guatemala,0
+2022-03-01,2022,3,North,Guiana,58
+2022-03-01,2022,3,North,Panamá,1389
+2022-03-01,2022,3,North,Portugal,680
+2022-03-01,2022,3,North,Suriname,843
+2022-03-01,2022,3,Northeast,Alemanha,0
+2022-03-01,2022,3,Northeast,Argentina,2175
+2022-03-01,2022,3,Northeast,Bulgária,0
+2022-03-01,2022,3,Northeast,Chile,0
+2022-03-01,2022,3,Northeast,Colômbia,0
+2022-03-01,2022,3,Northeast,Estados Unidos Da América,0
+2022-03-01,2022,3,Northeast,França,2230
+2022-03-01,2022,3,Northeast,Ilhas Canárias,0
+2022-03-01,2022,3,Northeast,Portugal,11550
+2022-03-01,2022,3,Northeast,Uruguai,0
+2022-03-01,2022,3,South,Alemanha,0
+2022-03-01,2022,3,South,Argentina,6762
+2022-03-01,2022,3,South,Chile,2469
+2022-03-01,2022,3,South,Estados Unidos Da América,0
+2022-03-01,2022,3,South,Luxemburgo,0
+2022-03-01,2022,3,South,Panamá,2224
+2022-03-01,2022,3,South,Paraguai,0
+2022-03-01,2022,3,South,Portugal,232
+2022-03-01,2022,3,South,Uruguai,3391
+2022-03-01,2022,3,Southeast,Alemanha,18068
+2022-03-01,2022,3,Southeast,Angola,1806
+2022-03-01,2022,3,Southeast,Argentina,58129
+2022-03-01,2022,3,Southeast,Arábia Saudita,0
+2022-03-01,2022,3,Southeast,Bielorrússia,0
+2022-03-01,2022,3,Southeast,Bolívia,5284
+2022-03-01,2022,3,Southeast,Bélgica,0
+2022-03-01,2022,3,Southeast,Cabo Verde,0
+2022-03-01,2022,3,Southeast,Canadá,6937
+2022-03-01,2022,3,Southeast,Chile,25564
+2022-03-01,2022,3,Southeast,China,0
+2022-03-01,2022,3,Southeast,Colômbia,14498
+2022-03-01,2022,3,Southeast,Coreia Do Sul,0
+2022-03-01,2022,3,Southeast,Emirados Árabes Unidos,12927
+2022-03-01,2022,3,Southeast,Equador,72
+2022-03-01,2022,3,Southeast,Espanha,21808
+2022-03-01,2022,3,Southeast,Estados Unidos Da América,115163
+2022-03-01,2022,3,Southeast,Etiópia,1858
+2022-03-01,2022,3,Southeast,França,24014
+2022-03-01,2022,3,Southeast,Gana,0
+2022-03-01,2022,3,Southeast,Guiana,0
+2022-03-01,2022,3,Southeast,Guiné,0
+2022-03-01,2022,3,Southeast,Holanda,13452
+2022-03-01,2022,3,Southeast,Hong Kong,0
+2022-03-01,2022,3,Southeast,Itália,3019
+2022-03-01,2022,3,Southeast,Luxemburgo,0
+2022-03-01,2022,3,Southeast,Macau,0
+2022-03-01,2022,3,Southeast,México,9523
+2022-03-01,2022,3,Southeast,Nigéria,0
+2022-03-01,2022,3,Southeast,Panamá,32742
+2022-03-01,2022,3,Southeast,Paraguai,6525
+2022-03-01,2022,3,Southeast,Peru,9476
+2022-03-01,2022,3,Southeast,Porto Rico,0
+2022-03-01,2022,3,Southeast,Portugal,34165
+2022-03-01,2022,3,Southeast,Qatar,16021
+2022-03-01,2022,3,Southeast,Quênia,0
+2022-03-01,2022,3,Southeast,Reino Unido,14644
+2022-03-01,2022,3,Southeast,República Dominicana,1944
+2022-03-01,2022,3,Southeast,Senegal,0
+2022-03-01,2022,3,Southeast,Sri Lanka,0
+2022-03-01,2022,3,Southeast,Suíça,7935
+2022-03-01,2022,3,Southeast,Togo,0
+2022-03-01,2022,3,Southeast,Trinidad E Tobago,0
+2022-03-01,2022,3,Southeast,Turquia,4313
+2022-03-01,2022,3,Southeast,Uruguai,10450
+2022-03-01,2022,3,Southeast,Vietnã,0
+2022-04-01,2022,4,Central-West,Alemanha,0
+2022-04-01,2022,4,Central-West,Argentina,1315
+2022-04-01,2022,4,Central-West,Cabo Verde,0
+2022-04-01,2022,4,Central-West,Estados Unidos Da América,0
+2022-04-01,2022,4,Central-West,Holanda,0
+2022-04-01,2022,4,Central-West,México,2399
+2022-04-01,2022,4,Central-West,Panamá,3155
+2022-04-01,2022,4,Central-West,Peru,40
+2022-04-01,2022,4,Central-West,Portugal,2907
+2022-04-01,2022,4,Central-West,Uruguai,39
+2022-04-01,2022,4,North,Colômbia,60
+2022-04-01,2022,4,North,Emirados Árabes Unidos,0
+2022-04-01,2022,4,North,Equador,0
+2022-04-01,2022,4,North,Estados Unidos Da América,0
+2022-04-01,2022,4,North,Gana,0
+2022-04-01,2022,4,North,Guiana,37
+2022-04-01,2022,4,North,México,0
+2022-04-01,2022,4,North,Panamá,1303
+2022-04-01,2022,4,North,Peru,0
+2022-04-01,2022,4,North,Portugal,949
+2022-04-01,2022,4,North,Suriname,1238
+2022-04-01,2022,4,North,Venezuela,0
+2022-04-01,2022,4,Northeast,Alemanha,0
+2022-04-01,2022,4,Northeast,Argentina,1308
+2022-04-01,2022,4,Northeast,Arábia Saudita,0
+2022-04-01,2022,4,Northeast,Cabo Verde,0
+2022-04-01,2022,4,Northeast,Chile,0
+2022-04-01,2022,4,Northeast,Colômbia,0
+2022-04-01,2022,4,Northeast,Estados Unidos Da América,0
+2022-04-01,2022,4,Northeast,França,2647
+2022-04-01,2022,4,Northeast,Gana,0
+2022-04-01,2022,4,Northeast,Macau,0
+2022-04-01,2022,4,Northeast,México,0
+2022-04-01,2022,4,Northeast,Paraguai,55
+2022-04-01,2022,4,Northeast,Peru,0
+2022-04-01,2022,4,Northeast,Portugal,16257
+2022-04-01,2022,4,Northeast,Sri Lanka,0
+2022-04-01,2022,4,Northeast,Uruguai,1195
+2022-04-01,2022,4,Northeast,Venezuela,48
+2022-04-01,2022,4,South,Alemanha,0
+2022-04-01,2022,4,South,Argentina,5549
+2022-04-01,2022,4,South,Bolívia,45
+2022-04-01,2022,4,South,Chile,899
+2022-04-01,2022,4,South,Colômbia,64
+2022-04-01,2022,4,South,Estados Unidos Da América,0
+2022-04-01,2022,4,South,Luxemburgo,0
+2022-04-01,2022,4,South,Panamá,2544
+2022-04-01,2022,4,South,Paraguai,98
+2022-04-01,2022,4,South,Portugal,2085
+2022-04-01,2022,4,South,Uruguai,4075
+2022-04-01,2022,4,South,Venezuela,49
+2022-04-01,2022,4,Southeast,Alemanha,21212
+2022-04-01,2022,4,Southeast,Angola,1795
+2022-04-01,2022,4,Southeast,Argentina,64116
+2022-04-01,2022,4,Southeast,Arábia Saudita,0
+2022-04-01,2022,4,Southeast,Bolívia,5616
+2022-04-01,2022,4,Southeast,Bélgica,0
+2022-04-01,2022,4,Southeast,Cabo Verde,0
+2022-04-01,2022,4,Southeast,Canadá,8757
+2022-04-01,2022,4,Southeast,Chile,27458
+2022-04-01,2022,4,Southeast,China,0
+2022-04-01,2022,4,Southeast,Colômbia,16350
+2022-04-01,2022,4,Southeast,Coreia Do Sul,0
+2022-04-01,2022,4,Southeast,Emirados Árabes Unidos,9392
+2022-04-01,2022,4,Southeast,Equador,155
+2022-04-01,2022,4,Southeast,Espanha,26139
+2022-04-01,2022,4,Southeast,Estados Unidos Da América,105503
+2022-04-01,2022,4,Southeast,Etiópia,1802
+2022-04-01,2022,4,Southeast,França,26828
+2022-04-01,2022,4,Southeast,Gana,0
+2022-04-01,2022,4,Southeast,Guiana,0
+2022-04-01,2022,4,Southeast,Guiné,0
+2022-04-01,2022,4,Southeast,Holanda,16034
+2022-04-01,2022,4,Southeast,Itália,4172
+2022-04-01,2022,4,Southeast,Luxemburgo,0
+2022-04-01,2022,4,Southeast,Macau,0
+2022-04-01,2022,4,Southeast,México,9831
+2022-04-01,2022,4,Southeast,Nigéria,0
+2022-04-01,2022,4,Southeast,Panamá,30419
+2022-04-01,2022,4,Southeast,Paraguai,5935
+2022-04-01,2022,4,Southeast,Peru,10827
+2022-04-01,2022,4,Southeast,Porto Rico,0
+2022-04-01,2022,4,Southeast,Portugal,43876
+2022-04-01,2022,4,Southeast,Qatar,14202
+2022-04-01,2022,4,Southeast,Quirguistão,0
+2022-04-01,2022,4,Southeast,Reino Unido,16664
+2022-04-01,2022,4,Southeast,República Dominicana,1887
+2022-04-01,2022,4,Southeast,Senegal,0
+2022-04-01,2022,4,Southeast,Sri Lanka,0
+2022-04-01,2022,4,Southeast,Suíça,8592
+2022-04-01,2022,4,Southeast,Togo,0
+2022-04-01,2022,4,Southeast,Trinidad E Tobago,0
+2022-04-01,2022,4,Southeast,Turquia,5090
+2022-04-01,2022,4,Southeast,Uruguai,10696
+2022-04-01,2022,4,Southeast,Venezuela,58
+2022-05-01,2022,5,Central-West,Argentina,1760
+2022-05-01,2022,5,Central-West,Bolívia,4
+2022-05-01,2022,5,Central-West,Cabo Verde,183
+2022-05-01,2022,5,Central-West,Chile,55
+2022-05-01,2022,5,Central-West,Colômbia,0
+2022-05-01,2022,5,Central-West,Equador,47
+2022-05-01,2022,5,Central-West,Estados Unidos Da América,3140
+2022-05-01,2022,5,Central-West,México,2853
+2022-05-01,2022,5,Central-West,Panamá,3676
+2022-05-01,2022,5,Central-West,Peru,130
+2022-05-01,2022,5,Central-West,Portugal,3767
+2022-05-01,2022,5,North,Chile,0
+2022-05-01,2022,5,North,Colômbia,51
+2022-05-01,2022,5,North,Equador,0
+2022-05-01,2022,5,North,Estados Unidos Da América,0
+2022-05-01,2022,5,North,México,0
+2022-05-01,2022,5,North,Panamá,1723
+2022-05-01,2022,5,North,Portugal,1033
+2022-05-01,2022,5,North,Suriname,983
+2022-05-01,2022,5,Northeast,Alemanha,0
+2022-05-01,2022,5,Northeast,Argentina,988
+2022-05-01,2022,5,Northeast,Cabo Verde,0
+2022-05-01,2022,5,Northeast,Canadá,0
+2022-05-01,2022,5,Northeast,Chile,80
+2022-05-01,2022,5,Northeast,Colômbia,0
+2022-05-01,2022,5,Northeast,Estados Unidos Da América,0
+2022-05-01,2022,5,Northeast,França,2725
+2022-05-01,2022,5,Northeast,México,0
+2022-05-01,2022,5,Northeast,Peru,49
+2022-05-01,2022,5,Northeast,Portugal,14908
+2022-05-01,2022,5,Northeast,Venezuela,44
+2022-05-01,2022,5,South,Alemanha,0
+2022-05-01,2022,5,South,Argentina,5214
+2022-05-01,2022,5,South,Bolívia,83
+2022-05-01,2022,5,South,Colômbia,0
+2022-05-01,2022,5,South,Equador,0
+2022-05-01,2022,5,South,Estados Unidos Da América,0
+2022-05-01,2022,5,South,Luxemburgo,0
+2022-05-01,2022,5,South,Panamá,2456
+2022-05-01,2022,5,South,Paraguai,95
+2022-05-01,2022,5,South,Portugal,2243
+2022-05-01,2022,5,South,Uruguai,4068
+2022-05-01,2022,5,South,Venezuela,0
+2022-05-01,2022,5,Southeast,Alemanha,21626
+2022-05-01,2022,5,Southeast,Angola,2326
+2022-05-01,2022,5,Southeast,Argentina,65056
+2022-05-01,2022,5,Southeast,Bolívia,7275
+2022-05-01,2022,5,Southeast,Bulgária,0
+2022-05-01,2022,5,Southeast,Bélgica,0
+2022-05-01,2022,5,Southeast,Cabo Verde,0
+2022-05-01,2022,5,Southeast,Canadá,9576
+2022-05-01,2022,5,Southeast,Chile,29390
+2022-05-01,2022,5,Southeast,China,0
+2022-05-01,2022,5,Southeast,Colômbia,18633
+2022-05-01,2022,5,Southeast,Coreia Do Sul,0
+2022-05-01,2022,5,Southeast,Costa Do Marfim,0
+2022-05-01,2022,5,Southeast,Emirados Árabes Unidos,10877
+2022-05-01,2022,5,Southeast,Equador,51
+2022-05-01,2022,5,Southeast,Espanha,27904
+2022-05-01,2022,5,Southeast,Estados Unidos Da América,111087
+2022-05-01,2022,5,Southeast,Etiópia,1727
+2022-05-01,2022,5,Southeast,França,26188
+2022-05-01,2022,5,Southeast,Gana,0
+2022-05-01,2022,5,Southeast,Guiana,0
+2022-05-01,2022,5,Southeast,Guiana Francesa,0
+2022-05-01,2022,5,Southeast,Holanda,15482
+2022-05-01,2022,5,Southeast,Hong Kong,0
+2022-05-01,2022,5,Southeast,Itália,4031
+2022-05-01,2022,5,Southeast,Luxemburgo,0
+2022-05-01,2022,5,Southeast,Macau,0
+2022-05-01,2022,5,Southeast,México,11367
+2022-05-01,2022,5,Southeast,Nigéria,0
+2022-05-01,2022,5,Southeast,Panamá,32199
+2022-05-01,2022,5,Southeast,Paraguai,6668
+2022-05-01,2022,5,Southeast,Peru,11553
+2022-05-01,2022,5,Southeast,Porto Rico,0
+2022-05-01,2022,5,Southeast,Portugal,47302
+2022-05-01,2022,5,Southeast,Qatar,15510
+2022-05-01,2022,5,Southeast,Reino Unido,15490
+2022-05-01,2022,5,Southeast,República Dominicana,1976
+2022-05-01,2022,5,Southeast,Senegal,0
+2022-05-01,2022,5,Southeast,Suíça,8337
+2022-05-01,2022,5,Southeast,Togo,0
+2022-05-01,2022,5,Southeast,Trinidad E Tobago,0
+2022-05-01,2022,5,Southeast,Turquia,5290
+2022-05-01,2022,5,Southeast,Uruguai,11245
+2022-05-01,2022,5,Southeast,Venezuela,50
+2022-06-01,2022,6,Central-West,Alemanha,0
+2022-06-01,2022,6,Central-West,Argentina,1822
+2022-06-01,2022,6,Central-West,Cabo Verde,0
+2022-06-01,2022,6,Central-West,Estados Unidos Da América,5011
+2022-06-01,2022,6,Central-West,Holanda,0
+2022-06-01,2022,6,Central-West,México,2478
+2022-06-01,2022,6,Central-West,Panamá,3675
+2022-06-01,2022,6,Central-West,Portugal,5002
+2022-06-01,2022,6,North,Colômbia,0
+2022-06-01,2022,6,North,Costa Rica,0
+2022-06-01,2022,6,North,Estados Unidos Da América,0
+2022-06-01,2022,6,North,Guatemala,0
+2022-06-01,2022,6,North,Holanda,0
+2022-06-01,2022,6,North,México,0
+2022-06-01,2022,6,North,Panamá,1691
+2022-06-01,2022,6,North,Porto Rico,0
+2022-06-01,2022,6,North,Portugal,1661
+2022-06-01,2022,6,North,Suriname,636
+2022-06-01,2022,6,North,Venezuela,0
+2022-06-01,2022,6,Northeast,Alemanha,0
+2022-06-01,2022,6,Northeast,Argentina,1194
+2022-06-01,2022,6,Northeast,Arábia Saudita,0
+2022-06-01,2022,6,Northeast,Bolívia,34
+2022-06-01,2022,6,Northeast,Cabo Verde,0
+2022-06-01,2022,6,Northeast,Chile,0
+2022-06-01,2022,6,Northeast,Espanha,1
+2022-06-01,2022,6,Northeast,Estados Unidos Da América,0
+2022-06-01,2022,6,Northeast,França,2709
+2022-06-01,2022,6,Northeast,Gana,0
+2022-06-01,2022,6,Northeast,Macau,0
+2022-06-01,2022,6,Northeast,México,0
+2022-06-01,2022,6,Northeast,Paquistão,0
+2022-06-01,2022,6,Northeast,Peru,0
+2022-06-01,2022,6,Northeast,Portugal,20188
+2022-06-01,2022,6,Northeast,Reino Unido,2
+2022-06-01,2022,6,Northeast,Uruguai,0
+2022-06-01,2022,6,South,Alemanha,0
+2022-06-01,2022,6,South,Argentina,4709
+2022-06-01,2022,6,South,Chile,51
+2022-06-01,2022,6,South,Colômbia,0
+2022-06-01,2022,6,South,Estados Unidos Da América,0
+2022-06-01,2022,6,South,Luxemburgo,0
+2022-06-01,2022,6,South,Panamá,2505
+2022-06-01,2022,6,South,Paraguai,44
+2022-06-01,2022,6,South,Portugal,2947
+2022-06-01,2022,6,South,Uruguai,3857
+2022-06-01,2022,6,Southeast,Alemanha,24781
+2022-06-01,2022,6,Southeast,Angola,2478
+2022-06-01,2022,6,Southeast,Argentina,66760
+2022-06-01,2022,6,Southeast,Arábia Saudita,0
+2022-06-01,2022,6,Southeast,Bolívia,6992
+2022-06-01,2022,6,Southeast,Bulgária,0
+2022-06-01,2022,6,Southeast,Bélgica,0
+2022-06-01,2022,6,Southeast,Cabo Verde,0
+2022-06-01,2022,6,Southeast,Canadá,10174
+2022-06-01,2022,6,Southeast,Chile,31388
+2022-06-01,2022,6,Southeast,China,0
+2022-06-01,2022,6,Southeast,Colômbia,20431
+2022-06-01,2022,6,Southeast,Coreia Do Sul,0
+2022-06-01,2022,6,Southeast,Emirados Árabes Unidos,10998
+2022-06-01,2022,6,Southeast,Equador,0
+2022-06-01,2022,6,Southeast,Espanha,29733
+2022-06-01,2022,6,Southeast,Estados Unidos Da América,108566
+2022-06-01,2022,6,Southeast,Etiópia,1956
+2022-06-01,2022,6,Southeast,França,28143
+2022-06-01,2022,6,Southeast,Gana,0
+2022-06-01,2022,6,Southeast,Guiana,0
+2022-06-01,2022,6,Southeast,Holanda,17581
+2022-06-01,2022,6,Southeast,Hong Kong,0
+2022-06-01,2022,6,Southeast,Itália,11514
+2022-06-01,2022,6,Southeast,Luxemburgo,0
+2022-06-01,2022,6,Southeast,Macau,0
+2022-06-01,2022,6,Southeast,México,11027
+2022-06-01,2022,6,Southeast,Nigéria,0
+2022-06-01,2022,6,Southeast,Panamá,34352
+2022-06-01,2022,6,Southeast,Paquistão,0
+2022-06-01,2022,6,Southeast,Paraguai,5807
+2022-06-01,2022,6,Southeast,Peru,10617
+2022-06-01,2022,6,Southeast,Porto Rico,0
+2022-06-01,2022,6,Southeast,Portugal,58441
+2022-06-01,2022,6,Southeast,Qatar,15972
+2022-06-01,2022,6,Southeast,Quênia,0
+2022-06-01,2022,6,Southeast,Reino Unido,18592
+2022-06-01,2022,6,Southeast,República Dominicana,2074
+2022-06-01,2022,6,Southeast,Senegal,0
+2022-06-01,2022,6,Southeast,Suíça,8387
+2022-06-01,2022,6,Southeast,Togo,0
+2022-06-01,2022,6,Southeast,Turquia,5745
+2022-06-01,2022,6,Southeast,Uruguai,10855
+2022-06-01,2022,6,Southeast,Venezuela,50
+2022-07-01,2022,7,Central-West,Argentina,2059
+2022-07-01,2022,7,Central-West,Estados Unidos Da América,9158
+2022-07-01,2022,7,Central-West,Ilhas Canárias,0
+2022-07-01,2022,7,Central-West,México,3609
+2022-07-01,2022,7,Central-West,Panamá,3850
+2022-07-01,2022,7,Central-West,Paraguai,100
+2022-07-01,2022,7,Central-West,Portugal,6115
+2022-07-01,2022,7,Central-West,Suécia,0
+2022-07-01,2022,7,North,Estados Unidos Da América,0
+2022-07-01,2022,7,North,Guiana Francesa,117
+2022-07-01,2022,7,North,México,0
+2022-07-01,2022,7,North,Panamá,2446
+2022-07-01,2022,7,North,Porto Rico,113
+2022-07-01,2022,7,North,Portugal,2003
+2022-07-01,2022,7,North,Suriname,898
+2022-07-01,2022,7,Northeast,Alemanha,0
+2022-07-01,2022,7,Northeast,Argentina,1486
+2022-07-01,2022,7,Northeast,Arábia Saudita,0
+2022-07-01,2022,7,Northeast,Cabo Verde,0
+2022-07-01,2022,7,Northeast,Chile,0
+2022-07-01,2022,7,Northeast,China,0
+2022-07-01,2022,7,Northeast,Colômbia,0
+2022-07-01,2022,7,Northeast,Estados Unidos Da América,143
+2022-07-01,2022,7,Northeast,França,3003
+2022-07-01,2022,7,Northeast,Gana,0
+2022-07-01,2022,7,Northeast,Macau,0
+2022-07-01,2022,7,Northeast,México,0
+2022-07-01,2022,7,Northeast,Paquistão,0
+2022-07-01,2022,7,Northeast,Portugal,26613
+2022-07-01,2022,7,Northeast,Senegal,0
+2022-07-01,2022,7,Northeast,Uruguai,327
+2022-07-01,2022,7,Northeast,Índia,0
+2022-07-01,2022,7,South,Alemanha,0
+2022-07-01,2022,7,South,Argentina,6089
+2022-07-01,2022,7,South,Chile,2134
+2022-07-01,2022,7,South,Estados Unidos Da América,0
+2022-07-01,2022,7,South,Holanda,0
+2022-07-01,2022,7,South,Luxemburgo,0
+2022-07-01,2022,7,South,Panamá,2275
+2022-07-01,2022,7,South,Paraguai,51
+2022-07-01,2022,7,South,Peru,1726
+2022-07-01,2022,7,South,Portugal,3115
+2022-07-01,2022,7,South,Uruguai,4251
+2022-07-01,2022,7,Southeast,Alemanha,28105
+2022-07-01,2022,7,Southeast,Angola,3309
+2022-07-01,2022,7,Southeast,Argentina,103084
+2022-07-01,2022,7,Southeast,Arábia Saudita,0
+2022-07-01,2022,7,Southeast,Bolívia,8815
+2022-07-01,2022,7,Southeast,Bulgária,0
+2022-07-01,2022,7,Southeast,Bélgica,0
+2022-07-01,2022,7,Southeast,Cabo Verde,0
+2022-07-01,2022,7,Southeast,Canadá,11863
+2022-07-01,2022,7,Southeast,Chile,43741
+2022-07-01,2022,7,Southeast,China,0
+2022-07-01,2022,7,Southeast,Colômbia,20170
+2022-07-01,2022,7,Southeast,Coreia Do Sul,0
+2022-07-01,2022,7,Southeast,Emirados Árabes Unidos,13998
+2022-07-01,2022,7,Southeast,Equador,77
+2022-07-01,2022,7,Southeast,Espanha,33409
+2022-07-01,2022,7,Southeast,Estados Unidos Da América,121032
+2022-07-01,2022,7,Southeast,Etiópia,2973
+2022-07-01,2022,7,Southeast,França,30451
+2022-07-01,2022,7,Southeast,Gana,0
+2022-07-01,2022,7,Southeast,Holanda,19677
+2022-07-01,2022,7,Southeast,Hong Kong,0
+2022-07-01,2022,7,Southeast,Itália,17987
+2022-07-01,2022,7,Southeast,Luxemburgo,0
+2022-07-01,2022,7,Southeast,Macau,0
+2022-07-01,2022,7,Southeast,México,12430
+2022-07-01,2022,7,Southeast,Nigéria,0
+2022-07-01,2022,7,Southeast,Panamá,34798
+2022-07-01,2022,7,Southeast,Paquistão,0
+2022-07-01,2022,7,Southeast,Paraguai,8042
+2022-07-01,2022,7,Southeast,Peru,12601
+2022-07-01,2022,7,Southeast,Porto Rico,0
+2022-07-01,2022,7,Southeast,Portugal,73050
+2022-07-01,2022,7,Southeast,Qatar,19278
+2022-07-01,2022,7,Southeast,Quênia,0
+2022-07-01,2022,7,Southeast,Reino Unido,23918
+2022-07-01,2022,7,Southeast,República Dominicana,2016
+2022-07-01,2022,7,Southeast,Senegal,0
+2022-07-01,2022,7,Southeast,Suíça,9080
+2022-07-01,2022,7,Southeast,Togo,0
+2022-07-01,2022,7,Southeast,Turquia,6245
+2022-07-01,2022,7,Southeast,Uruguai,11478
+2022-07-01,2022,7,Southeast,Índia,0
+2022-08-01,2022,8,Central-West,Argentina,1691
+2022-08-01,2022,8,Central-West,Estados Unidos Da América,8274
+2022-08-01,2022,8,Central-West,México,2682
+2022-08-01,2022,8,Central-West,Panamá,3584
+2022-08-01,2022,8,Central-West,Peru,51
+2022-08-01,2022,8,Central-West,Portugal,5186
+2022-08-01,2022,8,Central-West,Uruguai,225
+2022-08-01,2022,8,North,Bolívia,0
+2022-08-01,2022,8,North,Chile,0
+2022-08-01,2022,8,North,Colômbia,0
+2022-08-01,2022,8,North,Costa Rica,32
+2022-08-01,2022,8,North,Espanha,0
+2022-08-01,2022,8,North,Estados Unidos Da América,41
+2022-08-01,2022,8,North,Guiana,9
+2022-08-01,2022,8,North,Guiana Francesa,259
+2022-08-01,2022,8,North,Holanda,0
+2022-08-01,2022,8,North,México,0
+2022-08-01,2022,8,North,Panamá,1652
+2022-08-01,2022,8,North,Porto Rico,384
+2022-08-01,2022,8,North,Portugal,1845
+2022-08-01,2022,8,North,Suriname,1214
+2022-08-01,2022,8,North,Trinidad E Tobago,14
+2022-08-01,2022,8,Northeast,Alemanha,0
+2022-08-01,2022,8,Northeast,Argentina,1402
+2022-08-01,2022,8,Northeast,Cabo Verde,0
+2022-08-01,2022,8,Northeast,Estados Unidos Da América,600
+2022-08-01,2022,8,Northeast,França,2514
+2022-08-01,2022,8,Northeast,Itália,0
+2022-08-01,2022,8,Northeast,México,0
+2022-08-01,2022,8,Northeast,Portugal,23502
+2022-08-01,2022,8,South,Alemanha,0
+2022-08-01,2022,8,South,Argentina,5209
+2022-08-01,2022,8,South,Chile,1877
+2022-08-01,2022,8,South,Colômbia,0
+2022-08-01,2022,8,South,Estados Unidos Da América,0
+2022-08-01,2022,8,South,Holanda,0
+2022-08-01,2022,8,South,Luxemburgo,0
+2022-08-01,2022,8,South,Panamá,2228
+2022-08-01,2022,8,South,Peru,1788
+2022-08-01,2022,8,South,Portugal,3192
+2022-08-01,2022,8,South,Uruguai,4277
+2022-08-01,2022,8,Southeast,Alemanha,27080
+2022-08-01,2022,8,Southeast,Angola,2796
+2022-08-01,2022,8,Southeast,Argentina,92000
+2022-08-01,2022,8,Southeast,Bolívia,9704
+2022-08-01,2022,8,Southeast,Cabo Verde,0
+2022-08-01,2022,8,Southeast,Canadá,10111
+2022-08-01,2022,8,Southeast,Chile,44349
+2022-08-01,2022,8,Southeast,Colômbia,24755
+2022-08-01,2022,8,Southeast,Coreia Do Sul,0
+2022-08-01,2022,8,Southeast,Emirados Árabes Unidos,10093
+2022-08-01,2022,8,Southeast,Equador,0
+2022-08-01,2022,8,Southeast,Espanha,29493
+2022-08-01,2022,8,Southeast,Estados Unidos Da América,110564
+2022-08-01,2022,8,Southeast,Etiópia,3399
+2022-08-01,2022,8,Southeast,França,28552
+2022-08-01,2022,8,Southeast,Gana,0
+2022-08-01,2022,8,Southeast,Guiné,0
+2022-08-01,2022,8,Southeast,Holanda,17437
+2022-08-01,2022,8,Southeast,Itália,19486
+2022-08-01,2022,8,Southeast,Luxemburgo,0
+2022-08-01,2022,8,Southeast,México,11060
+2022-08-01,2022,8,Southeast,Nigéria,0
+2022-08-01,2022,8,Southeast,Panamá,32464
+2022-08-01,2022,8,Southeast,Paraguai,7369
+2022-08-01,2022,8,Southeast,Peru,12531
+2022-08-01,2022,8,Southeast,Porto Rico,0
+2022-08-01,2022,8,Southeast,Portugal,67774
+2022-08-01,2022,8,Southeast,Qatar,16762
+2022-08-01,2022,8,Southeast,Reino Unido,20179
+2022-08-01,2022,8,Southeast,República Dominicana,2292
+2022-08-01,2022,8,Southeast,Senegal,0
+2022-08-01,2022,8,Southeast,Suíça,8185
+2022-08-01,2022,8,Southeast,Turquia,6347
+2022-08-01,2022,8,Southeast,Uganda,0
+2022-08-01,2022,8,Southeast,Uruguai,10617
+2022-08-01,2022,8,Southeast,Índia,0
+2022-09-01,2022,9,Central-West,Argentina,1766
+2022-09-01,2022,9,Central-West,Estados Unidos Da América,8069
+2022-09-01,2022,9,Central-West,Holanda,0
+2022-09-01,2022,9,Central-West,México,1570
+2022-09-01,2022,9,Central-West,Panamá,3268
+2022-09-01,2022,9,Central-West,Portugal,5213
+2022-09-01,2022,9,North,Aruba,0
+2022-09-01,2022,9,North,Bolívia,0
+2022-09-01,2022,9,North,Colômbia,0
+2022-09-01,2022,9,North,Equador,0
+2022-09-01,2022,9,North,Espanha,0
+2022-09-01,2022,9,North,Estados Unidos Da América,0
+2022-09-01,2022,9,North,Holanda,0
+2022-09-01,2022,9,North,México,0
+2022-09-01,2022,9,North,Panamá,2085
+2022-09-01,2022,9,North,Porto Rico,106
+2022-09-01,2022,9,North,Portugal,1641
+2022-09-01,2022,9,North,Suriname,1438
+2022-09-01,2022,9,Northeast,Alemanha,0
+2022-09-01,2022,9,Northeast,Argentina,1719
+2022-09-01,2022,9,Northeast,Estados Unidos Da América,773
+2022-09-01,2022,9,Northeast,França,2452
+2022-09-01,2022,9,Northeast,México,0
+2022-09-01,2022,9,Northeast,Portugal,21503
+2022-09-01,2022,9,Northeast,Uruguai,682
+2022-09-01,2022,9,South,Alemanha,0
+2022-09-01,2022,9,South,Argentina,5092
+2022-09-01,2022,9,South,Chile,2755
+2022-09-01,2022,9,South,Estados Unidos Da América,0
+2022-09-01,2022,9,South,Holanda,0
+2022-09-01,2022,9,South,Luxemburgo,0
+2022-09-01,2022,9,South,Panamá,2940
+2022-09-01,2022,9,South,Paraguai,0
+2022-09-01,2022,9,South,Peru,1991
+2022-09-01,2022,9,South,Portugal,2860
+2022-09-01,2022,9,South,Uruguai,3949
+2022-09-01,2022,9,Southeast,Alemanha,25599
+2022-09-01,2022,9,Southeast,Angola,2803
+2022-09-01,2022,9,Southeast,Argentina,94345
+2022-09-01,2022,9,Southeast,Bolívia,9740
+2022-09-01,2022,9,Southeast,Cabo Verde,0
+2022-09-01,2022,9,Southeast,Canadá,9954
+2022-09-01,2022,9,Southeast,Chile,46075
+2022-09-01,2022,9,Southeast,China,0
+2022-09-01,2022,9,Southeast,Colômbia,21260
+2022-09-01,2022,9,Southeast,Coreia Do Sul,0
+2022-09-01,2022,9,Southeast,Emirados Árabes Unidos,9715
+2022-09-01,2022,9,Southeast,Equador,0
+2022-09-01,2022,9,Southeast,Espanha,28248
+2022-09-01,2022,9,Southeast,Estados Unidos Da América,111810
+2022-09-01,2022,9,Southeast,Etiópia,3432
+2022-09-01,2022,9,Southeast,França,29595
+2022-09-01,2022,9,Southeast,Gana,0
+2022-09-01,2022,9,Southeast,Holanda,18231
+2022-09-01,2022,9,Southeast,Hong Kong,0
+2022-09-01,2022,9,Southeast,Itália,18119
+2022-09-01,2022,9,Southeast,Japão,0
+2022-09-01,2022,9,Southeast,Luxemburgo,0
+2022-09-01,2022,9,Southeast,México,10658
+2022-09-01,2022,9,Southeast,Nigéria,0
+2022-09-01,2022,9,Southeast,Panamá,32111
+2022-09-01,2022,9,Southeast,Paraguai,8127
+2022-09-01,2022,9,Southeast,Peru,12865
+2022-09-01,2022,9,Southeast,Porto Rico,0
+2022-09-01,2022,9,Southeast,Portugal,65464
+2022-09-01,2022,9,Southeast,Qatar,16451
+2022-09-01,2022,9,Southeast,Reino Unido,19490
+2022-09-01,2022,9,Southeast,República Dominicana,2697
+2022-09-01,2022,9,Southeast,Senegal,0
+2022-09-01,2022,9,Southeast,Suíça,8004
+2022-09-01,2022,9,Southeast,Turquia,5856
+2022-09-01,2022,9,Southeast,Uruguai,12651
+2022-10-01,2022,10,Central-West,Argentina,1407
+2022-10-01,2022,10,Central-West,Estados Unidos Da América,9182
+2022-10-01,2022,10,Central-West,México,1102
+2022-10-01,2022,10,Central-West,Panamá,3722
+2022-10-01,2022,10,Central-West,Portugal,5648
+2022-10-01,2022,10,North,Cabo Verde,294
+2022-10-01,2022,10,North,Colômbia,156
+2022-10-01,2022,10,North,Equador,1682
+2022-10-01,2022,10,North,Estados Unidos Da América,0
+2022-10-01,2022,10,North,Holanda,0
+2022-10-01,2022,10,North,México,0
+2022-10-01,2022,10,North,Panamá,1958
+2022-10-01,2022,10,North,Porto Rico,0
+2022-10-01,2022,10,North,Portugal,1545
+2022-10-01,2022,10,North,Suriname,1252
+2022-10-01,2022,10,Northeast,Alemanha,0
+2022-10-01,2022,10,Northeast,Argentina,3059
+2022-10-01,2022,10,Northeast,Chile,0
+2022-10-01,2022,10,Northeast,Estados Unidos Da América,846
+2022-10-01,2022,10,Northeast,França,2564
+2022-10-01,2022,10,Northeast,México,0
+2022-10-01,2022,10,Northeast,Portugal,25909
+2022-10-01,2022,10,South,Alemanha,0
+2022-10-01,2022,10,South,Argentina,6596
+2022-10-01,2022,10,South,Bolívia,0
+2022-10-01,2022,10,South,Chile,2390
+2022-10-01,2022,10,South,Equador,330
+2022-10-01,2022,10,South,Estados Unidos Da América,0
+2022-10-01,2022,10,South,Luxemburgo,0
+2022-10-01,2022,10,South,Panamá,3103
+2022-10-01,2022,10,South,Peru,1856
+2022-10-01,2022,10,South,Portugal,3096
+2022-10-01,2022,10,South,Uruguai,3631
+2022-10-01,2022,10,Southeast,Alemanha,29009
+2022-10-01,2022,10,Southeast,Angola,2305
+2022-10-01,2022,10,Southeast,Argentina,101127
+2022-10-01,2022,10,Southeast,Bolívia,9732
+2022-10-01,2022,10,Southeast,Cabo Verde,0
+2022-10-01,2022,10,Southeast,Canadá,10530
+2022-10-01,2022,10,Southeast,Chile,46499
+2022-10-01,2022,10,Southeast,Colômbia,25108
+2022-10-01,2022,10,Southeast,Coreia Do Sul,0
+2022-10-01,2022,10,Southeast,Emirados Árabes Unidos,10827
+2022-10-01,2022,10,Southeast,Equador,1250
+2022-10-01,2022,10,Southeast,Espanha,31742
+2022-10-01,2022,10,Southeast,Estados Unidos Da América,124141
+2022-10-01,2022,10,Southeast,Etiópia,3820
+2022-10-01,2022,10,Southeast,França,34704
+2022-10-01,2022,10,Southeast,Gana,0
+2022-10-01,2022,10,Southeast,Holanda,19538
+2022-10-01,2022,10,Southeast,Hong Kong,0
+2022-10-01,2022,10,Southeast,Itália,20877
+2022-10-01,2022,10,Southeast,Luxemburgo,0
+2022-10-01,2022,10,Southeast,México,11575
+2022-10-01,2022,10,Southeast,Nigéria,0
+2022-10-01,2022,10,Southeast,Panamá,34061
+2022-10-01,2022,10,Southeast,Paraguai,9558
+2022-10-01,2022,10,Southeast,Peru,12802
+2022-10-01,2022,10,Southeast,Porto Rico,0
+2022-10-01,2022,10,Southeast,Portugal,64563
+2022-10-01,2022,10,Southeast,Qatar,19922
+2022-10-01,2022,10,Southeast,Reino Unido,21910
+2022-10-01,2022,10,Southeast,República Dominicana,2741
+2022-10-01,2022,10,Southeast,Senegal,0
+2022-10-01,2022,10,Southeast,Suíça,8593
+2022-10-01,2022,10,Southeast,Turquia,6596
+2022-10-01,2022,10,Southeast,Uruguai,14093
+2022-11-01,2022,11,Central-West,Argentina,1347
+2022-11-01,2022,11,Central-West,Estados Unidos Da América,8726
+2022-11-01,2022,11,Central-West,México,623
+2022-11-01,2022,11,Central-West,Panamá,4178
+2022-11-01,2022,11,Central-West,Portugal,5171
+2022-11-01,2022,11,North,Bolívia,0
+2022-11-01,2022,11,North,Cabo Verde,733
+2022-11-01,2022,11,North,Colômbia,168
+2022-11-01,2022,11,North,Estados Unidos Da América,0
+2022-11-01,2022,11,North,México,0
+2022-11-01,2022,11,North,Panamá,1831
+2022-11-01,2022,11,North,Porto Rico,0
+2022-11-01,2022,11,North,Portugal,1127
+2022-11-01,2022,11,North,Suriname,1180
+2022-11-01,2022,11,Northeast,Alemanha,0
+2022-11-01,2022,11,Northeast,Argentina,2900
+2022-11-01,2022,11,Northeast,Benim,43
+2022-11-01,2022,11,Northeast,Chile,0
+2022-11-01,2022,11,Northeast,Estados Unidos Da América,1032
+2022-11-01,2022,11,Northeast,França,3542
+2022-11-01,2022,11,Northeast,México,0
+2022-11-01,2022,11,Northeast,Portugal,24264
+2022-11-01,2022,11,Northeast,Uruguai,311
+2022-11-01,2022,11,South,Alemanha,0
+2022-11-01,2022,11,South,Argentina,6694
+2022-11-01,2022,11,South,Chile,4920
+2022-11-01,2022,11,South,Estados Unidos Da América,0
+2022-11-01,2022,11,South,Holanda,0
+2022-11-01,2022,11,South,Luxemburgo,0
+2022-11-01,2022,11,South,Panamá,3113
+2022-11-01,2022,11,South,Peru,1432
+2022-11-01,2022,11,South,Portugal,3435
+2022-11-01,2022,11,South,Uruguai,3278
+2022-11-01,2022,11,Southeast,Alemanha,27259
+2022-11-01,2022,11,Southeast,Angola,3563
+2022-11-01,2022,11,Southeast,Argentina,89849
+2022-11-01,2022,11,Southeast,Bolívia,10513
+2022-11-01,2022,11,Southeast,Bélgica,0
+2022-11-01,2022,11,Southeast,Cabo Verde,0
+2022-11-01,2022,11,Southeast,Canadá,12337
+2022-11-01,2022,11,Southeast,Chile,49255
+2022-11-01,2022,11,Southeast,Colômbia,24663
+2022-11-01,2022,11,Southeast,Coreia Do Sul,0
+2022-11-01,2022,11,Southeast,Emirados Árabes Unidos,16771
+2022-11-01,2022,11,Southeast,Equador,0
+2022-11-01,2022,11,Southeast,Espanha,33239
+2022-11-01,2022,11,Southeast,Estados Unidos Da América,133159
+2022-11-01,2022,11,Southeast,Etiópia,4049
+2022-11-01,2022,11,Southeast,França,33567
+2022-11-01,2022,11,Southeast,Gana,0
+2022-11-01,2022,11,Southeast,Holanda,17453
+2022-11-01,2022,11,Southeast,Hong Kong,0
+2022-11-01,2022,11,Southeast,Itália,19688
+2022-11-01,2022,11,Southeast,Luxemburgo,0
+2022-11-01,2022,11,Southeast,Malta,0
+2022-11-01,2022,11,Southeast,Marrocos,0
+2022-11-01,2022,11,Southeast,México,11099
+2022-11-01,2022,11,Southeast,Nigéria,0
+2022-11-01,2022,11,Southeast,Panamá,31476
+2022-11-01,2022,11,Southeast,Paraguai,9070
+2022-11-01,2022,11,Southeast,Peru,14084
+2022-11-01,2022,11,Southeast,Porto Rico,0
+2022-11-01,2022,11,Southeast,Portugal,63600
+2022-11-01,2022,11,Southeast,Qatar,19873
+2022-11-01,2022,11,Southeast,Reino Unido,20514
+2022-11-01,2022,11,Southeast,República Dominicana,2437
+2022-11-01,2022,11,Southeast,Senegal,0
+2022-11-01,2022,11,Southeast,Suíça,7971
+2022-11-01,2022,11,Southeast,Togo,0
+2022-11-01,2022,11,Southeast,Turquia,6104
+2022-11-01,2022,11,Southeast,Uruguai,15027
+2022-12-01,2022,12,Central-West,Argentina,1407
+2022-12-01,2022,12,Central-West,Estados Unidos Da América,9561
+2022-12-01,2022,12,Central-West,Holanda,0
+2022-12-01,2022,12,Central-West,Itália,0
+2022-12-01,2022,12,Central-West,México,571
+2022-12-01,2022,12,Central-West,Panamá,3441
+2022-12-01,2022,12,Central-West,Portugal,5053
+2022-12-01,2022,12,Central-West,República Dominicana,0
+2022-12-01,2022,12,Central-West,Rússia,58
+2022-12-01,2022,12,North,Cabo Verde,454
+2022-12-01,2022,12,North,Equador,240
+2022-12-01,2022,12,North,Estados Unidos Da América,1783
+2022-12-01,2022,12,North,Martinica,2
+2022-12-01,2022,12,North,México,0
+2022-12-01,2022,12,North,Panamá,1469
+2022-12-01,2022,12,North,Porto Rico,0
+2022-12-01,2022,12,North,Portugal,1344
+2022-12-01,2022,12,North,Suriname,1686
+2022-12-01,2022,12,Northeast,Alemanha,0
+2022-12-01,2022,12,Northeast,Argentina,3955
+2022-12-01,2022,12,Northeast,Cabo Verde,0
+2022-12-01,2022,12,Northeast,Chile,0
+2022-12-01,2022,12,Northeast,Coreia Do Sul,0
+2022-12-01,2022,12,Northeast,Emirados Árabes Unidos,0
+2022-12-01,2022,12,Northeast,Espanha,1157
+2022-12-01,2022,12,Northeast,Estados Unidos Da América,1584
+2022-12-01,2022,12,Northeast,França,3533
+2022-12-01,2022,12,Northeast,México,0
+2022-12-01,2022,12,Northeast,Portugal,25488
+2022-12-01,2022,12,Northeast,Uruguai,726
+2022-12-01,2022,12,South,Alemanha,0
+2022-12-01,2022,12,South,Argentina,15028
+2022-12-01,2022,12,South,Chile,10714
+2022-12-01,2022,12,South,Estados Unidos Da América,0
+2022-12-01,2022,12,South,Holanda,0
+2022-12-01,2022,12,South,Luxemburgo,0
+2022-12-01,2022,12,South,Panamá,3061
+2022-12-01,2022,12,South,Paraguai,150
+2022-12-01,2022,12,South,Peru,1166
+2022-12-01,2022,12,South,Portugal,3132
+2022-12-01,2022,12,South,Uruguai,3503
+2022-12-01,2022,12,Southeast,Alemanha,26212
+2022-12-01,2022,12,Southeast,Angola,4396
+2022-12-01,2022,12,Southeast,Argentina,100183
+2022-12-01,2022,12,Southeast,Bolívia,12087
+2022-12-01,2022,12,Southeast,Bélgica,0
+2022-12-01,2022,12,Southeast,Cabo Verde,0
+2022-12-01,2022,12,Southeast,Canadá,17922
+2022-12-01,2022,12,Southeast,Chile,53011
+2022-12-01,2022,12,Southeast,Colômbia,21416
+2022-12-01,2022,12,Southeast,Coreia Do Sul,0
+2022-12-01,2022,12,Southeast,Emirados Árabes Unidos,15153
+2022-12-01,2022,12,Southeast,Equador,0
+2022-12-01,2022,12,Southeast,Espanha,33764
+2022-12-01,2022,12,Southeast,Estados Unidos Da América,158356
+2022-12-01,2022,12,Southeast,Etiópia,2896
+2022-12-01,2022,12,Southeast,França,34737
+2022-12-01,2022,12,Southeast,Gana,0
+2022-12-01,2022,12,Southeast,Holanda,19614
+2022-12-01,2022,12,Southeast,Hong Kong,0
+2022-12-01,2022,12,Southeast,Itália,19436
+2022-12-01,2022,12,Southeast,Luxemburgo,0
+2022-12-01,2022,12,Southeast,Martinica,635
+2022-12-01,2022,12,Southeast,México,10853
+2022-12-01,2022,12,Southeast,Nigéria,0
+2022-12-01,2022,12,Southeast,Panamá,30947
+2022-12-01,2022,12,Southeast,Paraguai,9627
+2022-12-01,2022,12,Southeast,Peru,13066
+2022-12-01,2022,12,Southeast,Porto Rico,0
+2022-12-01,2022,12,Southeast,Portugal,67055
+2022-12-01,2022,12,Southeast,Qatar,24360
+2022-12-01,2022,12,Southeast,Reino Unido,23079
+2022-12-01,2022,12,Southeast,República Dominicana,2764
+2022-12-01,2022,12,Southeast,Senegal,0
+2022-12-01,2022,12,Southeast,Suíça,8564
+2022-12-01,2022,12,Southeast,Togo,0
+2022-12-01,2022,12,Southeast,Turquia,5172
+2022-12-01,2022,12,Southeast,Uruguai,13292
+2023-01-01,2023,1,Central-West,Argentina,2145
+2023-01-01,2023,1,Central-West,Estados Unidos Da América,11093
+2023-01-01,2023,1,Central-West,Guiana,5
+2023-01-01,2023,1,Central-West,México,833
+2023-01-01,2023,1,Central-West,Panamá,4149
+2023-01-01,2023,1,Central-West,Portugal,5527
+2023-01-01,2023,1,Central-West,República Dominicana,0
+2023-01-01,2023,1,Central-West,Suriname,9
+2023-01-01,2023,1,North,Bolívia,2
+2023-01-01,2023,1,North,Cabo Verde,159
+2023-01-01,2023,1,North,Equador,273
+2023-01-01,2023,1,North,Estados Unidos Da América,5304
+2023-01-01,2023,1,North,Guiana,11
+2023-01-01,2023,1,North,Martinica,0
+2023-01-01,2023,1,North,México,0
+2023-01-01,2023,1,North,Panamá,2282
+2023-01-01,2023,1,North,Porto Rico,0
+2023-01-01,2023,1,North,Portugal,1636
+2023-01-01,2023,1,North,Suriname,1053
+2023-01-01,2023,1,Northeast,Alemanha,0
+2023-01-01,2023,1,Northeast,Argentina,7057
+2023-01-01,2023,1,Northeast,Espanha,2255
+2023-01-01,2023,1,Northeast,Estados Unidos Da América,1428
+2023-01-01,2023,1,Northeast,França,3247
+2023-01-01,2023,1,Northeast,México,0
+2023-01-01,2023,1,Northeast,Portugal,25791
+2023-01-01,2023,1,Northeast,Uruguai,1998
+2023-01-01,2023,1,South,Alemanha,0
+2023-01-01,2023,1,South,Argentina,32189
+2023-01-01,2023,1,South,Chile,13366
+2023-01-01,2023,1,South,Estados Unidos Da América,0
+2023-01-01,2023,1,South,Holanda,0
+2023-01-01,2023,1,South,Luxemburgo,0
+2023-01-01,2023,1,South,Panamá,3754
+2023-01-01,2023,1,South,Paraguai,508
+2023-01-01,2023,1,South,Peru,1473
+2023-01-01,2023,1,South,Portugal,3126
+2023-01-01,2023,1,South,Uruguai,6423
+2023-01-01,2023,1,Southeast,Alemanha,26330
+2023-01-01,2023,1,Southeast,Angola,4499
+2023-01-01,2023,1,Southeast,Argentina,140887
+2023-01-01,2023,1,Southeast,Bolívia,15023
+2023-01-01,2023,1,Southeast,Bélgica,0
+2023-01-01,2023,1,Southeast,Cabo Verde,0
+2023-01-01,2023,1,Southeast,Canadá,13726
+2023-01-01,2023,1,Southeast,Chile,77375
+2023-01-01,2023,1,Southeast,Colômbia,26594
+2023-01-01,2023,1,Southeast,Coreia Do Sul,0
+2023-01-01,2023,1,Southeast,Emirados Árabes Unidos,16043
+2023-01-01,2023,1,Southeast,Equador,0
+2023-01-01,2023,1,Southeast,Espanha,34735
+2023-01-01,2023,1,Southeast,Estados Unidos Da América,159560
+2023-01-01,2023,1,Southeast,Etiópia,2849
+2023-01-01,2023,1,Southeast,França,35437
+2023-01-01,2023,1,Southeast,Gana,0
+2023-01-01,2023,1,Southeast,Holanda,19789
+2023-01-01,2023,1,Southeast,Hong Kong,0
+2023-01-01,2023,1,Southeast,Ilhas Canárias,296
+2023-01-01,2023,1,Southeast,Itália,19019
+2023-01-01,2023,1,Southeast,Luxemburgo,0
+2023-01-01,2023,1,Southeast,Martinica,637
+2023-01-01,2023,1,Southeast,México,12070
+2023-01-01,2023,1,Southeast,Nigéria,0
+2023-01-01,2023,1,Southeast,Panamá,40923
+2023-01-01,2023,1,Southeast,Paraguai,13341
+2023-01-01,2023,1,Southeast,Peru,15027
+2023-01-01,2023,1,Southeast,Porto Rico,0
+2023-01-01,2023,1,Southeast,Portugal,69820
+2023-01-01,2023,1,Southeast,Qatar,19282
+2023-01-01,2023,1,Southeast,Reino Unido,22610
+2023-01-01,2023,1,Southeast,República Democrática Do Congo,380
+2023-01-01,2023,1,Southeast,República Dominicana,3770
+2023-01-01,2023,1,Southeast,Senegal,0
+2023-01-01,2023,1,Southeast,Suíça,8625
+2023-01-01,2023,1,Southeast,Togo,0
+2023-01-01,2023,1,Southeast,Turquia,5506
+2023-01-01,2023,1,Southeast,Uruguai,22610
+2023-02-01,2023,2,Central-West,Argentina,1183
+2023-02-01,2023,2,Central-West,Estados Unidos Da América,7057
+2023-02-01,2023,2,Central-West,México,150
+2023-02-01,2023,2,Central-West,Panamá,3579
+2023-02-01,2023,2,Central-West,Portugal,4049
+2023-02-01,2023,2,North,Aruba,94
+2023-02-01,2023,2,North,Cabo Verde,163
+2023-02-01,2023,2,North,Colômbia,0
+2023-02-01,2023,2,North,Coreia Do Sul,0
+2023-02-01,2023,2,North,Estados Unidos Da América,3766
+2023-02-01,2023,2,North,Guiana,16
+2023-02-01,2023,2,North,Martinica,0
+2023-02-01,2023,2,North,México,0
+2023-02-01,2023,2,North,Panamá,1628
+2023-02-01,2023,2,North,Portugal,1369
+2023-02-01,2023,2,North,Suriname,799
+2023-02-01,2023,2,Northeast,Alemanha,0
+2023-02-01,2023,2,Northeast,Argentina,5761
+2023-02-01,2023,2,Northeast,Espanha,2452
+2023-02-01,2023,2,Northeast,Estados Unidos Da América,2469
+2023-02-01,2023,2,Northeast,França,2916
+2023-02-01,2023,2,Northeast,Itália,0
+2023-02-01,2023,2,Northeast,México,0
+2023-02-01,2023,2,Northeast,Portugal,20797
+2023-02-01,2023,2,Northeast,Reino Unido,56
+2023-02-01,2023,2,Northeast,Senegal,0
+2023-02-01,2023,2,Northeast,Uruguai,1702
+2023-02-01,2023,2,South,Alemanha,0
+2023-02-01,2023,2,South,Argentina,20900
+2023-02-01,2023,2,South,Chile,12300
+2023-02-01,2023,2,South,Estados Unidos Da América,0
+2023-02-01,2023,2,South,Luxemburgo,0
+2023-02-01,2023,2,South,Panamá,2769
+2023-02-01,2023,2,South,Paraguai,78
+2023-02-01,2023,2,South,Peru,1255
+2023-02-01,2023,2,South,Portugal,2846
+2023-02-01,2023,2,South,Uruguai,4991
+2023-02-01,2023,2,Southeast,Alemanha,23372
+2023-02-01,2023,2,Southeast,Angola,4035
+2023-02-01,2023,2,Southeast,Argentina,99759
+2023-02-01,2023,2,Southeast,Bolívia,9945
+2023-02-01,2023,2,Southeast,Bélgica,0
+2023-02-01,2023,2,Southeast,Cabo Verde,0
+2023-02-01,2023,2,Southeast,Canadá,13015
+2023-02-01,2023,2,Southeast,Chile,69409
+2023-02-01,2023,2,Southeast,Colômbia,26390
+2023-02-01,2023,2,Southeast,Coreia Do Sul,0
+2023-02-01,2023,2,Southeast,Costa Rica,0
+2023-02-01,2023,2,Southeast,Emirados Árabes Unidos,14400
+2023-02-01,2023,2,Southeast,Equador,82
+2023-02-01,2023,2,Southeast,Espanha,31887
+2023-02-01,2023,2,Southeast,Estados Unidos Da América,144733
+2023-02-01,2023,2,Southeast,Etiópia,2697
+2023-02-01,2023,2,Southeast,França,31713
+2023-02-01,2023,2,Southeast,Gana,0
+2023-02-01,2023,2,Southeast,Holanda,18172
+2023-02-01,2023,2,Southeast,Ilhas Canárias,0
+2023-02-01,2023,2,Southeast,Itália,17856
+2023-02-01,2023,2,Southeast,Luxemburgo,0
+2023-02-01,2023,2,Southeast,Mali,0
+2023-02-01,2023,2,Southeast,Marrocos,420
+2023-02-01,2023,2,Southeast,Martinica,649
+2023-02-01,2023,2,Southeast,México,9543
+2023-02-01,2023,2,Southeast,Nigéria,0
+2023-02-01,2023,2,Southeast,Panamá,31162
+2023-02-01,2023,2,Southeast,Paraguai,9335
+2023-02-01,2023,2,Southeast,Peru,13632
+2023-02-01,2023,2,Southeast,Porto Rico,0
+2023-02-01,2023,2,Southeast,Portugal,60110
+2023-02-01,2023,2,Southeast,Qatar,17873
+2023-02-01,2023,2,Southeast,Reino Unido,20730
+2023-02-01,2023,2,Southeast,República Democrática Do Congo,0
+2023-02-01,2023,2,Southeast,República Dominicana,1734
+2023-02-01,2023,2,Southeast,Senegal,0
+2023-02-01,2023,2,Southeast,Suíça,7603
+2023-02-01,2023,2,Southeast,Turquia,5098
+2023-02-01,2023,2,Southeast,Uruguai,14486
+2023-03-01,2023,3,Central-West,Argentina,1318
+2023-03-01,2023,3,Central-West,Estados Unidos Da América,7309
+2023-03-01,2023,3,Central-West,Holanda,0
+2023-03-01,2023,3,Central-West,Panamá,3759
+2023-03-01,2023,3,Central-West,Peru,581
+2023-03-01,2023,3,Central-West,Portugal,4042
+2023-03-01,2023,3,North,Bolívia,0
+2023-03-01,2023,3,North,Colômbia,132
+2023-03-01,2023,3,North,Equador,0
+2023-03-01,2023,3,North,Estados Unidos Da América,2829
+2023-03-01,2023,3,North,Guiana,58
+2023-03-01,2023,3,North,Martinica,0
+2023-03-01,2023,3,North,México,0
+2023-03-01,2023,3,North,Nicarágua,0
+2023-03-01,2023,3,North,Panamá,1472
+2023-03-01,2023,3,North,Porto Rico,0
+2023-03-01,2023,3,North,Portugal,1330
+2023-03-01,2023,3,North,Suriname,1001
+2023-03-01,2023,3,Northeast,Alemanha,0
+2023-03-01,2023,3,Northeast,Argentina,6083
+2023-03-01,2023,3,Northeast,Espanha,2486
+2023-03-01,2023,3,Northeast,Estados Unidos Da América,3142
+2023-03-01,2023,3,Northeast,França,2356
+2023-03-01,2023,3,Northeast,Ilhas Canárias,0
+2023-03-01,2023,3,Northeast,México,0
+2023-03-01,2023,3,Northeast,Paraguai,59
+2023-03-01,2023,3,Northeast,Portugal,18976
+2023-03-01,2023,3,Northeast,Uruguai,1099
+2023-03-01,2023,3,South,Alemanha,0
+2023-03-01,2023,3,South,Argentina,16684
+2023-03-01,2023,3,South,Chile,7318
+2023-03-01,2023,3,South,Colômbia,0
+2023-03-01,2023,3,South,Estados Unidos Da América,0
+2023-03-01,2023,3,South,Luxemburgo,0
+2023-03-01,2023,3,South,Panamá,2852
+2023-03-01,2023,3,South,Peru,1306
+2023-03-01,2023,3,South,Portugal,2733
+2023-03-01,2023,3,South,Uruguai,4625
+2023-03-01,2023,3,Southeast,Alemanha,23676
+2023-03-01,2023,3,Southeast,Angola,4068
+2023-03-01,2023,3,Southeast,Argentina,106107
+2023-03-01,2023,3,Southeast,Azerbaijão,0
+2023-03-01,2023,3,Southeast,Bolívia,10480
+2023-03-01,2023,3,Southeast,Cabo Verde,0
+2023-03-01,2023,3,Southeast,Canadá,11397
+2023-03-01,2023,3,Southeast,Chile,55307
+2023-03-01,2023,3,Southeast,Colômbia,26928
+2023-03-01,2023,3,Southeast,Coreia Do Sul,0
+2023-03-01,2023,3,Southeast,Costa Rica,0
+2023-03-01,2023,3,Southeast,Emirados Árabes Unidos,16348
+2023-03-01,2023,3,Southeast,Equador,282
+2023-03-01,2023,3,Southeast,Espanha,32336
+2023-03-01,2023,3,Southeast,Estados Unidos Da América,137429
+2023-03-01,2023,3,Southeast,Etiópia,3458
+2023-03-01,2023,3,Southeast,França,33097
+2023-03-01,2023,3,Southeast,Gana,0
+2023-03-01,2023,3,Southeast,Holanda,17641
+2023-03-01,2023,3,Southeast,Hong Kong,0
+2023-03-01,2023,3,Southeast,Ilhas Canárias,0
+2023-03-01,2023,3,Southeast,Itália,16978
+2023-03-01,2023,3,Southeast,Luxemburgo,0
+2023-03-01,2023,3,Southeast,Marrocos,0
+2023-03-01,2023,3,Southeast,Martinica,604
+2023-03-01,2023,3,Southeast,México,10372
+2023-03-01,2023,3,Southeast,Nicarágua,0
+2023-03-01,2023,3,Southeast,Nigéria,0
+2023-03-01,2023,3,Southeast,Panamá,35707
+2023-03-01,2023,3,Southeast,Paraguai,9678
+2023-03-01,2023,3,Southeast,Peru,14471
+2023-03-01,2023,3,Southeast,Porto Rico,0
+2023-03-01,2023,3,Southeast,Portugal,60080
+2023-03-01,2023,3,Southeast,Qatar,19442
+2023-03-01,2023,3,Southeast,Reino Unido,22504
+2023-03-01,2023,3,Southeast,República Democrática Do Congo,0
+2023-03-01,2023,3,Southeast,República Dominicana,1294
+2023-03-01,2023,3,Southeast,Senegal,0
+2023-03-01,2023,3,Southeast,Suíça,8418
+2023-03-01,2023,3,Southeast,Turquia,5546
+2023-03-01,2023,3,Southeast,Uruguai,17803
+2023-03-01,2023,3,Southeast,África Do Sul,0
+2023-04-01,2023,4,Central-West,Alemanha,0
+2023-04-01,2023,4,Central-West,Argentina,1470
+2023-04-01,2023,4,Central-West,Cabo Verde,0
+2023-04-01,2023,4,Central-West,Colômbia,0
+2023-04-01,2023,4,Central-West,Estados Unidos Da América,7190
+2023-04-01,2023,4,Central-West,Holanda,0
+2023-04-01,2023,4,Central-West,Panamá,3541
+2023-04-01,2023,4,Central-West,Peru,3461
+2023-04-01,2023,4,Central-West,Portugal,4977
+2023-04-01,2023,4,Central-West,Uruguai,0
+2023-04-01,2023,4,Central-West,Venezuela,40
+2023-04-01,2023,4,North,Colômbia,1179
+2023-04-01,2023,4,North,Estados Unidos Da América,2230
+2023-04-01,2023,4,North,Guiana,0
+2023-04-01,2023,4,North,Martinica,145
+2023-04-01,2023,4,North,México,0
+2023-04-01,2023,4,North,Panamá,1186
+2023-04-01,2023,4,North,Peru,0
+2023-04-01,2023,4,North,Portugal,1523
+2023-04-01,2023,4,North,Suriname,1305
+2023-04-01,2023,4,North,Venezuela,166
+2023-04-01,2023,4,Northeast,Alemanha,0
+2023-04-01,2023,4,Northeast,Argentina,4280
+2023-04-01,2023,4,Northeast,Espanha,1903
+2023-04-01,2023,4,Northeast,Estados Unidos Da América,2751
+2023-04-01,2023,4,Northeast,França,2414
+2023-04-01,2023,4,Northeast,Holanda,0
+2023-04-01,2023,4,Northeast,México,0
+2023-04-01,2023,4,Northeast,Portugal,19319
+2023-04-01,2023,4,Northeast,Uruguai,1792
+2023-04-01,2023,4,South,Alemanha,0
+2023-04-01,2023,4,South,Argentina,10776
+2023-04-01,2023,4,South,Bolívia,0
+2023-04-01,2023,4,South,Bélgica,0
+2023-04-01,2023,4,South,Chile,7063
+2023-04-01,2023,4,South,Estados Unidos Da América,0
+2023-04-01,2023,4,South,Luxemburgo,0
+2023-04-01,2023,4,South,Panamá,3123
+2023-04-01,2023,4,South,Paraguai,0
+2023-04-01,2023,4,South,Peru,1289
+2023-04-01,2023,4,South,Portugal,2743
+2023-04-01,2023,4,South,Uruguai,4514
+2023-04-01,2023,4,South,Venezuela,0
+2023-04-01,2023,4,Southeast,Alemanha,21756
+2023-04-01,2023,4,Southeast,Angola,3821
+2023-04-01,2023,4,Southeast,Argentina,95265
+2023-04-01,2023,4,Southeast,Bolívia,9823
+2023-04-01,2023,4,Southeast,Cabo Verde,0
+2023-04-01,2023,4,Southeast,Canadá,7831
+2023-04-01,2023,4,Southeast,Chile,56484
+2023-04-01,2023,4,Southeast,Colômbia,25267
+2023-04-01,2023,4,Southeast,Coreia Do Sul,0
+2023-04-01,2023,4,Southeast,Emirados Árabes Unidos,14148
+2023-04-01,2023,4,Southeast,Equador,74
+2023-04-01,2023,4,Southeast,Espanha,33110
+2023-04-01,2023,4,Southeast,Estados Unidos Da América,124771
+2023-04-01,2023,4,Southeast,Etiópia,3379
+2023-04-01,2023,4,Southeast,França,33418
+2023-04-01,2023,4,Southeast,Gana,0
+2023-04-01,2023,4,Southeast,Guiné,0
+2023-04-01,2023,4,Southeast,Holanda,16789
+2023-04-01,2023,4,Southeast,Hong Kong,0
+2023-04-01,2023,4,Southeast,Itália,16990
+2023-04-01,2023,4,Southeast,Luxemburgo,0
+2023-04-01,2023,4,Southeast,Martinica,308
+2023-04-01,2023,4,Southeast,México,8743
+2023-04-01,2023,4,Southeast,Nigéria,0
+2023-04-01,2023,4,Southeast,Panamá,32029
+2023-04-01,2023,4,Southeast,Paraguai,8878
+2023-04-01,2023,4,Southeast,Peru,15165
+2023-04-01,2023,4,Southeast,Porto Rico,0
+2023-04-01,2023,4,Southeast,Portugal,56636
+2023-04-01,2023,4,Southeast,Qatar,18063
+2023-04-01,2023,4,Southeast,Reino Unido,21311
+2023-04-01,2023,4,Southeast,República Democrática Do Congo,316
+2023-04-01,2023,4,Southeast,República Dominicana,1314
+2023-04-01,2023,4,Southeast,Senegal,0
+2023-04-01,2023,4,Southeast,Suíça,8113
+2023-04-01,2023,4,Southeast,Turquia,5507
+2023-04-01,2023,4,Southeast,Uganda,164
+2023-04-01,2023,4,Southeast,Uruguai,19865
+2023-04-01,2023,4,Southeast,Venezuela,46
+2023-05-01,2023,5,Central-West,Argentina,1645
+2023-05-01,2023,5,Central-West,Estados Unidos Da América,8622
+2023-05-01,2023,5,Central-West,Panamá,4392
+2023-05-01,2023,5,Central-West,Paraguai,0
+2023-05-01,2023,5,Central-West,Peru,4087
+2023-05-01,2023,5,Central-West,Portugal,5291
+2023-05-01,2023,5,North,Colômbia,1234
+2023-05-01,2023,5,North,Estados Unidos Da América,2648
+2023-05-01,2023,5,North,Guiana,0
+2023-05-01,2023,5,North,Guiana Francesa,481
+2023-05-01,2023,5,North,México,0
+2023-05-01,2023,5,North,Panamá,1477
+2023-05-01,2023,5,North,Portugal,1809
+2023-05-01,2023,5,North,Suriname,839
+2023-05-01,2023,5,North,Venezuela,163
+2023-05-01,2023,5,Northeast,Alemanha,0
+2023-05-01,2023,5,Northeast,Argentina,2630
+2023-05-01,2023,5,Northeast,Espanha,2294
+2023-05-01,2023,5,Northeast,Estados Unidos Da América,3562
+2023-05-01,2023,5,Northeast,França,2368
+2023-05-01,2023,5,Northeast,México,0
+2023-05-01,2023,5,Northeast,Portugal,20485
+2023-05-01,2023,5,Northeast,Uruguai,561
+2023-05-01,2023,5,Northeast,Venezuela,63
+2023-05-01,2023,5,South,Alemanha,0
+2023-05-01,2023,5,South,Argentina,9561
+2023-05-01,2023,5,South,Chile,6424
+2023-05-01,2023,5,South,Estados Unidos Da América,0
+2023-05-01,2023,5,South,Luxemburgo,0
+2023-05-01,2023,5,South,Panamá,3628
+2023-05-01,2023,5,South,Paraguai,50
+2023-05-01,2023,5,South,Peru,1412
+2023-05-01,2023,5,South,Portugal,2968
+2023-05-01,2023,5,South,Uruguai,2892
+2023-05-01,2023,5,Southeast,Alemanha,22725
+2023-05-01,2023,5,Southeast,Angola,4183
+2023-05-01,2023,5,Southeast,Argentina,94730
+2023-05-01,2023,5,Southeast,Bolívia,9075
+2023-05-01,2023,5,Southeast,Cabo Verde,0
+2023-05-01,2023,5,Southeast,Canadá,9944
+2023-05-01,2023,5,Southeast,Chile,53993
+2023-05-01,2023,5,Southeast,Colômbia,28088
+2023-05-01,2023,5,Southeast,Coreia Do Sul,0
+2023-05-01,2023,5,Southeast,Emirados Árabes Unidos,15948
+2023-05-01,2023,5,Southeast,Equador,71
+2023-05-01,2023,5,Southeast,Espanha,36265
+2023-05-01,2023,5,Southeast,Estados Unidos Da América,140380
+2023-05-01,2023,5,Southeast,Etiópia,4019
+2023-05-01,2023,5,Southeast,França,33184
+2023-05-01,2023,5,Southeast,Gana,0
+2023-05-01,2023,5,Southeast,Holanda,17847
+2023-05-01,2023,5,Southeast,Hong Kong,0
+2023-05-01,2023,5,Southeast,Itália,19817
+2023-05-01,2023,5,Southeast,Luxemburgo,0
+2023-05-01,2023,5,Southeast,México,9862
+2023-05-01,2023,5,Southeast,Nigéria,0
+2023-05-01,2023,5,Southeast,Omã,0
+2023-05-01,2023,5,Southeast,Panamá,36620
+2023-05-01,2023,5,Southeast,Paraguai,8422
+2023-05-01,2023,5,Southeast,Peru,17158
+2023-05-01,2023,5,Southeast,Porto Rico,0
+2023-05-01,2023,5,Southeast,Portugal,62339
+2023-05-01,2023,5,Southeast,Qatar,17062
+2023-05-01,2023,5,Southeast,Reino Unido,23420
+2023-05-01,2023,5,Southeast,República Democrática Do Congo,0
+2023-05-01,2023,5,Southeast,República Dominicana,1429
+2023-05-01,2023,5,Southeast,Senegal,0
+2023-05-01,2023,5,Southeast,Suíça,8469
+2023-05-01,2023,5,Southeast,Trinidad E Tobago,0
+2023-05-01,2023,5,Southeast,Turquia,5959
+2023-05-01,2023,5,Southeast,Uganda,110
+2023-05-01,2023,5,Southeast,Uruguai,16696
+2023-06-01,2023,6,Central-West,Argentina,1920
+2023-06-01,2023,6,Central-West,Estados Unidos Da América,8144
+2023-06-01,2023,6,Central-West,Panamá,4173
+2023-06-01,2023,6,Central-West,Peru,4098
+2023-06-01,2023,6,Central-West,Portugal,6055
+2023-06-01,2023,6,North,Colômbia,1554
+2023-06-01,2023,6,North,Curaçao,19
+2023-06-01,2023,6,North,Equador,50
+2023-06-01,2023,6,North,Estados Unidos Da América,3166
+2023-06-01,2023,6,North,Guiana,20
+2023-06-01,2023,6,North,Guiana Francesa,565
+2023-06-01,2023,6,North,México,0
+2023-06-01,2023,6,North,Panamá,1641
+2023-06-01,2023,6,North,Portugal,2156
+2023-06-01,2023,6,North,Suriname,1050
+2023-06-01,2023,6,North,Venezuela,219
+2023-06-01,2023,6,Northeast,Alemanha,0
+2023-06-01,2023,6,Northeast,Argentina,2345
+2023-06-01,2023,6,Northeast,Colômbia,0
+2023-06-01,2023,6,Northeast,Espanha,2403
+2023-06-01,2023,6,Northeast,Estados Unidos Da América,4048
+2023-06-01,2023,6,Northeast,França,2443
+2023-06-01,2023,6,Northeast,México,0
+2023-06-01,2023,6,Northeast,Portugal,22177
+2023-06-01,2023,6,Northeast,República Dominicana,0
+2023-06-01,2023,6,Northeast,Uruguai,545
+2023-06-01,2023,6,South,Alemanha,0
+2023-06-01,2023,6,South,Argentina,9189
+2023-06-01,2023,6,South,Bélgica,0
+2023-06-01,2023,6,South,Chile,8665
+2023-06-01,2023,6,South,Estados Unidos Da América,0
+2023-06-01,2023,6,South,Luxemburgo,0
+2023-06-01,2023,6,South,Panamá,3848
+2023-06-01,2023,6,South,Paraguai,43
+2023-06-01,2023,6,South,Peru,1595
+2023-06-01,2023,6,South,Portugal,3227
+2023-06-01,2023,6,South,Uruguai,2883
+2023-06-01,2023,6,Southeast,Alemanha,23858
+2023-06-01,2023,6,Southeast,Angola,4119
+2023-06-01,2023,6,Southeast,Argentina,92932
+2023-06-01,2023,6,Southeast,Bolívia,9457
+2023-06-01,2023,6,Southeast,Cabo Verde,0
+2023-06-01,2023,6,Southeast,Canadá,11053
+2023-06-01,2023,6,Southeast,Chile,59231
+2023-06-01,2023,6,Southeast,Colômbia,26003
+2023-06-01,2023,6,Southeast,Coreia Do Sul,0
+2023-06-01,2023,6,Southeast,Costa Rica,0
+2023-06-01,2023,6,Southeast,Emirados Árabes Unidos,15427
+2023-06-01,2023,6,Southeast,Equador,61
+2023-06-01,2023,6,Southeast,Espanha,38593
+2023-06-01,2023,6,Southeast,Estados Unidos Da América,147945
+2023-06-01,2023,6,Southeast,Etiópia,3966
+2023-06-01,2023,6,Southeast,França,41568
+2023-06-01,2023,6,Southeast,Gana,0
+2023-06-01,2023,6,Southeast,Holanda,17759
+2023-06-01,2023,6,Southeast,Hong Kong,0
+2023-06-01,2023,6,Southeast,Itália,20515
+2023-06-01,2023,6,Southeast,Luxemburgo,0
+2023-06-01,2023,6,Southeast,México,9700
+2023-06-01,2023,6,Southeast,Nigéria,0
+2023-06-01,2023,6,Southeast,Omã,0
+2023-06-01,2023,6,Southeast,Panamá,35587
+2023-06-01,2023,6,Southeast,Paraguai,8218
+2023-06-01,2023,6,Southeast,Peru,17694
+2023-06-01,2023,6,Southeast,Porto Rico,0
+2023-06-01,2023,6,Southeast,Portugal,66958
+2023-06-01,2023,6,Southeast,Qatar,17055
+2023-06-01,2023,6,Southeast,Reino Unido,23939
+2023-06-01,2023,6,Southeast,República Democrática Do Congo,0
+2023-06-01,2023,6,Southeast,República Dominicana,1515
+2023-06-01,2023,6,Southeast,Senegal,0
+2023-06-01,2023,6,Southeast,Suíça,8479
+2023-06-01,2023,6,Southeast,Turquia,6294
+2023-06-01,2023,6,Southeast,Uruguai,15493
+2023-07-01,2023,7,Central-West,Argentina,1793
+2023-07-01,2023,7,Central-West,Chile,0
+2023-07-01,2023,7,Central-West,Estados Unidos Da América,10307
+2023-07-01,2023,7,Central-West,Panamá,4498
+2023-07-01,2023,7,Central-West,Peru,4720
+2023-07-01,2023,7,Central-West,Portugal,7386
+2023-07-01,2023,7,North,Chile,144
+2023-07-01,2023,7,North,Colômbia,2208
+2023-07-01,2023,7,North,Estados Unidos Da América,4917
+2023-07-01,2023,7,North,Guiana,0
+2023-07-01,2023,7,North,Guiana Francesa,393
+2023-07-01,2023,7,North,México,0
+2023-07-01,2023,7,North,Panamá,2322
+2023-07-01,2023,7,North,Portugal,2791
+2023-07-01,2023,7,North,Suriname,1215
+2023-07-01,2023,7,North,Venezuela,137
+2023-07-01,2023,7,Northeast,Alemanha,0
+2023-07-01,2023,7,Northeast,Argentina,6734
+2023-07-01,2023,7,Northeast,Cabo Verde,0
+2023-07-01,2023,7,Northeast,Emirados Árabes Unidos,0
+2023-07-01,2023,7,Northeast,Espanha,2298
+2023-07-01,2023,7,Northeast,Estados Unidos Da América,7672
+2023-07-01,2023,7,Northeast,França,2817
+2023-07-01,2023,7,Northeast,México,0
+2023-07-01,2023,7,Northeast,Portugal,27893
+2023-07-01,2023,7,Northeast,Turquia,2
+2023-07-01,2023,7,Northeast,Uruguai,1673
+2023-07-01,2023,7,South,Alemanha,0
+2023-07-01,2023,7,South,Argentina,10960
+2023-07-01,2023,7,South,Chile,12306
+2023-07-01,2023,7,South,Estados Unidos Da América,0
+2023-07-01,2023,7,South,Luxemburgo,0
+2023-07-01,2023,7,South,Panamá,4020
+2023-07-01,2023,7,South,Paraguai,0
+2023-07-01,2023,7,South,Peru,1676
+2023-07-01,2023,7,South,Portugal,3480
+2023-07-01,2023,7,South,Uruguai,4297
+2023-07-01,2023,7,Southeast,Alemanha,26070
+2023-07-01,2023,7,Southeast,Angola,4966
+2023-07-01,2023,7,Southeast,Argentina,134885
+2023-07-01,2023,7,Southeast,Bolívia,12382
+2023-07-01,2023,7,Southeast,Cabo Verde,0
+2023-07-01,2023,7,Southeast,Canadá,12513
+2023-07-01,2023,7,Southeast,Chile,85137
+2023-07-01,2023,7,Southeast,Colômbia,28077
+2023-07-01,2023,7,Southeast,Coreia Do Sul,0
+2023-07-01,2023,7,Southeast,Curaçao,764
+2023-07-01,2023,7,Southeast,Emirados Árabes Unidos,17748
+2023-07-01,2023,7,Southeast,Equador,0
+2023-07-01,2023,7,Southeast,Espanha,40875
+2023-07-01,2023,7,Southeast,Estados Unidos Da América,149510
+2023-07-01,2023,7,Southeast,Etiópia,3019
+2023-07-01,2023,7,Southeast,França,46094
+2023-07-01,2023,7,Southeast,Gabão,0
+2023-07-01,2023,7,Southeast,Gana,0
+2023-07-01,2023,7,Southeast,Holanda,20375
+2023-07-01,2023,7,Southeast,Hong Kong,0
+2023-07-01,2023,7,Southeast,Itália,20978
+2023-07-01,2023,7,Southeast,Luxemburgo,0
+2023-07-01,2023,7,Southeast,México,12040
+2023-07-01,2023,7,Southeast,Nigéria,0
+2023-07-01,2023,7,Southeast,Omã,0
+2023-07-01,2023,7,Southeast,Panamá,37607
+2023-07-01,2023,7,Southeast,Paraguai,10385
+2023-07-01,2023,7,Southeast,Peru,24017
+2023-07-01,2023,7,Southeast,Porto Rico,0
+2023-07-01,2023,7,Southeast,Portugal,78957
+2023-07-01,2023,7,Southeast,Qatar,16252
+2023-07-01,2023,7,Southeast,Reino Unido,26677
+2023-07-01,2023,7,Southeast,República Dominicana,2261
+2023-07-01,2023,7,Southeast,Senegal,0
+2023-07-01,2023,7,Southeast,Suíça,9151
+2023-07-01,2023,7,Southeast,Turquia,7278
+2023-07-01,2023,7,Southeast,Uganda,1744
+2023-07-01,2023,7,Southeast,Uruguai,22965
+2023-08-01,2023,8,Central-West,Argentina,1806
+2023-08-01,2023,8,Central-West,Bolívia,0
+2023-08-01,2023,8,Central-West,Canadá,104
+2023-08-01,2023,8,Central-West,Colômbia,0
+2023-08-01,2023,8,Central-West,Espanha,2
+2023-08-01,2023,8,Central-West,Estados Unidos Da América,6176
+2023-08-01,2023,8,Central-West,Panamá,4464
+2023-08-01,2023,8,Central-West,Paraguai,54
+2023-08-01,2023,8,Central-West,Peru,4502
+2023-08-01,2023,8,Central-West,Portugal,6336
+2023-08-01,2023,8,North,Bolívia,0
+2023-08-01,2023,8,North,Colômbia,1574
+2023-08-01,2023,8,North,Congo,45
+2023-08-01,2023,8,North,Estados Unidos Da América,2777
+2023-08-01,2023,8,North,Guiana,0
+2023-08-01,2023,8,North,Guiana Francesa,427
+2023-08-01,2023,8,North,Panamá,1912
+2023-08-01,2023,8,North,Portugal,2342
+2023-08-01,2023,8,North,Suriname,1556
+2023-08-01,2023,8,North,Venezuela,270
+2023-08-01,2023,8,Northeast,Alemanha,0
+2023-08-01,2023,8,Northeast,Argentina,5467
+2023-08-01,2023,8,Northeast,Cabo Verde,0
+2023-08-01,2023,8,Northeast,Colômbia,0
+2023-08-01,2023,8,Northeast,Congo,0
+2023-08-01,2023,8,Northeast,Espanha,2556
+2023-08-01,2023,8,Northeast,Estados Unidos Da América,7044
+2023-08-01,2023,8,Northeast,França,2657
+2023-08-01,2023,8,Northeast,Paraguai,35
+2023-08-01,2023,8,Northeast,Portugal,24595
+2023-08-01,2023,8,Northeast,Suriname,53
+2023-08-01,2023,8,Northeast,Suécia,0
+2023-08-01,2023,8,Northeast,Uruguai,1305
+2023-08-01,2023,8,South,Alemanha,0
+2023-08-01,2023,8,South,Argentina,10910
+2023-08-01,2023,8,South,Bolívia,178
+2023-08-01,2023,8,South,Chile,13052
+2023-08-01,2023,8,South,Estados Unidos Da América,0
+2023-08-01,2023,8,South,Luxemburgo,0
+2023-08-01,2023,8,South,Panamá,3751
+2023-08-01,2023,8,South,Paraguai,0
+2023-08-01,2023,8,South,Peru,1575
+2023-08-01,2023,8,South,Portugal,3458
+2023-08-01,2023,8,South,Uruguai,3893
+2023-08-01,2023,8,Southeast,Alemanha,25411
+2023-08-01,2023,8,Southeast,Angola,4138
+2023-08-01,2023,8,Southeast,Argentina,116098
+2023-08-01,2023,8,Southeast,Azerbaijão,0
+2023-08-01,2023,8,Southeast,Bolívia,11946
+2023-08-01,2023,8,Southeast,Cabo Verde,0
+2023-08-01,2023,8,Southeast,Canadá,11644
+2023-08-01,2023,8,Southeast,Chile,84381
+2023-08-01,2023,8,Southeast,Colômbia,27160
+2023-08-01,2023,8,Southeast,Coreia Do Sul,0
+2023-08-01,2023,8,Southeast,Curaçao,501
+2023-08-01,2023,8,Southeast,Emirados Árabes Unidos,16389
+2023-08-01,2023,8,Southeast,Equador,282
+2023-08-01,2023,8,Southeast,Espanha,39287
+2023-08-01,2023,8,Southeast,Estados Unidos Da América,146696
+2023-08-01,2023,8,Southeast,Etiópia,4540
+2023-08-01,2023,8,Southeast,França,42188
+2023-08-01,2023,8,Southeast,Gana,0
+2023-08-01,2023,8,Southeast,Holanda,17994
+2023-08-01,2023,8,Southeast,Hong Kong,0
+2023-08-01,2023,8,Southeast,Ilhas Canárias,0
+2023-08-01,2023,8,Southeast,Itália,24474
+2023-08-01,2023,8,Southeast,Luxemburgo,0
+2023-08-01,2023,8,Southeast,Marrocos,0
+2023-08-01,2023,8,Southeast,México,10205
+2023-08-01,2023,8,Southeast,Nigéria,0
+2023-08-01,2023,8,Southeast,Omã,0
+2023-08-01,2023,8,Southeast,Panamá,36925
+2023-08-01,2023,8,Southeast,Paraguai,9569
+2023-08-01,2023,8,Southeast,Peru,23599
+2023-08-01,2023,8,Southeast,Porto Rico,0
+2023-08-01,2023,8,Southeast,Portugal,73202
+2023-08-01,2023,8,Southeast,Qatar,15593
+2023-08-01,2023,8,Southeast,Reino Unido,25463
+2023-08-01,2023,8,Southeast,República Democrática Do Congo,262
+2023-08-01,2023,8,Southeast,República Dominicana,1461
+2023-08-01,2023,8,Southeast,Senegal,0
+2023-08-01,2023,8,Southeast,Suécia,0
+2023-08-01,2023,8,Southeast,Suíça,8585
+2023-08-01,2023,8,Southeast,Turquia,6603
+2023-08-01,2023,8,Southeast,Uganda,362
+2023-08-01,2023,8,Southeast,Uruguai,20008
+2023-09-01,2023,9,Central-West,Argentina,1863
+2023-09-01,2023,9,Central-West,Estados Unidos Da América,5530
+2023-09-01,2023,9,Central-West,Panamá,4342
+2023-09-01,2023,9,Central-West,Peru,4602
+2023-09-01,2023,9,Central-West,Portugal,5983
+2023-09-01,2023,9,North,Colômbia,1883
+2023-09-01,2023,9,North,Estados Unidos Da América,2477
+2023-09-01,2023,9,North,Guiana,0
+2023-09-01,2023,9,North,Guiana Francesa,547
+2023-09-01,2023,9,North,México,0
+2023-09-01,2023,9,North,Panamá,2150
+2023-09-01,2023,9,North,Paraguai,0
+2023-09-01,2023,9,North,Peru,0
+2023-09-01,2023,9,North,Portugal,2155
+2023-09-01,2023,9,North,Suriname,1515
+2023-09-01,2023,9,North,Venezuela,198
+2023-09-01,2023,9,Northeast,Alemanha,0
+2023-09-01,2023,9,Northeast,Argentina,8352
+2023-09-01,2023,9,Northeast,Cabo Verde,0
+2023-09-01,2023,9,Northeast,Colômbia,0
+2023-09-01,2023,9,Northeast,Espanha,2382
+2023-09-01,2023,9,Northeast,Estados Unidos Da América,7613
+2023-09-01,2023,9,Northeast,França,2633
+2023-09-01,2023,9,Northeast,México,0
+2023-09-01,2023,9,Northeast,Portugal,22364
+2023-09-01,2023,9,Northeast,Suriname,0
+2023-09-01,2023,9,Northeast,Uruguai,1290
+2023-09-01,2023,9,South,Alemanha,0
+2023-09-01,2023,9,South,Argentina,12257
+2023-09-01,2023,9,South,Chile,13231
+2023-09-01,2023,9,South,Colômbia,0
+2023-09-01,2023,9,South,Costa Rica,44
+2023-09-01,2023,9,South,Equador,0
+2023-09-01,2023,9,South,Estados Unidos Da América,81
+2023-09-01,2023,9,South,Luxemburgo,0
+2023-09-01,2023,9,South,Panamá,2528
+2023-09-01,2023,9,South,Peru,1684
+2023-09-01,2023,9,South,Portugal,3211
+2023-09-01,2023,9,South,Uruguai,4264
+2023-09-01,2023,9,Southeast,Alemanha,24060
+2023-09-01,2023,9,Southeast,Angola,3773
+2023-09-01,2023,9,Southeast,Argentina,113009
+2023-09-01,2023,9,Southeast,Azerbaijão,0
+2023-09-01,2023,9,Southeast,Bolívia,10889
+2023-09-01,2023,9,Southeast,Bélgica,0
+2023-09-01,2023,9,Southeast,Cabo Verde,0
+2023-09-01,2023,9,Southeast,Canadá,9386
+2023-09-01,2023,9,Southeast,Chile,80088
+2023-09-01,2023,9,Southeast,Colômbia,27136
+2023-09-01,2023,9,Southeast,Coreia Do Sul,0
+2023-09-01,2023,9,Southeast,Cuba,35
+2023-09-01,2023,9,Southeast,Curaçao,606
+2023-09-01,2023,9,Southeast,Egito,125
+2023-09-01,2023,9,Southeast,Emirados Árabes Unidos,15745
+2023-09-01,2023,9,Southeast,Equador,410
+2023-09-01,2023,9,Southeast,Espanha,36805
+2023-09-01,2023,9,Southeast,Estados Unidos Da América,150964
+2023-09-01,2023,9,Southeast,Etiópia,4585
+2023-09-01,2023,9,Southeast,França,41466
+2023-09-01,2023,9,Southeast,Gana,0
+2023-09-01,2023,9,Southeast,Guiana,0
+2023-09-01,2023,9,Southeast,Holanda,18511
+2023-09-01,2023,9,Southeast,Hong Kong,0
+2023-09-01,2023,9,Southeast,Itália,23103
+2023-09-01,2023,9,Southeast,Luxemburgo,0
+2023-09-01,2023,9,Southeast,Marrocos,0
+2023-09-01,2023,9,Southeast,México,10916
+2023-09-01,2023,9,Southeast,Nigéria,0
+2023-09-01,2023,9,Southeast,Omã,0
+2023-09-01,2023,9,Southeast,Panamá,36587
+2023-09-01,2023,9,Southeast,Paraguai,9827
+2023-09-01,2023,9,Southeast,Peru,24778
+2023-09-01,2023,9,Southeast,Porto Rico,0
+2023-09-01,2023,9,Southeast,Portugal,71472
+2023-09-01,2023,9,Southeast,Qatar,15654
+2023-09-01,2023,9,Southeast,Reino Unido,25015
+2023-09-01,2023,9,Southeast,República Dominicana,1900
+2023-09-01,2023,9,Southeast,Senegal,0
+2023-09-01,2023,9,Southeast,Suíça,8290
+2023-09-01,2023,9,Southeast,Turquia,8893
+2023-09-01,2023,9,Southeast,Uganda,136
+2023-09-01,2023,9,Southeast,Uruguai,22122
+2023-09-01,2023,9,Southeast,África Do Sul,2400
+2023-10-01,2023,10,Central-West,Argentina,1961
+2023-10-01,2023,10,Central-West,Estados Unidos Da América,5453
+2023-10-01,2023,10,Central-West,Panamá,4521
+2023-10-01,2023,10,Central-West,Peru,4775
+2023-10-01,2023,10,Central-West,Portugal,7018
+2023-10-01,2023,10,Central-West,República Dominicana,0
+2023-10-01,2023,10,Central-West,Venezuela,0
+2023-10-01,2023,10,North,Colômbia,1822
+2023-10-01,2023,10,North,Curaçao,11
+2023-10-01,2023,10,North,Espanha,0
+2023-10-01,2023,10,North,Estados Unidos Da América,1820
+2023-10-01,2023,10,North,Guiana,8
+2023-10-01,2023,10,North,Guiana Francesa,580
+2023-10-01,2023,10,North,Luxemburgo,0
+2023-10-01,2023,10,North,México,0
+2023-10-01,2023,10,North,Panamá,2460
+2023-10-01,2023,10,North,Portugal,2609
+2023-10-01,2023,10,North,Suriname,1204
+2023-10-01,2023,10,North,Venezuela,186
+2023-10-01,2023,10,Northeast,Alemanha,0
+2023-10-01,2023,10,Northeast,Argentina,5798
+2023-10-01,2023,10,Northeast,Cabo Verde,0
+2023-10-01,2023,10,Northeast,Espanha,2516
+2023-10-01,2023,10,Northeast,Estados Unidos Da América,9300
+2023-10-01,2023,10,Northeast,França,3257
+2023-10-01,2023,10,Northeast,México,0
+2023-10-01,2023,10,Northeast,Polônia,290
+2023-10-01,2023,10,Northeast,Portugal,26672
+2023-10-01,2023,10,Northeast,Turquia,3
+2023-10-01,2023,10,Northeast,Uruguai,2222
+2023-10-01,2023,10,South,Alemanha,0
+2023-10-01,2023,10,South,Argentina,12996
+2023-10-01,2023,10,South,Bolívia,0
+2023-10-01,2023,10,South,Cabo Verde,0
+2023-10-01,2023,10,South,Chile,10906
+2023-10-01,2023,10,South,Colômbia,0
+2023-10-01,2023,10,South,Estados Unidos Da América,0
+2023-10-01,2023,10,South,Holanda,0
+2023-10-01,2023,10,South,Luxemburgo,0
+2023-10-01,2023,10,South,Panamá,2493
+2023-10-01,2023,10,South,Paraguai,0
+2023-10-01,2023,10,South,Peru,1589
+2023-10-01,2023,10,South,Portugal,3427
+2023-10-01,2023,10,South,Uruguai,4049
+2023-10-01,2023,10,Southeast,Alemanha,25936
+2023-10-01,2023,10,Southeast,Angola,4309
+2023-10-01,2023,10,Southeast,Argentina,115964
+2023-10-01,2023,10,Southeast,Azerbaijão,0
+2023-10-01,2023,10,Southeast,Bolívia,12136
+2023-10-01,2023,10,Southeast,Bulgária,0
+2023-10-01,2023,10,Southeast,Cabo Verde,43
+2023-10-01,2023,10,Southeast,Canadá,12230
+2023-10-01,2023,10,Southeast,Chile,77983
+2023-10-01,2023,10,Southeast,Colômbia,29147
+2023-10-01,2023,10,Southeast,Coreia Do Sul,0
+2023-10-01,2023,10,Southeast,Curaçao,931
+2023-10-01,2023,10,Southeast,Emirados Árabes Unidos,16567
+2023-10-01,2023,10,Southeast,Equador,0
+2023-10-01,2023,10,Southeast,Espanha,40266
+2023-10-01,2023,10,Southeast,Estados Unidos Da América,163794
+2023-10-01,2023,10,Southeast,Etiópia,4114
+2023-10-01,2023,10,Southeast,França,45895
+2023-10-01,2023,10,Southeast,Gana,0
+2023-10-01,2023,10,Southeast,Holanda,19774
+2023-10-01,2023,10,Southeast,Hong Kong,0
+2023-10-01,2023,10,Southeast,Ilhas Canárias,0
+2023-10-01,2023,10,Southeast,Itália,26866
+2023-10-01,2023,10,Southeast,Luxemburgo,0
+2023-10-01,2023,10,Southeast,Marrocos,0
+2023-10-01,2023,10,Southeast,México,13735
+2023-10-01,2023,10,Southeast,Nigéria,0
+2023-10-01,2023,10,Southeast,Omã,0
+2023-10-01,2023,10,Southeast,Panamá,38769
+2023-10-01,2023,10,Southeast,Paraguai,9743
+2023-10-01,2023,10,Southeast,Peru,25145
+2023-10-01,2023,10,Southeast,Portugal,72053
+2023-10-01,2023,10,Southeast,Qatar,17100
+2023-10-01,2023,10,Southeast,Reino Unido,26760
+2023-10-01,2023,10,Southeast,República Dominicana,2579
+2023-10-01,2023,10,Southeast,Senegal,0
+2023-10-01,2023,10,Southeast,Suíça,8603
+2023-10-01,2023,10,Southeast,Turquia,10137
+2023-10-01,2023,10,Southeast,Uganda,354
+2023-10-01,2023,10,Southeast,Uruguai,23847
+2023-10-01,2023,10,Southeast,Venezuela,0
+2023-10-01,2023,10,Southeast,África Do Sul,3825
+2023-11-01,2023,11,Central-West,Argentina,1720
+2023-11-01,2023,11,Central-West,Colômbia,0
+2023-11-01,2023,11,Central-West,Estados Unidos Da América,5561
+2023-11-01,2023,11,Central-West,Panamá,4519
+2023-11-01,2023,11,Central-West,Peru,4599
+2023-11-01,2023,11,Central-West,Portugal,6219
+2023-11-01,2023,11,North,Colômbia,1748
+2023-11-01,2023,11,North,Costa Rica,0
+2023-11-01,2023,11,North,Estados Unidos Da América,1891
+2023-11-01,2023,11,North,Guiana,0
+2023-11-01,2023,11,North,Guiana Francesa,510
+2023-11-01,2023,11,North,Martinica,1
+2023-11-01,2023,11,North,Panamá,2285
+2023-11-01,2023,11,North,Portugal,2252
+2023-11-01,2023,11,North,Suriname,1339
+2023-11-01,2023,11,North,Venezuela,306
+2023-11-01,2023,11,Northeast,Alemanha,0
+2023-11-01,2023,11,Northeast,Argentina,4978
+2023-11-01,2023,11,Northeast,Cabo Verde,0
+2023-11-01,2023,11,Northeast,Chile,0
+2023-11-01,2023,11,Northeast,Espanha,2517
+2023-11-01,2023,11,Northeast,Estados Unidos Da América,8057
+2023-11-01,2023,11,Northeast,França,4005
+2023-11-01,2023,11,Northeast,Ilhas Canárias,0
+2023-11-01,2023,11,Northeast,Noruega,0
+2023-11-01,2023,11,Northeast,Polônia,1003
+2023-11-01,2023,11,Northeast,Portugal,28016
+2023-11-01,2023,11,Northeast,Uruguai,1232
+2023-11-01,2023,11,South,Alemanha,0
+2023-11-01,2023,11,South,Argentina,13278
+2023-11-01,2023,11,South,Cabo Verde,0
+2023-11-01,2023,11,South,Chile,15300
+2023-11-01,2023,11,South,Colômbia,0
+2023-11-01,2023,11,South,Estados Unidos Da América,0
+2023-11-01,2023,11,South,Holanda,0
+2023-11-01,2023,11,South,Luxemburgo,0
+2023-11-01,2023,11,South,Panamá,3322
+2023-11-01,2023,11,South,Peru,1705
+2023-11-01,2023,11,South,Portugal,3405
+2023-11-01,2023,11,South,Uruguai,3458
+2023-11-01,2023,11,Southeast,Alemanha,24928
+2023-11-01,2023,11,Southeast,Angola,3413
+2023-11-01,2023,11,Southeast,Argentina,124472
+2023-11-01,2023,11,Southeast,Azerbaijão,0
+2023-11-01,2023,11,Southeast,Bolívia,11536
+2023-11-01,2023,11,Southeast,Bulgária,0
+2023-11-01,2023,11,Southeast,Bélgica,0
+2023-11-01,2023,11,Southeast,Cabo Verde,44
+2023-11-01,2023,11,Southeast,Canadá,10704
+2023-11-01,2023,11,Southeast,Chile,76427
+2023-11-01,2023,11,Southeast,Colômbia,27288
+2023-11-01,2023,11,Southeast,Coreia Do Sul,0
+2023-11-01,2023,11,Southeast,Costa Rica,0
+2023-11-01,2023,11,Southeast,Curaçao,1191
+2023-11-01,2023,11,Southeast,Emirados Árabes Unidos,15390
+2023-11-01,2023,11,Southeast,Espanha,35587
+2023-11-01,2023,11,Southeast,Estados Unidos Da América,162140
+2023-11-01,2023,11,Southeast,Etiópia,2213
+2023-11-01,2023,11,Southeast,França,41092
+2023-11-01,2023,11,Southeast,Gana,0
+2023-11-01,2023,11,Southeast,Holanda,17465
+2023-11-01,2023,11,Southeast,Hong Kong,0
+2023-11-01,2023,11,Southeast,Ilhas Canárias,0
+2023-11-01,2023,11,Southeast,Itália,31222
+2023-11-01,2023,11,Southeast,Luxemburgo,0
+2023-11-01,2023,11,Southeast,Marrocos,0
+2023-11-01,2023,11,Southeast,Martinica,113
+2023-11-01,2023,11,Southeast,México,12696
+2023-11-01,2023,11,Southeast,Nigéria,0
+2023-11-01,2023,11,Southeast,Noruega,0
+2023-11-01,2023,11,Southeast,Omã,0
+2023-11-01,2023,11,Southeast,Panamá,37928
+2023-11-01,2023,11,Southeast,Paraguai,11010
+2023-11-01,2023,11,Southeast,Peru,24576
+2023-11-01,2023,11,Southeast,Porto Rico,0
+2023-11-01,2023,11,Southeast,Portugal,73703
+2023-11-01,2023,11,Southeast,Qatar,16862
+2023-11-01,2023,11,Southeast,Reino Unido,24023
+2023-11-01,2023,11,Southeast,República Dominicana,2796
+2023-11-01,2023,11,Southeast,Senegal,0
+2023-11-01,2023,11,Southeast,Suíça,7958
+2023-11-01,2023,11,Southeast,Togo,0
+2023-11-01,2023,11,Southeast,Trinidad E Tobago,0
+2023-11-01,2023,11,Southeast,Turquia,10084
+2023-11-01,2023,11,Southeast,Uganda,2639
+2023-11-01,2023,11,Southeast,Uruguai,22324
+2023-11-01,2023,11,Southeast,África Do Sul,4965
+2023-12-01,2023,12,Central-West,Argentina,1987
+2023-12-01,2023,12,Central-West,Estados Unidos Da América,13223
+2023-12-01,2023,12,Central-West,Panamá,4056
+2023-12-01,2023,12,Central-West,Peru,4189
+2023-12-01,2023,12,Central-West,Portugal,6014
+2023-12-01,2023,12,Central-West,República Dominicana,0
+2023-12-01,2023,12,North,Colômbia,1340
+2023-12-01,2023,12,North,Costa Rica,0
+2023-12-01,2023,12,North,Estados Unidos Da América,4488
+2023-12-01,2023,12,North,Guiana,0
+2023-12-01,2023,12,North,Guiana Francesa,668
+2023-12-01,2023,12,North,Martinica,7
+2023-12-01,2023,12,North,Panamá,1891
+2023-12-01,2023,12,North,Paraguai,0
+2023-12-01,2023,12,North,Portugal,2106
+2023-12-01,2023,12,North,Suriname,2153
+2023-12-01,2023,12,North,Trinidad E Tobago,0
+2023-12-01,2023,12,North,Venezuela,199
+2023-12-01,2023,12,Northeast,Alemanha,0
+2023-12-01,2023,12,Northeast,Argentina,7730
+2023-12-01,2023,12,Northeast,Cabo Verde,0
+2023-12-01,2023,12,Northeast,Espanha,3785
+2023-12-01,2023,12,Northeast,Estados Unidos Da América,9069
+2023-12-01,2023,12,Northeast,França,4209
+2023-12-01,2023,12,Northeast,Polônia,1081
+2023-12-01,2023,12,Northeast,Portugal,30213
+2023-12-01,2023,12,Northeast,Uruguai,1017
+2023-12-01,2023,12,South,Alemanha,0
+2023-12-01,2023,12,South,Argentina,20798
+2023-12-01,2023,12,South,Cabo Verde,0
+2023-12-01,2023,12,South,Chile,21490
+2023-12-01,2023,12,South,Colômbia,0
+2023-12-01,2023,12,South,Equador,0
+2023-12-01,2023,12,South,Estados Unidos Da América,0
+2023-12-01,2023,12,South,Holanda,0
+2023-12-01,2023,12,South,Luxemburgo,0
+2023-12-01,2023,12,South,Panamá,3488
+2023-12-01,2023,12,South,Paraguai,199
+2023-12-01,2023,12,South,Peru,1827
+2023-12-01,2023,12,South,Portugal,3179
+2023-12-01,2023,12,South,Uruguai,3367
+2023-12-01,2023,12,Southeast,Alemanha,25203
+2023-12-01,2023,12,Southeast,Angola,4756
+2023-12-01,2023,12,Southeast,Argentina,118752
+2023-12-01,2023,12,Southeast,Arábia Saudita,232
+2023-12-01,2023,12,Southeast,Azerbaijão,0
+2023-12-01,2023,12,Southeast,Bolívia,13663
+2023-12-01,2023,12,Southeast,Cabo Verde,0
+2023-12-01,2023,12,Southeast,Canadá,13980
+2023-12-01,2023,12,Southeast,Chile,74524
+2023-12-01,2023,12,Southeast,Colômbia,22969
+2023-12-01,2023,12,Southeast,Coreia Do Sul,0
+2023-12-01,2023,12,Southeast,Costa Do Marfim,0
+2023-12-01,2023,12,Southeast,Curaçao,862
+2023-12-01,2023,12,Southeast,Emirados Árabes Unidos,15410
+2023-12-01,2023,12,Southeast,Equador,0
+2023-12-01,2023,12,Southeast,Espanha,37031
+2023-12-01,2023,12,Southeast,Estados Unidos Da América,176420
+2023-12-01,2023,12,Southeast,Etiópia,4012
+2023-12-01,2023,12,Southeast,França,43648
+2023-12-01,2023,12,Southeast,Gana,0
+2023-12-01,2023,12,Southeast,Guiné,0
+2023-12-01,2023,12,Southeast,Holanda,18072
+2023-12-01,2023,12,Southeast,Hong Kong,0
+2023-12-01,2023,12,Southeast,Itália,32566
+2023-12-01,2023,12,Southeast,Luxemburgo,0
+2023-12-01,2023,12,Southeast,Marrocos,0
+2023-12-01,2023,12,Southeast,Martinica,838
+2023-12-01,2023,12,Southeast,México,11641
+2023-12-01,2023,12,Southeast,Nigéria,0
+2023-12-01,2023,12,Southeast,Omã,0
+2023-12-01,2023,12,Southeast,Panamá,35241
+2023-12-01,2023,12,Southeast,Paraguai,10736
+2023-12-01,2023,12,Southeast,Peru,22493
+2023-12-01,2023,12,Southeast,Porto Rico,0
+2023-12-01,2023,12,Southeast,Portugal,72179
+2023-12-01,2023,12,Southeast,Qatar,16758
+2023-12-01,2023,12,Southeast,Reino Unido,25291
+2023-12-01,2023,12,Southeast,República Dominicana,4149
+2023-12-01,2023,12,Southeast,Senegal,0
+2023-12-01,2023,12,Southeast,Suíça,8670
+2023-12-01,2023,12,Southeast,Trinidad E Tobago,0
+2023-12-01,2023,12,Southeast,Turquia,9979
+2023-12-01,2023,12,Southeast,Uganda,553
+2023-12-01,2023,12,Southeast,Uruguai,21529
+2023-12-01,2023,12,Southeast,África Do Sul,5873
+2024-01-01,2024,1,Central-West,Argentina,4643
+2024-01-01,2024,1,Central-West,Colômbia,0
+2024-01-01,2024,1,Central-West,Costa Do Marfim,25
+2024-01-01,2024,1,Central-West,Equador,0
+2024-01-01,2024,1,Central-West,Estados Unidos Da América,16004
+2024-01-01,2024,1,Central-West,Holanda,0
+2024-01-01,2024,1,Central-West,México,0
+2024-01-01,2024,1,Central-West,Panamá,4047
+2024-01-01,2024,1,Central-West,Peru,4776
+2024-01-01,2024,1,Central-West,Portugal,6242
+2024-01-01,2024,1,North,Colômbia,2763
+2024-01-01,2024,1,North,Estados Unidos Da América,6864
+2024-01-01,2024,1,North,Guiana,0
+2024-01-01,2024,1,North,Guiana Francesa,382
+2024-01-01,2024,1,North,Martinica,526
+2024-01-01,2024,1,North,Panamá,2229
+2024-01-01,2024,1,North,Portugal,2234
+2024-01-01,2024,1,North,Suriname,1296
+2024-01-01,2024,1,North,Venezuela,227
+2024-01-01,2024,1,Northeast,Alemanha,0
+2024-01-01,2024,1,Northeast,Argentina,14526
+2024-01-01,2024,1,Northeast,Azerbaijão,0
+2024-01-01,2024,1,Northeast,Chile,1259
+2024-01-01,2024,1,Northeast,Espanha,3700
+2024-01-01,2024,1,Northeast,Estados Unidos Da América,8833
+2024-01-01,2024,1,Northeast,França,3654
+2024-01-01,2024,1,Northeast,Ilhas Canárias,0
+2024-01-01,2024,1,Northeast,México,0
+2024-01-01,2024,1,Northeast,Polônia,1407
+2024-01-01,2024,1,Northeast,Portugal,29794
+2024-01-01,2024,1,Northeast,Uruguai,2449
+2024-01-01,2024,1,Northeast,Índia,0
+2024-01-01,2024,1,South,Alemanha,0
+2024-01-01,2024,1,South,Argentina,50728
+2024-01-01,2024,1,South,Cabo Verde,0
+2024-01-01,2024,1,South,Chile,32397
+2024-01-01,2024,1,South,Colômbia,0
+2024-01-01,2024,1,South,Equador,0
+2024-01-01,2024,1,South,Estados Unidos Da América,0
+2024-01-01,2024,1,South,Holanda,0
+2024-01-01,2024,1,South,Luxemburgo,0
+2024-01-01,2024,1,South,Panamá,2986
+2024-01-01,2024,1,South,Paraguai,403
+2024-01-01,2024,1,South,Peru,3169
+2024-01-01,2024,1,South,Portugal,2972
+2024-01-01,2024,1,South,Uruguai,7244
+2024-01-01,2024,1,Southeast,Alemanha,24157
+2024-01-01,2024,1,Southeast,Angola,3171
+2024-01-01,2024,1,Southeast,Argentina,155916
+2024-01-01,2024,1,Southeast,Arábia Saudita,0
+2024-01-01,2024,1,Southeast,Azerbaijão,0
+2024-01-01,2024,1,Southeast,Bolívia,17595
+2024-01-01,2024,1,Southeast,Bélgica,0
+2024-01-01,2024,1,Southeast,Cabo Verde,0
+2024-01-01,2024,1,Southeast,Canadá,12667
+2024-01-01,2024,1,Southeast,Chile,110541
+2024-01-01,2024,1,Southeast,Colômbia,27097
+2024-01-01,2024,1,Southeast,Coreia Do Sul,0
+2024-01-01,2024,1,Southeast,Curaçao,1355
+2024-01-01,2024,1,Southeast,Emirados Árabes Unidos,15475
+2024-01-01,2024,1,Southeast,Equador,402
+2024-01-01,2024,1,Southeast,Espanha,38351
+2024-01-01,2024,1,Southeast,Estados Unidos Da América,184102
+2024-01-01,2024,1,Southeast,Etiópia,3307
+2024-01-01,2024,1,Southeast,França,42163
+2024-01-01,2024,1,Southeast,Gana,0
+2024-01-01,2024,1,Southeast,Holanda,19220
+2024-01-01,2024,1,Southeast,Hong Kong,0
+2024-01-01,2024,1,Southeast,Itália,40166
+2024-01-01,2024,1,Southeast,Luxemburgo,0
+2024-01-01,2024,1,Southeast,Marrocos,0
+2024-01-01,2024,1,Southeast,Martinica,176
+2024-01-01,2024,1,Southeast,México,12048
+2024-01-01,2024,1,Southeast,Nigéria,0
+2024-01-01,2024,1,Southeast,Panamá,38027
+2024-01-01,2024,1,Southeast,Paraguai,14173
+2024-01-01,2024,1,Southeast,Peru,26096
+2024-01-01,2024,1,Southeast,Portugal,73309
+2024-01-01,2024,1,Southeast,Qatar,18380
+2024-01-01,2024,1,Southeast,Reino Unido,26068
+2024-01-01,2024,1,Southeast,República Dominicana,4585
+2024-01-01,2024,1,Southeast,Senegal,0
+2024-01-01,2024,1,Southeast,Suíça,8465
+2024-01-01,2024,1,Southeast,Turquia,10754
+2024-01-01,2024,1,Southeast,Uganda,598
+2024-01-01,2024,1,Southeast,Uruguai,35041
+2024-01-01,2024,1,Southeast,África Do Sul,6802
+2024-02-01,2024,2,Central-West,Argentina,2385
+2024-02-01,2024,2,Central-West,Estados Unidos Da América,11667
+2024-02-01,2024,2,Central-West,Panamá,4320
+2024-02-01,2024,2,Central-West,Peru,4375
+2024-02-01,2024,2,Central-West,Portugal,5308
+2024-02-01,2024,2,North,Bolívia,0
+2024-02-01,2024,2,North,Colômbia,2571
+2024-02-01,2024,2,North,Equador,0
+2024-02-01,2024,2,North,Estados Unidos Da América,4669
+2024-02-01,2024,2,North,Guiana,0
+2024-02-01,2024,2,North,Guiana Francesa,556
+2024-02-01,2024,2,North,Martinica,699
+2024-02-01,2024,2,North,Panamá,2498
+2024-02-01,2024,2,North,Portugal,1997
+2024-02-01,2024,2,North,Suriname,1266
+2024-02-01,2024,2,North,Venezuela,239
+2024-02-01,2024,2,Northeast,Alemanha,0
+2024-02-01,2024,2,Northeast,Argentina,10722
+2024-02-01,2024,2,Northeast,Chile,785
+2024-02-01,2024,2,Northeast,Espanha,2363
+2024-02-01,2024,2,Northeast,Estados Unidos Da América,7707
+2024-02-01,2024,2,Northeast,França,3536
+2024-02-01,2024,2,Northeast,Gana,0
+2024-02-01,2024,2,Northeast,Ilhas Canárias,189
+2024-02-01,2024,2,Northeast,México,0
+2024-02-01,2024,2,Northeast,Polônia,1073
+2024-02-01,2024,2,Northeast,Portugal,26150
+2024-02-01,2024,2,Northeast,Uruguai,2299
+2024-02-01,2024,2,South,Alemanha,0
+2024-02-01,2024,2,South,Argentina,35106
+2024-02-01,2024,2,South,Cabo Verde,0
+2024-02-01,2024,2,South,Chile,29591
+2024-02-01,2024,2,South,Colômbia,0
+2024-02-01,2024,2,South,Estados Unidos Da América,0
+2024-02-01,2024,2,South,Holanda,0
+2024-02-01,2024,2,South,Luxemburgo,0
+2024-02-01,2024,2,South,Panamá,3417
+2024-02-01,2024,2,South,Paraguai,121
+2024-02-01,2024,2,South,Peru,3068
+2024-02-01,2024,2,South,Portugal,3196
+2024-02-01,2024,2,South,Uruguai,4588
+2024-02-01,2024,2,Southeast,Alemanha,22183
+2024-02-01,2024,2,Southeast,Angola,3119
+2024-02-01,2024,2,Southeast,Argentina,118984
+2024-02-01,2024,2,Southeast,Arábia Saudita,0
+2024-02-01,2024,2,Southeast,Bolívia,12256
+2024-02-01,2024,2,Southeast,Cabo Verde,0
+2024-02-01,2024,2,Southeast,Canadá,12218
+2024-02-01,2024,2,Southeast,Chile,98806
+2024-02-01,2024,2,Southeast,Colômbia,27793
+2024-02-01,2024,2,Southeast,Coreia Do Sul,0
+2024-02-01,2024,2,Southeast,Curaçao,1264
+2024-02-01,2024,2,Southeast,Emirados Árabes Unidos,14304
+2024-02-01,2024,2,Southeast,Equador,179
+2024-02-01,2024,2,Southeast,Espanha,35519
+2024-02-01,2024,2,Southeast,Estados Unidos Da América,170727
+2024-02-01,2024,2,Southeast,Etiópia,3204
+2024-02-01,2024,2,Southeast,França,39294
+2024-02-01,2024,2,Southeast,Gana,0
+2024-02-01,2024,2,Southeast,Holanda,18619
+2024-02-01,2024,2,Southeast,Itália,37632
+2024-02-01,2024,2,Southeast,Luxemburgo,0
+2024-02-01,2024,2,Southeast,Marrocos,0
+2024-02-01,2024,2,Southeast,México,12947
+2024-02-01,2024,2,Southeast,Nigéria,0
+2024-02-01,2024,2,Southeast,Panamá,39007
+2024-02-01,2024,2,Southeast,Paraguai,11809
+2024-02-01,2024,2,Southeast,Peru,24768
+2024-02-01,2024,2,Southeast,Portugal,66797
+2024-02-01,2024,2,Southeast,Qatar,16718
+2024-02-01,2024,2,Southeast,Reino Unido,24751
+2024-02-01,2024,2,Southeast,República Dominicana,3961
+2024-02-01,2024,2,Southeast,Senegal,0
+2024-02-01,2024,2,Southeast,Suíça,7969
+2024-02-01,2024,2,Southeast,Togo,0
+2024-02-01,2024,2,Southeast,Turquia,8618
+2024-02-01,2024,2,Southeast,Uganda,433
+2024-02-01,2024,2,Southeast,Uruguai,26632
+2024-02-01,2024,2,Southeast,África Do Sul,6186
+2024-03-01,2024,3,Central-West,Argentina,1626
+2024-03-01,2024,3,Central-West,Estados Unidos Da América,6943
+2024-03-01,2024,3,Central-West,Panamá,4418
+2024-03-01,2024,3,Central-West,Peru,4422
+2024-03-01,2024,3,Central-West,Portugal,4405
+2024-03-01,2024,3,North,Alemanha,223
+2024-03-01,2024,3,North,Colômbia,2034
+2024-03-01,2024,3,North,Estados Unidos Da América,3860
+2024-03-01,2024,3,North,Guiana,59
+2024-03-01,2024,3,North,Guiana Francesa,520
+2024-03-01,2024,3,North,Martinica,873
+2024-03-01,2024,3,North,Panamá,2351
+2024-03-01,2024,3,North,Portugal,1499
+2024-03-01,2024,3,North,Suriname,1527
+2024-03-01,2024,3,North,Venezuela,171
+2024-03-01,2024,3,Northeast,Alemanha,0
+2024-03-01,2024,3,Northeast,Argentina,9903
+2024-03-01,2024,3,Northeast,Azerbaijão,0
+2024-03-01,2024,3,Northeast,Cabo Verde,0
+2024-03-01,2024,3,Northeast,Chile,324
+2024-03-01,2024,3,Northeast,Colômbia,0
+2024-03-01,2024,3,Northeast,Espanha,1946
+2024-03-01,2024,3,Northeast,Estados Unidos Da América,3675
+2024-03-01,2024,3,Northeast,França,2719
+2024-03-01,2024,3,Northeast,Ilhas Canárias,0
+2024-03-01,2024,3,Northeast,México,0
+2024-03-01,2024,3,Northeast,Polônia,468
+2024-03-01,2024,3,Northeast,Portugal,24402
+2024-03-01,2024,3,Northeast,Uruguai,3470
+2024-03-01,2024,3,Northeast,Índia,0
+2024-03-01,2024,3,South,Alemanha,0
+2024-03-01,2024,3,South,Argentina,25503
+2024-03-01,2024,3,South,Aruba,74
+2024-03-01,2024,3,South,Cabo Verde,0
+2024-03-01,2024,3,South,Chile,21036
+2024-03-01,2024,3,South,Colômbia,0
+2024-03-01,2024,3,South,Estados Unidos Da América,0
+2024-03-01,2024,3,South,Holanda,0
+2024-03-01,2024,3,South,Luxemburgo,0
+2024-03-01,2024,3,South,Panamá,2277
+2024-03-01,2024,3,South,Paraguai,0
+2024-03-01,2024,3,South,Peru,3012
+2024-03-01,2024,3,South,Portugal,2844
+2024-03-01,2024,3,South,Uruguai,4552
+2024-03-01,2024,3,Southeast,Alemanha,23009
+2024-03-01,2024,3,Southeast,Angola,3413
+2024-03-01,2024,3,Southeast,Argentina,123868
+2024-03-01,2024,3,Southeast,Bolívia,10973
+2024-03-01,2024,3,Southeast,Bélgica,0
+2024-03-01,2024,3,Southeast,Cabo Verde,0
+2024-03-01,2024,3,Southeast,Canadá,10969
+2024-03-01,2024,3,Southeast,Chile,81202
+2024-03-01,2024,3,Southeast,Colômbia,26644
+2024-03-01,2024,3,Southeast,Coreia Do Sul,0
+2024-03-01,2024,3,Southeast,Curaçao,1115
+2024-03-01,2024,3,Southeast,Emirados Árabes Unidos,15393
+2024-03-01,2024,3,Southeast,Equador,137
+2024-03-01,2024,3,Southeast,Espanha,36045
+2024-03-01,2024,3,Southeast,Estados Unidos Da América,161339
+2024-03-01,2024,3,Southeast,Etiópia,4369
+2024-03-01,2024,3,Southeast,França,39260
+2024-03-01,2024,3,Southeast,Gana,0
+2024-03-01,2024,3,Southeast,Holanda,17267
+2024-03-01,2024,3,Southeast,Hong Kong,0
+2024-03-01,2024,3,Southeast,Itália,32816
+2024-03-01,2024,3,Southeast,Luxemburgo,0
+2024-03-01,2024,3,Southeast,México,12600
+2024-03-01,2024,3,Southeast,Nigéria,0
+2024-03-01,2024,3,Southeast,Omã,0
+2024-03-01,2024,3,Southeast,Panamá,38798
+2024-03-01,2024,3,Southeast,Paraguai,11601
+2024-03-01,2024,3,Southeast,Peru,24246
+2024-03-01,2024,3,Southeast,Portugal,62595
+2024-03-01,2024,3,Southeast,Qatar,18127
+2024-03-01,2024,3,Southeast,Reino Unido,24214
+2024-03-01,2024,3,Southeast,República Dominicana,3154
+2024-03-01,2024,3,Southeast,Senegal,0
+2024-03-01,2024,3,Southeast,Sri Lanka,0
+2024-03-01,2024,3,Southeast,Suíça,8616
+2024-03-01,2024,3,Southeast,Togo,0
+2024-03-01,2024,3,Southeast,Trinidad E Tobago,0
+2024-03-01,2024,3,Southeast,Turquia,7617
+2024-03-01,2024,3,Southeast,Uruguai,27145
+2024-03-01,2024,3,Southeast,Venezuela,0
+2024-03-01,2024,3,Southeast,África Do Sul,5826
+2024-04-01,2024,4,Central-West,Argentina,1638
+2024-04-01,2024,4,Central-West,Colômbia,152
+2024-04-01,2024,4,Central-West,Equador,0
+2024-04-01,2024,4,Central-West,Estados Unidos Da América,6362
+2024-04-01,2024,4,Central-West,Panamá,4140
+2024-04-01,2024,4,Central-West,Peru,3471
+2024-04-01,2024,4,Central-West,Portugal,4887
+2024-04-01,2024,4,Central-West,Venezuela,0
+2024-04-01,2024,4,North,Bolívia,0
+2024-04-01,2024,4,North,Colômbia,1846
+2024-04-01,2024,4,North,Curaçao,0
+2024-04-01,2024,4,North,Equador,154
+2024-04-01,2024,4,North,Estados Unidos Da América,3605
+2024-04-01,2024,4,North,Guiana,25
+2024-04-01,2024,4,North,Guiana Francesa,526
+2024-04-01,2024,4,North,Martinica,175
+2024-04-01,2024,4,North,Panamá,2148
+2024-04-01,2024,4,North,Peru,0
+2024-04-01,2024,4,North,Portugal,1764
+2024-04-01,2024,4,North,Suriname,1271
+2024-04-01,2024,4,North,Venezuela,132
+2024-04-01,2024,4,Northeast,Alemanha,0
+2024-04-01,2024,4,Northeast,Argentina,5614
+2024-04-01,2024,4,Northeast,Bélgica,0
+2024-04-01,2024,4,Northeast,Cabo Verde,0
+2024-04-01,2024,4,Northeast,Chile,745
+2024-04-01,2024,4,Northeast,Espanha,1962
+2024-04-01,2024,4,Northeast,Estados Unidos Da América,3178
+2024-04-01,2024,4,Northeast,França,2935
+2024-04-01,2024,4,Northeast,Holanda,0
+2024-04-01,2024,4,Northeast,México,0
+2024-04-01,2024,4,Northeast,Portugal,20906
+2024-04-01,2024,4,Northeast,Uruguai,1541
+2024-04-01,2024,4,South,Alemanha,0
+2024-04-01,2024,4,South,Argentina,15482
+2024-04-01,2024,4,South,Bélgica,0
+2024-04-01,2024,4,South,Cabo Verde,0
+2024-04-01,2024,4,South,Chile,14823
+2024-04-01,2024,4,South,Colômbia,0
+2024-04-01,2024,4,South,Equador,0
+2024-04-01,2024,4,South,Estados Unidos Da América,0
+2024-04-01,2024,4,South,Holanda,0
+2024-04-01,2024,4,South,Luxemburgo,0
+2024-04-01,2024,4,South,Panamá,3490
+2024-04-01,2024,4,South,Paraguai,50
+2024-04-01,2024,4,South,Peru,2368
+2024-04-01,2024,4,South,Portugal,2601
+2024-04-01,2024,4,South,Uruguai,3711
+2024-04-01,2024,4,South,Venezuela,115
+2024-04-01,2024,4,Southeast,Alemanha,23286
+2024-04-01,2024,4,Southeast,Angola,3076
+2024-04-01,2024,4,Southeast,Argentina,102365
+2024-04-01,2024,4,Southeast,Bolívia,10509
+2024-04-01,2024,4,Southeast,Bélgica,0
+2024-04-01,2024,4,Southeast,Cabo Verde,0
+2024-04-01,2024,4,Southeast,Canadá,8981
+2024-04-01,2024,4,Southeast,Chile,77209
+2024-04-01,2024,4,Southeast,China,94
+2024-04-01,2024,4,Southeast,Colômbia,29849
+2024-04-01,2024,4,Southeast,Coreia Do Sul,0
+2024-04-01,2024,4,Southeast,Curaçao,1134
+2024-04-01,2024,4,Southeast,Emirados Árabes Unidos,13424
+2024-04-01,2024,4,Southeast,Equador,139
+2024-04-01,2024,4,Southeast,Espanha,39307
+2024-04-01,2024,4,Southeast,Estados Unidos Da América,135155
+2024-04-01,2024,4,Southeast,Etiópia,3487
+2024-04-01,2024,4,Southeast,França,38080
+2024-04-01,2024,4,Southeast,Gana,0
+2024-04-01,2024,4,Southeast,Holanda,16288
+2024-04-01,2024,4,Southeast,Hong Kong,0
+2024-04-01,2024,4,Southeast,Itália,30686
+2024-04-01,2024,4,Southeast,Luxemburgo,0
+2024-04-01,2024,4,Southeast,México,11095
+2024-04-01,2024,4,Southeast,Nigéria,0
+2024-04-01,2024,4,Southeast,Panamá,35460
+2024-04-01,2024,4,Southeast,Paraguai,10264
+2024-04-01,2024,4,Southeast,Peru,25294
+2024-04-01,2024,4,Southeast,Portugal,58865
+2024-04-01,2024,4,Southeast,Qatar,15294
+2024-04-01,2024,4,Southeast,Reino Unido,21064
+2024-04-01,2024,4,Southeast,República Dominicana,3615
+2024-04-01,2024,4,Southeast,Senegal,0
+2024-04-01,2024,4,Southeast,Sri Lanka,0
+2024-04-01,2024,4,Southeast,Suíça,7970
+2024-04-01,2024,4,Southeast,Turquia,8161
+2024-04-01,2024,4,Southeast,Uganda,974
+2024-04-01,2024,4,Southeast,Uruguai,17815
+2024-04-01,2024,4,Southeast,Venezuela,63
+2024-04-01,2024,4,Southeast,África Do Sul,5727
+2024-05-01,2024,5,Central-West,Argentina,1438
+2024-05-01,2024,5,Central-West,Estados Unidos Da América,6657
+2024-05-01,2024,5,Central-West,Panamá,4873
+2024-05-01,2024,5,Central-West,Paraguai,0
+2024-05-01,2024,5,Central-West,Peru,4987
+2024-05-01,2024,5,Central-West,Portugal,5822
+2024-05-01,2024,5,Central-West,República Dominicana,0
+2024-05-01,2024,5,Central-West,Venezuela,42
+2024-05-01,2024,5,North,Colômbia,1900
+2024-05-01,2024,5,North,Estados Unidos Da América,4751
+2024-05-01,2024,5,North,Guiana,68
+2024-05-01,2024,5,North,Guiana Francesa,551
+2024-05-01,2024,5,North,Panamá,2545
+2024-05-01,2024,5,North,Portugal,1996
+2024-05-01,2024,5,North,República Dominicana,0
+2024-05-01,2024,5,North,Suriname,1358
+2024-05-01,2024,5,North,Venezuela,244
+2024-05-01,2024,5,Northeast,Alemanha,0
+2024-05-01,2024,5,Northeast,Argentina,5034
+2024-05-01,2024,5,Northeast,Bélgica,0
+2024-05-01,2024,5,Northeast,Cabo Verde,0
+2024-05-01,2024,5,Northeast,Chile,789
+2024-05-01,2024,5,Northeast,Espanha,2181
+2024-05-01,2024,5,Northeast,Estados Unidos Da América,3560
+2024-05-01,2024,5,Northeast,França,2887
+2024-05-01,2024,5,Northeast,Holanda,0
+2024-05-01,2024,5,Northeast,Itália,1
+2024-05-01,2024,5,Northeast,México,0
+2024-05-01,2024,5,Northeast,Peru,0
+2024-05-01,2024,5,Northeast,Portugal,24746
+2024-05-01,2024,5,Northeast,Uruguai,1237
+2024-05-01,2024,5,South,Alemanha,0
+2024-05-01,2024,5,South,Argentina,10722
+2024-05-01,2024,5,South,Bélgica,0
+2024-05-01,2024,5,South,Cabo Verde,0
+2024-05-01,2024,5,South,Chile,14556
+2024-05-01,2024,5,South,Colômbia,0
+2024-05-01,2024,5,South,Estados Unidos Da América,0
+2024-05-01,2024,5,South,Holanda,0
+2024-05-01,2024,5,South,Itália,0
+2024-05-01,2024,5,South,Luxemburgo,0
+2024-05-01,2024,5,South,Panamá,288
+2024-05-01,2024,5,South,Paraguai,49
+2024-05-01,2024,5,South,Peru,130
+2024-05-01,2024,5,South,Portugal,234
+2024-05-01,2024,5,South,Senegal,0
+2024-05-01,2024,5,South,Uruguai,1810
+2024-05-01,2024,5,South,Venezuela,0
+2024-05-01,2024,5,Southeast,Alemanha,24125
+2024-05-01,2024,5,Southeast,Angola,3322
+2024-05-01,2024,5,Southeast,Argentina,96919
+2024-05-01,2024,5,Southeast,Bolívia,9982
+2024-05-01,2024,5,Southeast,Bélgica,0
+2024-05-01,2024,5,Southeast,Cabo Verde,0
+2024-05-01,2024,5,Southeast,Canadá,11010
+2024-05-01,2024,5,Southeast,Chile,85039
+2024-05-01,2024,5,Southeast,China,573
+2024-05-01,2024,5,Southeast,Colômbia,34693
+2024-05-01,2024,5,Southeast,Coreia Do Sul,0
+2024-05-01,2024,5,Southeast,Curaçao,1217
+2024-05-01,2024,5,Southeast,Egito,0
+2024-05-01,2024,5,Southeast,Emirados Árabes Unidos,15049
+2024-05-01,2024,5,Southeast,Equador,302
+2024-05-01,2024,5,Southeast,Espanha,47407
+2024-05-01,2024,5,Southeast,Estados Unidos Da América,153265
+2024-05-01,2024,5,Southeast,Etiópia,4553
+2024-05-01,2024,5,Southeast,França,38949
+2024-05-01,2024,5,Southeast,Gana,0
+2024-05-01,2024,5,Southeast,Holanda,16528
+2024-05-01,2024,5,Southeast,Hong Kong,0
+2024-05-01,2024,5,Southeast,Itália,33224
+2024-05-01,2024,5,Southeast,Luxemburgo,0
+2024-05-01,2024,5,Southeast,México,11127
+2024-05-01,2024,5,Southeast,Nigéria,0
+2024-05-01,2024,5,Southeast,Panamá,40625
+2024-05-01,2024,5,Southeast,Paraguai,11051
+2024-05-01,2024,5,Southeast,Peru,27786
+2024-05-01,2024,5,Southeast,Portugal,69108
+2024-05-01,2024,5,Southeast,Qatar,15616
+2024-05-01,2024,5,Southeast,Reino Unido,23828
+2024-05-01,2024,5,Southeast,República Democrática Do Congo,0
+2024-05-01,2024,5,Southeast,República Dominicana,3952
+2024-05-01,2024,5,Southeast,Senegal,0
+2024-05-01,2024,5,Southeast,Sri Lanka,0
+2024-05-01,2024,5,Southeast,Suíça,8697
+2024-05-01,2024,5,Southeast,Togo,0
+2024-05-01,2024,5,Southeast,Trinidad E Tobago,0
+2024-05-01,2024,5,Southeast,Turquia,8193
+2024-05-01,2024,5,Southeast,Uganda,651
+2024-05-01,2024,5,Southeast,Uruguai,18681
+2024-05-01,2024,5,Southeast,África Do Sul,5058
+2024-06-01,2024,6,Central-West,Argentina,1733
+2024-06-01,2024,6,Central-West,Chile,2908
+2024-06-01,2024,6,Central-West,Estados Unidos Da América,8303
+2024-06-01,2024,6,Central-West,Panamá,4320
+2024-06-01,2024,6,Central-West,Peru,4634
+2024-06-01,2024,6,Central-West,Portugal,6173
+2024-06-01,2024,6,North,Colômbia,1853
+2024-06-01,2024,6,North,Estados Unidos Da América,3205
+2024-06-01,2024,6,North,Guiana,57
+2024-06-01,2024,6,North,Guiana Francesa,530
+2024-06-01,2024,6,North,Panamá,2279
+2024-06-01,2024,6,North,Portugal,2685
+2024-06-01,2024,6,North,Suriname,1230
+2024-06-01,2024,6,North,Venezuela,145
+2024-06-01,2024,6,Northeast,Alemanha,0
+2024-06-01,2024,6,Northeast,Argentina,6498
+2024-06-01,2024,6,Northeast,Cabo Verde,0
+2024-06-01,2024,6,Northeast,Chile,724
+2024-06-01,2024,6,Northeast,Espanha,3263
+2024-06-01,2024,6,Northeast,Estados Unidos Da América,6700
+2024-06-01,2024,6,Northeast,França,3817
+2024-06-01,2024,6,Northeast,México,0
+2024-06-01,2024,6,Northeast,Portugal,25828
+2024-06-01,2024,6,Northeast,Uruguai,2163
+2024-06-01,2024,6,South,Alemanha,0
+2024-06-01,2024,6,South,Argentina,10636
+2024-06-01,2024,6,South,Bolívia,0
+2024-06-01,2024,6,South,Bélgica,0
+2024-06-01,2024,6,South,Chile,19364
+2024-06-01,2024,6,South,Equador,134
+2024-06-01,2024,6,South,Estados Unidos Da América,0
+2024-06-01,2024,6,South,Holanda,0
+2024-06-01,2024,6,South,Luxemburgo,0
+2024-06-01,2024,6,South,Panamá,426
+2024-06-01,2024,6,South,Senegal,0
+2024-06-01,2024,6,South,Uruguai,1100
+2024-06-01,2024,6,Southeast,Alemanha,26139
+2024-06-01,2024,6,Southeast,Angola,3982
+2024-06-01,2024,6,Southeast,Argentina,100669
+2024-06-01,2024,6,Southeast,Bolívia,10094
+2024-06-01,2024,6,Southeast,Bélgica,0
+2024-06-01,2024,6,Southeast,Cabo Verde,0
+2024-06-01,2024,6,Southeast,Canadá,11461
+2024-06-01,2024,6,Southeast,Chile,100063
+2024-06-01,2024,6,Southeast,China,794
+2024-06-01,2024,6,Southeast,Colômbia,31803
+2024-06-01,2024,6,Southeast,Coreia Do Sul,0
+2024-06-01,2024,6,Southeast,Curaçao,1141
+2024-06-01,2024,6,Southeast,Emirados Árabes Unidos,14839
+2024-06-01,2024,6,Southeast,Equador,558
+2024-06-01,2024,6,Southeast,Espanha,50443
+2024-06-01,2024,6,Southeast,Estados Unidos Da América,155187
+2024-06-01,2024,6,Southeast,Etiópia,4571
+2024-06-01,2024,6,Southeast,França,42945
+2024-06-01,2024,6,Southeast,Gana,0
+2024-06-01,2024,6,Southeast,Holanda,16960
+2024-06-01,2024,6,Southeast,Hong Kong,0
+2024-06-01,2024,6,Southeast,Itália,38023
+2024-06-01,2024,6,Southeast,Kuwait,0
+2024-06-01,2024,6,Southeast,Luxemburgo,0
+2024-06-01,2024,6,Southeast,Marrocos,0
+2024-06-01,2024,6,Southeast,México,12084
+2024-06-01,2024,6,Southeast,Nigéria,0
+2024-06-01,2024,6,Southeast,Omã,0
+2024-06-01,2024,6,Southeast,Panamá,41822
+2024-06-01,2024,6,Southeast,Paraguai,10355
+2024-06-01,2024,6,Southeast,Peru,26415
+2024-06-01,2024,6,Southeast,Porto Rico,0
+2024-06-01,2024,6,Southeast,Portugal,73561
+2024-06-01,2024,6,Southeast,Qatar,15213
+2024-06-01,2024,6,Southeast,Reino Unido,25009
+2024-06-01,2024,6,Southeast,República Dominicana,5912
+2024-06-01,2024,6,Southeast,Senegal,0
+2024-06-01,2024,6,Southeast,Sri Lanka,0
+2024-06-01,2024,6,Southeast,Suriname,0
+2024-06-01,2024,6,Southeast,Suíça,8881
+2024-06-01,2024,6,Southeast,Turquia,8635
+2024-06-01,2024,6,Southeast,Uganda,197
+2024-06-01,2024,6,Southeast,Uruguai,18845
+2024-06-01,2024,6,Southeast,Venezuela,16
+2024-06-01,2024,6,Southeast,África Do Sul,5585
+2024-07-01,2024,7,Central-West,Argentina,1782
+2024-07-01,2024,7,Central-West,Chile,6257
+2024-07-01,2024,7,Central-West,Estados Unidos Da América,12536
+2024-07-01,2024,7,Central-West,Panamá,4460
+2024-07-01,2024,7,Central-West,Peru,4639
+2024-07-01,2024,7,Central-West,Portugal,8598
+2024-07-01,2024,7,North,Cabo Verde,0
+2024-07-01,2024,7,North,Colômbia,2132
+2024-07-01,2024,7,North,Estados Unidos Da América,4842
+2024-07-01,2024,7,North,Guiana,53
+2024-07-01,2024,7,North,Guiana Francesa,608
+2024-07-01,2024,7,North,Panamá,2314
+2024-07-01,2024,7,North,Portugal,3342
+2024-07-01,2024,7,North,Suriname,1532
+2024-07-01,2024,7,North,Venezuela,186
+2024-07-01,2024,7,Northeast,Alemanha,0
+2024-07-01,2024,7,Northeast,Angola,0
+2024-07-01,2024,7,Northeast,Argentina,10248
+2024-07-01,2024,7,Northeast,Chile,2101
+2024-07-01,2024,7,Northeast,Espanha,3983
+2024-07-01,2024,7,Northeast,Estados Unidos Da América,9026
+2024-07-01,2024,7,Northeast,França,4087
+2024-07-01,2024,7,Northeast,Guiana Francesa,0
+2024-07-01,2024,7,Northeast,Portugal,33662
+2024-07-01,2024,7,Northeast,Uruguai,1572
+2024-07-01,2024,7,South,Alemanha,0
+2024-07-01,2024,7,South,Argentina,15839
+2024-07-01,2024,7,South,Bélgica,0
+2024-07-01,2024,7,South,Chile,26387
+2024-07-01,2024,7,South,Estados Unidos Da América,0
+2024-07-01,2024,7,South,Holanda,0
+2024-07-01,2024,7,South,Luxemburgo,0
+2024-07-01,2024,7,South,Panamá,1838
+2024-07-01,2024,7,South,Paraguai,57
+2024-07-01,2024,7,South,Senegal,0
+2024-07-01,2024,7,South,Uruguai,1078
+2024-07-01,2024,7,Southeast,Alemanha,28437
+2024-07-01,2024,7,Southeast,Angola,4695
+2024-07-01,2024,7,Southeast,Argentina,151713
+2024-07-01,2024,7,Southeast,Bolívia,12273
+2024-07-01,2024,7,Southeast,Bélgica,0
+2024-07-01,2024,7,Southeast,Canadá,13144
+2024-07-01,2024,7,Southeast,Chile,141141
+2024-07-01,2024,7,Southeast,China,867
+2024-07-01,2024,7,Southeast,Colômbia,32023
+2024-07-01,2024,7,Southeast,Coreia Do Sul,0
+2024-07-01,2024,7,Southeast,Curaçao,1215
+2024-07-01,2024,7,Southeast,Emirados Árabes Unidos,16908
+2024-07-01,2024,7,Southeast,Equador,428
+2024-07-01,2024,7,Southeast,Espanha,54062
+2024-07-01,2024,7,Southeast,Estados Unidos Da América,162564
+2024-07-01,2024,7,Southeast,Etiópia,3939
+2024-07-01,2024,7,Southeast,França,46642
+2024-07-01,2024,7,Southeast,Gana,0
+2024-07-01,2024,7,Southeast,Holanda,19149
+2024-07-01,2024,7,Southeast,Hong Kong,0
+2024-07-01,2024,7,Southeast,Ilhas Canárias,0
+2024-07-01,2024,7,Southeast,Itália,39620
+2024-07-01,2024,7,Southeast,Luxemburgo,0
+2024-07-01,2024,7,Southeast,México,14272
+2024-07-01,2024,7,Southeast,Nigéria,0
+2024-07-01,2024,7,Southeast,Panamá,43100
+2024-07-01,2024,7,Southeast,Paraguai,12688
+2024-07-01,2024,7,Southeast,Peru,27699
+2024-07-01,2024,7,Southeast,Portugal,85490
+2024-07-01,2024,7,Southeast,Qatar,16300
+2024-07-01,2024,7,Southeast,Reino Unido,27563
+2024-07-01,2024,7,Southeast,República Dominicana,7099
+2024-07-01,2024,7,Southeast,Senegal,0
+2024-07-01,2024,7,Southeast,Sri Lanka,0
+2024-07-01,2024,7,Southeast,Suíça,9031
+2024-07-01,2024,7,Southeast,Turquia,11110
+2024-07-01,2024,7,Southeast,Uganda,1378
+2024-07-01,2024,7,Southeast,Uruguai,20874
+2024-07-01,2024,7,Southeast,África Do Sul,6602
+2024-08-01,2024,8,Central-West,Argentina,1707
+2024-08-01,2024,8,Central-West,Chile,5493
+2024-08-01,2024,8,Central-West,Estados Unidos Da América,10224
+2024-08-01,2024,8,Central-West,Panamá,3806
+2024-08-01,2024,8,Central-West,Peru,4633
+2024-08-01,2024,8,Central-West,Portugal,7259
+2024-08-01,2024,8,North,Colômbia,1530
+2024-08-01,2024,8,North,Equador,0
+2024-08-01,2024,8,North,Estados Unidos Da América,2803
+2024-08-01,2024,8,North,Guiana,28
+2024-08-01,2024,8,North,Guiana Francesa,640
+2024-08-01,2024,8,North,Panamá,1986
+2024-08-01,2024,8,North,Portugal,2825
+2024-08-01,2024,8,North,Suriname,2148
+2024-08-01,2024,8,North,Venezuela,309
+2024-08-01,2024,8,Northeast,Alemanha,0
+2024-08-01,2024,8,Northeast,Argentina,9603
+2024-08-01,2024,8,Northeast,Cabo Verde,0
+2024-08-01,2024,8,Northeast,Chile,1556
+2024-08-01,2024,8,Northeast,Colômbia,0
+2024-08-01,2024,8,Northeast,Espanha,3271
+2024-08-01,2024,8,Northeast,Estados Unidos Da América,8299
+2024-08-01,2024,8,Northeast,França,3785
+2024-08-01,2024,8,Northeast,Portugal,29248
+2024-08-01,2024,8,Northeast,Uruguai,2188
+2024-08-01,2024,8,South,Alemanha,0
+2024-08-01,2024,8,South,Argentina,12591
+2024-08-01,2024,8,South,Bélgica,0
+2024-08-01,2024,8,South,Chile,30349
+2024-08-01,2024,8,South,Estados Unidos Da América,0
+2024-08-01,2024,8,South,Holanda,0
+2024-08-01,2024,8,South,Luxemburgo,0
+2024-08-01,2024,8,South,Panamá,1989
+2024-08-01,2024,8,South,Paraguai,0
+2024-08-01,2024,8,South,Senegal,0
+2024-08-01,2024,8,South,Uruguai,886
+2024-08-01,2024,8,Southeast,Alemanha,26810
+2024-08-01,2024,8,Southeast,Angola,4540
+2024-08-01,2024,8,Southeast,Argentina,127332
+2024-08-01,2024,8,Southeast,Bolívia,12523
+2024-08-01,2024,8,Southeast,Bélgica,0
+2024-08-01,2024,8,Southeast,Canadá,11986
+2024-08-01,2024,8,Southeast,Chile,136589
+2024-08-01,2024,8,Southeast,China,709
+2024-08-01,2024,8,Southeast,Colômbia,32340
+2024-08-01,2024,8,Southeast,Coreia Do Sul,0
+2024-08-01,2024,8,Southeast,Curaçao,1111
+2024-08-01,2024,8,Southeast,Emirados Árabes Unidos,13594
+2024-08-01,2024,8,Southeast,Equador,138
+2024-08-01,2024,8,Southeast,Espanha,49700
+2024-08-01,2024,8,Southeast,Estados Unidos Da América,147888
+2024-08-01,2024,8,Southeast,Etiópia,5760
+2024-08-01,2024,8,Southeast,França,41858
+2024-08-01,2024,8,Southeast,Gana,0
+2024-08-01,2024,8,Southeast,Guiana,0
+2024-08-01,2024,8,Southeast,Holanda,18165
+2024-08-01,2024,8,Southeast,Itália,37260
+2024-08-01,2024,8,Southeast,Luxemburgo,0
+2024-08-01,2024,8,Southeast,México,12322
+2024-08-01,2024,8,Southeast,Nigéria,0
+2024-08-01,2024,8,Southeast,Panamá,40933
+2024-08-01,2024,8,Southeast,Paraguai,10777
+2024-08-01,2024,8,Southeast,Peru,28910
+2024-08-01,2024,8,Southeast,Porto Rico,0
+2024-08-01,2024,8,Southeast,Portugal,78776
+2024-08-01,2024,8,Southeast,Qatar,15688
+2024-08-01,2024,8,Southeast,Reino Unido,24682
+2024-08-01,2024,8,Southeast,República Dominicana,6089
+2024-08-01,2024,8,Southeast,Senegal,0
+2024-08-01,2024,8,Southeast,Suíça,8444
+2024-08-01,2024,8,Southeast,Turquia,10109
+2024-08-01,2024,8,Southeast,Uruguai,21484
+2024-08-01,2024,8,Southeast,África Do Sul,6397
+2024-09-01,2024,9,Central-West,Argentina,1650
+2024-09-01,2024,9,Central-West,Chile,3657
+2024-09-01,2024,9,Central-West,Colômbia,0
+2024-09-01,2024,9,Central-West,Estados Unidos Da América,9471
+2024-09-01,2024,9,Central-West,Panamá,3655
+2024-09-01,2024,9,Central-West,Paraguai,0
+2024-09-01,2024,9,Central-West,Peru,4686
+2024-09-01,2024,9,Central-West,Portugal,6798
+2024-09-01,2024,9,Central-West,Reino Unido,247
+2024-09-01,2024,9,Central-West,Uruguai,0
+2024-09-01,2024,9,North,Colômbia,1239
+2024-09-01,2024,9,North,Estados Unidos Da América,2749
+2024-09-01,2024,9,North,Guiana,56
+2024-09-01,2024,9,North,Guiana Francesa,589
+2024-09-01,2024,9,North,Jamaica,0
+2024-09-01,2024,9,North,Panamá,1979
+2024-09-01,2024,9,North,Portugal,2360
+2024-09-01,2024,9,North,Suriname,2157
+2024-09-01,2024,9,North,Venezuela,264
+2024-09-01,2024,9,Northeast,Alemanha,0
+2024-09-01,2024,9,Northeast,Argentina,11798
+2024-09-01,2024,9,Northeast,Chile,1799
+2024-09-01,2024,9,Northeast,Espanha,3235
+2024-09-01,2024,9,Northeast,Estados Unidos Da América,8189
+2024-09-01,2024,9,Northeast,França,3503
+2024-09-01,2024,9,Northeast,Gana,51
+2024-09-01,2024,9,Northeast,Portugal,26635
+2024-09-01,2024,9,Northeast,Uruguai,2383
+2024-09-01,2024,9,South,Alemanha,0
+2024-09-01,2024,9,South,Argentina,11953
+2024-09-01,2024,9,South,Bélgica,0
+2024-09-01,2024,9,South,Chile,29568
+2024-09-01,2024,9,South,Colômbia,0
+2024-09-01,2024,9,South,Equador,58
+2024-09-01,2024,9,South,Estados Unidos Da América,0
+2024-09-01,2024,9,South,Holanda,0
+2024-09-01,2024,9,South,Luxemburgo,0
+2024-09-01,2024,9,South,Panamá,2344
+2024-09-01,2024,9,South,Paraguai,51
+2024-09-01,2024,9,South,Portugal,2457
+2024-09-01,2024,9,South,Senegal,0
+2024-09-01,2024,9,South,Uruguai,1124
+2024-09-01,2024,9,Southeast,Alemanha,26398
+2024-09-01,2024,9,Southeast,Angola,3683
+2024-09-01,2024,9,Southeast,Argentina,114377
+2024-09-01,2024,9,Southeast,Barbados,0
+2024-09-01,2024,9,Southeast,Bolívia,11104
+2024-09-01,2024,9,Southeast,Bélgica,0
+2024-09-01,2024,9,Southeast,Canadá,11088
+2024-09-01,2024,9,Southeast,Chile,112600
+2024-09-01,2024,9,Southeast,China,644
+2024-09-01,2024,9,Southeast,Colômbia,30400
+2024-09-01,2024,9,Southeast,Coreia Do Sul,0
+2024-09-01,2024,9,Southeast,Curaçao,1414
+2024-09-01,2024,9,Southeast,Emirados Árabes Unidos,14882
+2024-09-01,2024,9,Southeast,Equador,0
+2024-09-01,2024,9,Southeast,Espanha,45779
+2024-09-01,2024,9,Southeast,Estados Unidos Da América,151822
+2024-09-01,2024,9,Southeast,Etiópia,5028
+2024-09-01,2024,9,Southeast,França,41974
+2024-09-01,2024,9,Southeast,Gana,0
+2024-09-01,2024,9,Southeast,Guiana,0
+2024-09-01,2024,9,Southeast,Holanda,16582
+2024-09-01,2024,9,Southeast,Itália,35736
+2024-09-01,2024,9,Southeast,Jamaica,0
+2024-09-01,2024,9,Southeast,Luxemburgo,0
+2024-09-01,2024,9,Southeast,México,11545
+2024-09-01,2024,9,Southeast,Nigéria,0
+2024-09-01,2024,9,Southeast,Panamá,38951
+2024-09-01,2024,9,Southeast,Paraguai,10916
+2024-09-01,2024,9,Southeast,Peru,27073
+2024-09-01,2024,9,Southeast,Porto Rico,236
+2024-09-01,2024,9,Southeast,Portugal,74143
+2024-09-01,2024,9,Southeast,Qatar,15564
+2024-09-01,2024,9,Southeast,Quênia,0
+2024-09-01,2024,9,Southeast,Reino Unido,23520
+2024-09-01,2024,9,Southeast,República Dominicana,6542
+2024-09-01,2024,9,Southeast,Senegal,0
+2024-09-01,2024,9,Southeast,Suíça,8059
+2024-09-01,2024,9,Southeast,Tailândia,0
+2024-09-01,2024,9,Southeast,Trinidad E Tobago,0
+2024-09-01,2024,9,Southeast,Turquia,8957
+2024-09-01,2024,9,Southeast,Uruguai,23698
+2024-09-01,2024,9,Southeast,África Do Sul,6196
+2024-10-01,2024,10,Central-West,Alemanha,0
+2024-10-01,2024,10,Central-West,Argentina,1442
+2024-10-01,2024,10,Central-West,Bélgica,0
+2024-10-01,2024,10,Central-West,Cabo Verde,0
+2024-10-01,2024,10,Central-West,Chile,2128
+2024-10-01,2024,10,Central-West,Estados Unidos Da América,9794
+2024-10-01,2024,10,Central-West,México,31
+2024-10-01,2024,10,Central-West,Panamá,4282
+2024-10-01,2024,10,Central-West,Peru,4966
+2024-10-01,2024,10,Central-West,Portugal,8655
+2024-10-01,2024,10,Central-West,Senegal,0
+2024-10-01,2024,10,North,Cabo Verde,0
+2024-10-01,2024,10,North,Colômbia,1479
+2024-10-01,2024,10,North,Espanha,0
+2024-10-01,2024,10,North,Estados Unidos Da América,3620
+2024-10-01,2024,10,North,Guiana,0
+2024-10-01,2024,10,North,Guiana Francesa,632
+2024-10-01,2024,10,North,Jamaica,0
+2024-10-01,2024,10,North,México,0
+2024-10-01,2024,10,North,Panamá,2154
+2024-10-01,2024,10,North,Paraguai,0
+2024-10-01,2024,10,North,Portugal,3209
+2024-10-01,2024,10,North,Suriname,1231
+2024-10-01,2024,10,North,Venezuela,306
+2024-10-01,2024,10,Northeast,Alemanha,0
+2024-10-01,2024,10,Northeast,Argentina,9030
+2024-10-01,2024,10,Northeast,Cabo Verde,0
+2024-10-01,2024,10,Northeast,Chile,1541
+2024-10-01,2024,10,Northeast,Colômbia,0
+2024-10-01,2024,10,Northeast,Equador,0
+2024-10-01,2024,10,Northeast,Espanha,3893
+2024-10-01,2024,10,Northeast,Estados Unidos Da América,10040
+2024-10-01,2024,10,Northeast,França,6679
+2024-10-01,2024,10,Northeast,México,0
+2024-10-01,2024,10,Northeast,Paraguai,0
+2024-10-01,2024,10,Northeast,Portugal,32443
+2024-10-01,2024,10,Northeast,Uruguai,2015
+2024-10-01,2024,10,South,Alemanha,0
+2024-10-01,2024,10,South,Argentina,11599
+2024-10-01,2024,10,South,Bélgica,0
+2024-10-01,2024,10,South,Cabo Verde,0
+2024-10-01,2024,10,South,Chile,29359
+2024-10-01,2024,10,South,Colômbia,0
+2024-10-01,2024,10,South,Espanha,0
+2024-10-01,2024,10,South,Estados Unidos Da América,0
+2024-10-01,2024,10,South,Holanda,0
+2024-10-01,2024,10,South,Luxemburgo,0
+2024-10-01,2024,10,South,Panamá,2667
+2024-10-01,2024,10,South,Paraguai,0
+2024-10-01,2024,10,South,Peru,309
+2024-10-01,2024,10,South,Portugal,3657
+2024-10-01,2024,10,South,Senegal,0
+2024-10-01,2024,10,South,Uruguai,1034
+2024-10-01,2024,10,Southeast,Alemanha,29071
+2024-10-01,2024,10,Southeast,Angola,3803
+2024-10-01,2024,10,Southeast,Argentina,117308
+2024-10-01,2024,10,Southeast,Azerbaijão,0
+2024-10-01,2024,10,Southeast,Bolívia,11376
+2024-10-01,2024,10,Southeast,Bélgica,0
+2024-10-01,2024,10,Southeast,Cabo Verde,0
+2024-10-01,2024,10,Southeast,Canadá,12500
+2024-10-01,2024,10,Southeast,Chile,103165
+2024-10-01,2024,10,Southeast,China,720
+2024-10-01,2024,10,Southeast,Colômbia,33781
+2024-10-01,2024,10,Southeast,Coreia Do Sul,0
+2024-10-01,2024,10,Southeast,Curaçao,1453
+2024-10-01,2024,10,Southeast,Emirados Árabes Unidos,15732
+2024-10-01,2024,10,Southeast,Equador,0
+2024-10-01,2024,10,Southeast,Espanha,51012
+2024-10-01,2024,10,Southeast,Estados Unidos Da América,166601
+2024-10-01,2024,10,Southeast,Etiópia,5537
+2024-10-01,2024,10,Southeast,França,47353
+2024-10-01,2024,10,Southeast,Gana,0
+2024-10-01,2024,10,Southeast,Holanda,19240
+2024-10-01,2024,10,Southeast,Itália,42592
+2024-10-01,2024,10,Southeast,Jamaica,0
+2024-10-01,2024,10,Southeast,Luxemburgo,0
+2024-10-01,2024,10,Southeast,México,13721
+2024-10-01,2024,10,Southeast,Nigéria,0
+2024-10-01,2024,10,Southeast,Panamá,40756
+2024-10-01,2024,10,Southeast,Paraguai,11291
+2024-10-01,2024,10,Southeast,Peru,29336
+2024-10-01,2024,10,Southeast,Portugal,83684
+2024-10-01,2024,10,Southeast,Qatar,16758
+2024-10-01,2024,10,Southeast,Reino Unido,26765
+2024-10-01,2024,10,Southeast,República Dominicana,6744
+2024-10-01,2024,10,Southeast,Senegal,0
+2024-10-01,2024,10,Southeast,Suíça,8796
+2024-10-01,2024,10,Southeast,Tailândia,0
+2024-10-01,2024,10,Southeast,Turquia,9336
+2024-10-01,2024,10,Southeast,Uganda,158
+2024-10-01,2024,10,Southeast,Uruguai,23971
+2024-10-01,2024,10,Southeast,África Do Sul,7170
+2024-11-01,2024,11,Central-West,Alemanha,0
+2024-11-01,2024,11,Central-West,Argentina,1146
+2024-11-01,2024,11,Central-West,Bélgica,0
+2024-11-01,2024,11,Central-West,Cabo Verde,0
+2024-11-01,2024,11,Central-West,Chile,1782
+2024-11-01,2024,11,Central-West,Colômbia,0
+2024-11-01,2024,11,Central-West,Estados Unidos Da América,9810
+2024-11-01,2024,11,Central-West,México,113
+2024-11-01,2024,11,Central-West,Panamá,4643
+2024-11-01,2024,11,Central-West,Peru,4540
+2024-11-01,2024,11,Central-West,Portugal,6060
+2024-11-01,2024,11,Central-West,Reino Unido,275
+2024-11-01,2024,11,Central-West,Venezuela,0
+2024-11-01,2024,11,North,Cabo Verde,0
+2024-11-01,2024,11,North,Colômbia,1410
+2024-11-01,2024,11,North,Estados Unidos Da América,3310
+2024-11-01,2024,11,North,Guiana,0
+2024-11-01,2024,11,North,Guiana Francesa,610
+2024-11-01,2024,11,North,Jamaica,0
+2024-11-01,2024,11,North,Martinica,225
+2024-11-01,2024,11,North,México,1
+2024-11-01,2024,11,North,Panamá,2316
+2024-11-01,2024,11,North,Portugal,3334
+2024-11-01,2024,11,North,Suriname,1495
+2024-11-01,2024,11,North,Venezuela,268
+2024-11-01,2024,11,Northeast,Alemanha,0
+2024-11-01,2024,11,Northeast,Argentina,9289
+2024-11-01,2024,11,Northeast,Cabo Verde,0
+2024-11-01,2024,11,Northeast,Chile,1639
+2024-11-01,2024,11,Northeast,Colômbia,0
+2024-11-01,2024,11,Northeast,Equador,0
+2024-11-01,2024,11,Northeast,Espanha,3604
+2024-11-01,2024,11,Northeast,Estados Unidos Da América,8686
+2024-11-01,2024,11,Northeast,França,10583
+2024-11-01,2024,11,Northeast,Ilhas Canárias,0
+2024-11-01,2024,11,Northeast,Itália,0
+2024-11-01,2024,11,Northeast,Portugal,30194
+2024-11-01,2024,11,Northeast,Trinidad E Tobago,0
+2024-11-01,2024,11,Northeast,Uruguai,1793
+2024-11-01,2024,11,Northeast,Venezuela,77
+2024-11-01,2024,11,South,Alemanha,0
+2024-11-01,2024,11,South,Argentina,12952
+2024-11-01,2024,11,South,Bélgica,0
+2024-11-01,2024,11,South,Cabo Verde,0
+2024-11-01,2024,11,South,Chile,26026
+2024-11-01,2024,11,South,Colômbia,0
+2024-11-01,2024,11,South,Estados Unidos Da América,0
+2024-11-01,2024,11,South,Ilhas Canárias,0
+2024-11-01,2024,11,South,Itália,0
+2024-11-01,2024,11,South,Luxemburgo,0
+2024-11-01,2024,11,South,Panamá,2571
+2024-11-01,2024,11,South,Paraguai,44
+2024-11-01,2024,11,South,Peru,1813
+2024-11-01,2024,11,South,Portugal,3209
+2024-11-01,2024,11,South,Uruguai,927
+2024-11-01,2024,11,South,Venezuela,63
+2024-11-01,2024,11,Southeast,Alemanha,27851
+2024-11-01,2024,11,Southeast,Angola,4251
+2024-11-01,2024,11,Southeast,Argentina,118561
+2024-11-01,2024,11,Southeast,Azerbaijão,0
+2024-11-01,2024,11,Southeast,Bolívia,11482
+2024-11-01,2024,11,Southeast,Bélgica,0
+2024-11-01,2024,11,Southeast,Cabo Verde,54
+2024-11-01,2024,11,Southeast,Canadá,10101
+2024-11-01,2024,11,Southeast,Chile,93516
+2024-11-01,2024,11,Southeast,China,817
+2024-11-01,2024,11,Southeast,Colômbia,31834
+2024-11-01,2024,11,Southeast,Coreia Do Sul,0
+2024-11-01,2024,11,Southeast,Costa Rica,868
+2024-11-01,2024,11,Southeast,Curaçao,1135
+2024-11-01,2024,11,Southeast,Emirados Árabes Unidos,17870
+2024-11-01,2024,11,Southeast,Equador,0
+2024-11-01,2024,11,Southeast,Espanha,49979
+2024-11-01,2024,11,Southeast,Estados Unidos Da América,187661
+2024-11-01,2024,11,Southeast,Etiópia,5147
+2024-11-01,2024,11,Southeast,França,42138
+2024-11-01,2024,11,Southeast,Gana,0
+2024-11-01,2024,11,Southeast,Gâmbia,0
+2024-11-01,2024,11,Southeast,Holanda,18394
+2024-11-01,2024,11,Southeast,Ilhas Canárias,0
+2024-11-01,2024,11,Southeast,Itália,40947
+2024-11-01,2024,11,Southeast,Jamaica,0
+2024-11-01,2024,11,Southeast,Luxemburgo,0
+2024-11-01,2024,11,Southeast,Marrocos,0
+2024-11-01,2024,11,Southeast,México,14020
+2024-11-01,2024,11,Southeast,Nigéria,0
+2024-11-01,2024,11,Southeast,Panamá,38116
+2024-11-01,2024,11,Southeast,Paraguai,12267
+2024-11-01,2024,11,Southeast,Peru,27474
+2024-11-01,2024,11,Southeast,Portugal,76622
+2024-11-01,2024,11,Southeast,Qatar,17607
+2024-11-01,2024,11,Southeast,Reino Unido,27696
+2024-11-01,2024,11,Southeast,República Dominicana,5690
+2024-11-01,2024,11,Southeast,Senegal,0
+2024-11-01,2024,11,Southeast,Suíça,8246
+2024-11-01,2024,11,Southeast,Trinidad E Tobago,0
+2024-11-01,2024,11,Southeast,Turquia,9839
+2024-11-01,2024,11,Southeast,Uruguai,22605
+2024-11-01,2024,11,Southeast,África Do Sul,6676
+2024-12-01,2024,12,Central-West,Argentina,1540
+2024-12-01,2024,12,Central-West,Bolívia,0
+2024-12-01,2024,12,Central-West,Chile,2170
+2024-12-01,2024,12,Central-West,Estados Unidos Da América,15316
+2024-12-01,2024,12,Central-West,México,707
+2024-12-01,2024,12,Central-West,Panamá,4526
+2024-12-01,2024,12,Central-West,Peru,3715
+2024-12-01,2024,12,Central-West,Portugal,5990
+2024-12-01,2024,12,North,Cabo Verde,0
+2024-12-01,2024,12,North,Colômbia,1392
+2024-12-01,2024,12,North,Estados Unidos Da América,3748
+2024-12-01,2024,12,North,Guiana,0
+2024-12-01,2024,12,North,Guiana Francesa,637
+2024-12-01,2024,12,North,Jamaica,0
+2024-12-01,2024,12,North,Martinica,701
+2024-12-01,2024,12,North,Panamá,2136
+2024-12-01,2024,12,North,Portugal,3365
+2024-12-01,2024,12,North,Suriname,1778
+2024-12-01,2024,12,North,Uruguai,0
+2024-12-01,2024,12,North,Venezuela,253
+2024-12-01,2024,12,Northeast,Argentina,11630
+2024-12-01,2024,12,Northeast,Argélia,0
+2024-12-01,2024,12,Northeast,Bélgica,0
+2024-12-01,2024,12,Northeast,Cabo Verde,0
+2024-12-01,2024,12,Northeast,Chile,3014
+2024-12-01,2024,12,Northeast,Equador,0
+2024-12-01,2024,12,Northeast,Espanha,3711
+2024-12-01,2024,12,Northeast,Estados Unidos Da América,10696
+2024-12-01,2024,12,Northeast,França,10739
+2024-12-01,2024,12,Northeast,Mauritânia,0
+2024-12-01,2024,12,Northeast,Paraguai,371
+2024-12-01,2024,12,Northeast,Portugal,31765
+2024-12-01,2024,12,Northeast,Senegal,0
+2024-12-01,2024,12,Northeast,Sérvia,0
+2024-12-01,2024,12,Northeast,Uruguai,1631
+2024-12-01,2024,12,South,Alemanha,0
+2024-12-01,2024,12,South,Argentina,27583
+2024-12-01,2024,12,South,Bélgica,0
+2024-12-01,2024,12,South,Cabo Verde,0
+2024-12-01,2024,12,South,Chile,39616
+2024-12-01,2024,12,South,Colômbia,0
+2024-12-01,2024,12,South,Estados Unidos Da América,0
+2024-12-01,2024,12,South,Luxemburgo,0
+2024-12-01,2024,12,South,Panamá,3410
+2024-12-01,2024,12,South,Paraguai,1530
+2024-12-01,2024,12,South,Peru,1697
+2024-12-01,2024,12,South,Portugal,3068
+2024-12-01,2024,12,South,Uruguai,1475
+2024-12-01,2024,12,Southeast,Alemanha,31130
+2024-12-01,2024,12,Southeast,Angola,4564
+2024-12-01,2024,12,Southeast,Argentina,153376
+2024-12-01,2024,12,Southeast,Argélia,0
+2024-12-01,2024,12,Southeast,Aruba,493
+2024-12-01,2024,12,Southeast,Azerbaijão,0
+2024-12-01,2024,12,Southeast,Bolívia,12352
+2024-12-01,2024,12,Southeast,Bélgica,0
+2024-12-01,2024,12,Southeast,Cabo Verde,0
+2024-12-01,2024,12,Southeast,Canadá,14611
+2024-12-01,2024,12,Southeast,Chile,99084
+2024-12-01,2024,12,Southeast,China,831
+2024-12-01,2024,12,Southeast,Colômbia,28861
+2024-12-01,2024,12,Southeast,Coreia Do Sul,0
+2024-12-01,2024,12,Southeast,Costa Rica,1372
+2024-12-01,2024,12,Southeast,Curaçao,1117
+2024-12-01,2024,12,Southeast,Emirados Árabes Unidos,15859
+2024-12-01,2024,12,Southeast,Equador,931
+2024-12-01,2024,12,Southeast,Espanha,52673
+2024-12-01,2024,12,Southeast,Estados Unidos Da América,208026
+2024-12-01,2024,12,Southeast,Etiópia,4738
+2024-12-01,2024,12,Southeast,França,47071
+2024-12-01,2024,12,Southeast,Gana,0
+2024-12-01,2024,12,Southeast,Holanda,19152
+2024-12-01,2024,12,Southeast,Itália,41887
+2024-12-01,2024,12,Southeast,Jamaica,0
+2024-12-01,2024,12,Southeast,Luxemburgo,0
+2024-12-01,2024,12,Southeast,Marrocos,81
+2024-12-01,2024,12,Southeast,Mauritânia,0
+2024-12-01,2024,12,Southeast,México,10357
+2024-12-01,2024,12,Southeast,Nigéria,0
+2024-12-01,2024,12,Southeast,Panamá,39027
+2024-12-01,2024,12,Southeast,Paraguai,12572
+2024-12-01,2024,12,Southeast,Peru,24402
+2024-12-01,2024,12,Southeast,Porto Rico,0
+2024-12-01,2024,12,Southeast,Portugal,75208
+2024-12-01,2024,12,Southeast,Qatar,16853
+2024-12-01,2024,12,Southeast,Reino Unido,28653
+2024-12-01,2024,12,Southeast,República Dominicana,7278
+2024-12-01,2024,12,Southeast,Senegal,0
+2024-12-01,2024,12,Southeast,Suíça,8283
+2024-12-01,2024,12,Southeast,Sérvia,0
+2024-12-01,2024,12,Southeast,Tailândia,0
+2024-12-01,2024,12,Southeast,Trinidad E Tobago,0
+2024-12-01,2024,12,Southeast,Turquia,7739
+2024-12-01,2024,12,Southeast,Uruguai,22464
+2024-12-01,2024,12,Southeast,África Do Sul,6403
+2025-01-01,2025,1,Central-West,Argentina,3748
+2025-01-01,2025,1,Central-West,Chile,2380
+2025-01-01,2025,1,Central-West,Estados Unidos Da América,18275
+2025-01-01,2025,1,Central-West,México,1251
+2025-01-01,2025,1,Central-West,Panamá,6065
+2025-01-01,2025,1,Central-West,Peru,4509
+2025-01-01,2025,1,Central-West,Portugal,5894
+2025-01-01,2025,1,North,Cabo Verde,0
+2025-01-01,2025,1,North,Colômbia,1980
+2025-01-01,2025,1,North,Estados Unidos Da América,5082
+2025-01-01,2025,1,North,Guiana,0
+2025-01-01,2025,1,North,Guiana Francesa,596
+2025-01-01,2025,1,North,Jamaica,0
+2025-01-01,2025,1,North,Martinica,697
+2025-01-01,2025,1,North,Panamá,2913
+2025-01-01,2025,1,North,Portugal,3517
+2025-01-01,2025,1,North,Suriname,1293
+2025-01-01,2025,1,North,Venezuela,359
+2025-01-01,2025,1,Northeast,Argentina,21700
+2025-01-01,2025,1,Northeast,Chile,3268
+2025-01-01,2025,1,Northeast,Espanha,3554
+2025-01-01,2025,1,Northeast,Estados Unidos Da América,11073
+2025-01-01,2025,1,Northeast,França,10164
+2025-01-01,2025,1,Northeast,Paraguai,530
+2025-01-01,2025,1,Northeast,Portugal,29627
+2025-01-01,2025,1,Northeast,Uruguai,2535
+2025-01-01,2025,1,South,Alemanha,0
+2025-01-01,2025,1,South,Argentina,64357
+2025-01-01,2025,1,South,Bélgica,0
+2025-01-01,2025,1,South,Cabo Verde,0
+2025-01-01,2025,1,South,Chile,48532
+2025-01-01,2025,1,South,Colômbia,0
+2025-01-01,2025,1,South,Estados Unidos Da América,0
+2025-01-01,2025,1,South,Luxemburgo,0
+2025-01-01,2025,1,South,Panamá,4814
+2025-01-01,2025,1,South,Paraguai,2784
+2025-01-01,2025,1,South,Peru,3755
+2025-01-01,2025,1,South,Portugal,2717
+2025-01-01,2025,1,South,Uruguai,4373
+2025-01-01,2025,1,Southeast,Alemanha,30764
+2025-01-01,2025,1,Southeast,Angola,3413
+2025-01-01,2025,1,Southeast,Argentina,190516
+2025-01-01,2025,1,Southeast,Aruba,1876
+2025-01-01,2025,1,Southeast,Bolívia,15644
+2025-01-01,2025,1,Southeast,Bélgica,0
+2025-01-01,2025,1,Southeast,Cabo Verde,0
+2025-01-01,2025,1,Southeast,Canadá,14667
+2025-01-01,2025,1,Southeast,Chile,136598
+2025-01-01,2025,1,Southeast,China,863
+2025-01-01,2025,1,Southeast,Colômbia,36227
+2025-01-01,2025,1,Southeast,Coreia Do Sul,0
+2025-01-01,2025,1,Southeast,Costa Rica,1839
+2025-01-01,2025,1,Southeast,Curaçao,1699
+2025-01-01,2025,1,Southeast,Emirados Árabes Unidos,16514
+2025-01-01,2025,1,Southeast,Equador,1108
+2025-01-01,2025,1,Southeast,Espanha,47394
+2025-01-01,2025,1,Southeast,Estados Unidos Da América,204773
+2025-01-01,2025,1,Southeast,Etiópia,4360
+2025-01-01,2025,1,Southeast,França,46939
+2025-01-01,2025,1,Southeast,Gana,0
+2025-01-01,2025,1,Southeast,Guiana,0
+2025-01-01,2025,1,Southeast,Holanda,17897
+2025-01-01,2025,1,Southeast,Itália,42923
+2025-01-01,2025,1,Southeast,Jamaica,0
+2025-01-01,2025,1,Southeast,Luxemburgo,0
+2025-01-01,2025,1,Southeast,México,12199
+2025-01-01,2025,1,Southeast,Nigéria,0
+2025-01-01,2025,1,Southeast,Panamá,43510
+2025-01-01,2025,1,Southeast,Paraguai,15157
+2025-01-01,2025,1,Southeast,Peru,28324
+2025-01-01,2025,1,Southeast,Porto Rico,0
+2025-01-01,2025,1,Southeast,Portugal,76694
+2025-01-01,2025,1,Southeast,Qatar,17448
+2025-01-01,2025,1,Southeast,Reino Unido,29119
+2025-01-01,2025,1,Southeast,República Dominicana,8403
+2025-01-01,2025,1,Southeast,Senegal,0
+2025-01-01,2025,1,Southeast,Suíça,8324
+2025-01-01,2025,1,Southeast,Turquia,8518
+2025-01-01,2025,1,Southeast,Uruguai,35098
+2025-01-01,2025,1,Southeast,Venezuela,0
+2025-01-01,2025,1,Southeast,África Do Sul,7578
+2025-02-01,2025,2,Central-West,Alemanha,0
+2025-02-01,2025,2,Central-West,Argentina,3474
+2025-02-01,2025,2,Central-West,Bélgica,0
+2025-02-01,2025,2,Central-West,Cabo Verde,0
+2025-02-01,2025,2,Central-West,Chile,1659
+2025-02-01,2025,2,Central-West,Colômbia,1736
+2025-02-01,2025,2,Central-West,Espanha,0
+2025-02-01,2025,2,Central-West,Estados Unidos Da América,16125
+2025-02-01,2025,2,Central-West,México,1233
+2025-02-01,2025,2,Central-West,Panamá,4868
+2025-02-01,2025,2,Central-West,Peru,4107
+2025-02-01,2025,2,Central-West,Portugal,4257
+2025-02-01,2025,2,North,Colômbia,1633
+2025-02-01,2025,2,North,Estados Unidos Da América,2235
+2025-02-01,2025,2,North,Guiana,0
+2025-02-01,2025,2,North,Guiana Francesa,590
+2025-02-01,2025,2,North,Ilhas Canárias,0
+2025-02-01,2025,2,North,Jamaica,0
+2025-02-01,2025,2,North,Martinica,706
+2025-02-01,2025,2,North,Panamá,2526
+2025-02-01,2025,2,North,Portugal,2697
+2025-02-01,2025,2,North,Suriname,1109
+2025-02-01,2025,2,North,Venezuela,218
+2025-02-01,2025,2,Northeast,Argentina,18789
+2025-02-01,2025,2,Northeast,Bolívia,91
+2025-02-01,2025,2,Northeast,Chile,3320
+2025-02-01,2025,2,Northeast,Espanha,3370
+2025-02-01,2025,2,Northeast,Estados Unidos Da América,9134
+2025-02-01,2025,2,Northeast,França,8221
+2025-02-01,2025,2,Northeast,Ilhas Canárias,0
+2025-02-01,2025,2,Northeast,Paraguai,136
+2025-02-01,2025,2,Northeast,Porto Rico,112
+2025-02-01,2025,2,Northeast,Portugal,24575
+2025-02-01,2025,2,Northeast,Reino Unido,391
+2025-02-01,2025,2,Northeast,Uruguai,1889
+2025-02-01,2025,2,South,Alemanha,0
+2025-02-01,2025,2,South,Argentina,51052
+2025-02-01,2025,2,South,Bélgica,0
+2025-02-01,2025,2,South,Cabo Verde,0
+2025-02-01,2025,2,South,Canadá,0
+2025-02-01,2025,2,South,Chile,44535
+2025-02-01,2025,2,South,Colômbia,0
+2025-02-01,2025,2,South,Estados Unidos Da América,0
+2025-02-01,2025,2,South,Holanda,0
+2025-02-01,2025,2,South,Luxemburgo,0
+2025-02-01,2025,2,South,Panamá,4863
+2025-02-01,2025,2,South,Paraguai,1957
+2025-02-01,2025,2,South,Peru,4911
+2025-02-01,2025,2,South,Portugal,2748
+2025-02-01,2025,2,South,República Dominicana,0
+2025-02-01,2025,2,South,Uruguai,2325
+2025-02-01,2025,2,Southeast,Alemanha,27948
+2025-02-01,2025,2,Southeast,Angola,2989
+2025-02-01,2025,2,Southeast,Argentina,157052
+2025-02-01,2025,2,Southeast,Aruba,1587
+2025-02-01,2025,2,Southeast,Bolívia,11276
+2025-02-01,2025,2,Southeast,Bélgica,0
+2025-02-01,2025,2,Southeast,Cabo Verde,0
+2025-02-01,2025,2,Southeast,Canadá,12440
+2025-02-01,2025,2,Southeast,Chile,111244
+2025-02-01,2025,2,Southeast,China,1490
+2025-02-01,2025,2,Southeast,Colômbia,29096
+2025-02-01,2025,2,Southeast,Coreia Do Sul,0
+2025-02-01,2025,2,Southeast,Costa Rica,1607
+2025-02-01,2025,2,Southeast,Curaçao,957
+2025-02-01,2025,2,Southeast,Emirados Árabes Unidos,14335
+2025-02-01,2025,2,Southeast,Equador,159
+2025-02-01,2025,2,Southeast,Espanha,41226
+2025-02-01,2025,2,Southeast,Estados Unidos Da América,183314
+2025-02-01,2025,2,Southeast,Etiópia,3735
+2025-02-01,2025,2,Southeast,França,41588
+2025-02-01,2025,2,Southeast,Gana,0
+2025-02-01,2025,2,Southeast,Guiana,0
+2025-02-01,2025,2,Southeast,Holanda,16866
+2025-02-01,2025,2,Southeast,Hong Kong,0
+2025-02-01,2025,2,Southeast,Itália,36334
+2025-02-01,2025,2,Southeast,Jamaica,0
+2025-02-01,2025,2,Southeast,Luxemburgo,0
+2025-02-01,2025,2,Southeast,Marrocos,2942
+2025-02-01,2025,2,Southeast,México,10756
+2025-02-01,2025,2,Southeast,Nigéria,0
+2025-02-01,2025,2,Southeast,Omã,0
+2025-02-01,2025,2,Southeast,Panamá,38622
+2025-02-01,2025,2,Southeast,Paraguai,12546
+2025-02-01,2025,2,Southeast,Peru,26125
+2025-02-01,2025,2,Southeast,Porto Rico,0
+2025-02-01,2025,2,Southeast,Portugal,68898
+2025-02-01,2025,2,Southeast,Qatar,15487
+2025-02-01,2025,2,Southeast,Reino Unido,26471
+2025-02-01,2025,2,Southeast,República Dominicana,6632
+2025-02-01,2025,2,Southeast,Senegal,0
+2025-02-01,2025,2,Southeast,Suíça,7265
+2025-02-01,2025,2,Southeast,Togo,168
+2025-02-01,2025,2,Southeast,Turquia,5750
+2025-02-01,2025,2,Southeast,Uruguai,26229
+2025-02-01,2025,2,Southeast,Venezuela,155
+2025-02-01,2025,2,Southeast,África Do Sul,6421
+2025-03-01,2025,3,Central-West,Alemanha,0
+2025-03-01,2025,3,Central-West,Argentina,4025
+2025-03-01,2025,3,Central-West,Bélgica,0
+2025-03-01,2025,3,Central-West,Cabo Verde,0
+2025-03-01,2025,3,Central-West,Chile,2033
+2025-03-01,2025,3,Central-West,Colômbia,2094
+2025-03-01,2025,3,Central-West,Espanha,0
+2025-03-01,2025,3,Central-West,Estados Unidos Da América,11348
+2025-03-01,2025,3,Central-West,México,1266
+2025-03-01,2025,3,Central-West,Panamá,5259
+2025-03-01,2025,3,Central-West,Peru,4440
+2025-03-01,2025,3,Central-West,Portugal,4266
+2025-03-01,2025,3,North,Colômbia,1803
+2025-03-01,2025,3,North,Costa Rica,0
+2025-03-01,2025,3,North,Espanha,0
+2025-03-01,2025,3,North,Estados Unidos Da América,3010
+2025-03-01,2025,3,North,Guiana,0
+2025-03-01,2025,3,North,Guiana Francesa,437
+2025-03-01,2025,3,North,Ilhas Canárias,0
+2025-03-01,2025,3,North,Jamaica,0
+2025-03-01,2025,3,North,Martinica,863
+2025-03-01,2025,3,North,Panamá,2546
+2025-03-01,2025,3,North,Portugal,2631
+2025-03-01,2025,3,North,Suriname,1276
+2025-03-01,2025,3,North,Venezuela,294
+2025-03-01,2025,3,Northeast,Argentina,15026
+2025-03-01,2025,3,Northeast,Bolívia,0
+2025-03-01,2025,3,Northeast,Chile,2398
+2025-03-01,2025,3,Northeast,Colômbia,0
+2025-03-01,2025,3,Northeast,Equador,48
+2025-03-01,2025,3,Northeast,Espanha,2574
+2025-03-01,2025,3,Northeast,Estados Unidos Da América,9671
+2025-03-01,2025,3,Northeast,França,6388
+2025-03-01,2025,3,Northeast,Paraguai,0
+2025-03-01,2025,3,Northeast,Peru,0
+2025-03-01,2025,3,Northeast,Porto Rico,0
+2025-03-01,2025,3,Northeast,Portugal,24490
+2025-03-01,2025,3,Northeast,Santa Lúcia,0
+2025-03-01,2025,3,Northeast,Trinidad E Tobago,0
+2025-03-01,2025,3,Northeast,Uruguai,2479
+2025-03-01,2025,3,South,Alemanha,0
+2025-03-01,2025,3,South,Argentina,39583
+2025-03-01,2025,3,South,Bélgica,0
+2025-03-01,2025,3,South,Cabo Verde,0
+2025-03-01,2025,3,South,Chile,27733
+2025-03-01,2025,3,South,Colômbia,0
+2025-03-01,2025,3,South,Estados Unidos Da América,0
+2025-03-01,2025,3,South,Holanda,0
+2025-03-01,2025,3,South,Luxemburgo,0
+2025-03-01,2025,3,South,Panamá,5102
+2025-03-01,2025,3,South,Paraguai,976
+2025-03-01,2025,3,South,Peru,4723
+2025-03-01,2025,3,South,Portugal,2646
+2025-03-01,2025,3,South,Uruguai,1825
+2025-03-01,2025,3,Southeast,Alemanha,25812
+2025-03-01,2025,3,Southeast,Angola,3090
+2025-03-01,2025,3,Southeast,Argentina,162404
+2025-03-01,2025,3,Southeast,Aruba,1171
+2025-03-01,2025,3,Southeast,Bolívia,11070
+2025-03-01,2025,3,Southeast,Bélgica,0
+2025-03-01,2025,3,Southeast,Cabo Verde,0
+2025-03-01,2025,3,Southeast,Canadá,12135
+2025-03-01,2025,3,Southeast,Chile,94768
+2025-03-01,2025,3,Southeast,China,1247
+2025-03-01,2025,3,Southeast,Colômbia,32601
+2025-03-01,2025,3,Southeast,Coreia Do Sul,0
+2025-03-01,2025,3,Southeast,Costa Rica,1348
+2025-03-01,2025,3,Southeast,Curaçao,1224
+2025-03-01,2025,3,Southeast,El Salvador,0
+2025-03-01,2025,3,Southeast,Emirados Árabes Unidos,16880
+2025-03-01,2025,3,Southeast,Equador,634
+2025-03-01,2025,3,Southeast,Espanha,44653
+2025-03-01,2025,3,Southeast,Estados Unidos Da América,201095
+2025-03-01,2025,3,Southeast,Etiópia,4534
+2025-03-01,2025,3,Southeast,França,38831
+2025-03-01,2025,3,Southeast,Gana,0
+2025-03-01,2025,3,Southeast,Holanda,16323
+2025-03-01,2025,3,Southeast,Hong Kong,0
+2025-03-01,2025,3,Southeast,Itália,36155
+2025-03-01,2025,3,Southeast,Jamaica,0
+2025-03-01,2025,3,Southeast,Luxemburgo,0
+2025-03-01,2025,3,Southeast,Marrocos,3341
+2025-03-01,2025,3,Southeast,México,11101
+2025-03-01,2025,3,Southeast,Nigéria,0
+2025-03-01,2025,3,Southeast,Omã,0
+2025-03-01,2025,3,Southeast,Panamá,40245
+2025-03-01,2025,3,Southeast,Paraguai,13714
+2025-03-01,2025,3,Southeast,Peru,27594
+2025-03-01,2025,3,Southeast,Porto Rico,0
+2025-03-01,2025,3,Southeast,Portugal,68752
+2025-03-01,2025,3,Southeast,Qatar,17262
+2025-03-01,2025,3,Southeast,Reino Unido,26231
+2025-03-01,2025,3,Southeast,República Dominicana,6199
+2025-03-01,2025,3,Southeast,Senegal,0
+2025-03-01,2025,3,Southeast,Suíça,8413
+2025-03-01,2025,3,Southeast,Tailândia,0
+2025-03-01,2025,3,Southeast,Trinidad E Tobago,0
+2025-03-01,2025,3,Southeast,Turquia,7093
+2025-03-01,2025,3,Southeast,Uruguai,28332
+2025-03-01,2025,3,Southeast,África Do Sul,7354
+2025-04-01,2025,4,Central-West,Alemanha,0
+2025-04-01,2025,4,Central-West,Argentina,4343
+2025-04-01,2025,4,Central-West,Bélgica,0
+2025-04-01,2025,4,Central-West,Cabo Verde,0
+2025-04-01,2025,4,Central-West,Chile,2066
+2025-04-01,2025,4,Central-West,Colômbia,2280
+2025-04-01,2025,4,Central-West,Equador,0
+2025-04-01,2025,4,Central-West,Espanha,0
+2025-04-01,2025,4,Central-West,Estados Unidos Da América,8148
+2025-04-01,2025,4,Central-West,México,1046
+2025-04-01,2025,4,Central-West,Panamá,4422
+2025-04-01,2025,4,Central-West,Peru,3848
+2025-04-01,2025,4,Central-West,Portugal,5218
+2025-04-01,2025,4,Central-West,Venezuela,0
+2025-04-01,2025,4,North,Colômbia,1958
+2025-04-01,2025,4,North,Equador,0
+2025-04-01,2025,4,North,Espanha,0
+2025-04-01,2025,4,North,Estados Unidos Da América,1978
+2025-04-01,2025,4,North,Guiana,58
+2025-04-01,2025,4,North,Guiana Francesa,609
+2025-04-01,2025,4,North,Jamaica,0
+2025-04-01,2025,4,North,Martinica,170
+2025-04-01,2025,4,North,Panamá,2057
+2025-04-01,2025,4,North,Portugal,2819
+2025-04-01,2025,4,North,Suriname,1574
+2025-04-01,2025,4,North,Venezuela,279
+2025-04-01,2025,4,Northeast,Argentina,11400
+2025-04-01,2025,4,Northeast,Bolívia,0
+2025-04-01,2025,4,Northeast,Cabo Verde,0
+2025-04-01,2025,4,Northeast,Chile,1323
+2025-04-01,2025,4,Northeast,Colômbia,138
+2025-04-01,2025,4,Northeast,Equador,0
+2025-04-01,2025,4,Northeast,Espanha,2792
+2025-04-01,2025,4,Northeast,Estados Unidos Da América,7731
+2025-04-01,2025,4,Northeast,França,5932
+2025-04-01,2025,4,Northeast,Guiana Francesa,465
+2025-04-01,2025,4,Northeast,Porto Rico,0
+2025-04-01,2025,4,Northeast,Portugal,25643
+2025-04-01,2025,4,Northeast,Uruguai,4641
+2025-04-01,2025,4,Northeast,Venezuela,67
+2025-04-01,2025,4,South,Alemanha,0
+2025-04-01,2025,4,South,Argentina,20346
+2025-04-01,2025,4,South,Bolívia,0
+2025-04-01,2025,4,South,Bélgica,0
+2025-04-01,2025,4,South,Cabo Verde,0
+2025-04-01,2025,4,South,Chile,18170
+2025-04-01,2025,4,South,Colômbia,68
+2025-04-01,2025,4,South,Coreia Do Sul,0
+2025-04-01,2025,4,South,Equador,0
+2025-04-01,2025,4,South,Estados Unidos Da América,0
+2025-04-01,2025,4,South,Luxemburgo,0
+2025-04-01,2025,4,South,Panamá,5156
+2025-04-01,2025,4,South,Paraguai,894
+2025-04-01,2025,4,South,Peru,2934
+2025-04-01,2025,4,South,Portugal,5102
+2025-04-01,2025,4,South,Uruguai,1154
+2025-04-01,2025,4,Southeast,Alemanha,23024
+2025-04-01,2025,4,Southeast,Angola,3092
+2025-04-01,2025,4,Southeast,Argentina,141682
+2025-04-01,2025,4,Southeast,Aruba,1015
+2025-04-01,2025,4,Southeast,Bolívia,9720
+2025-04-01,2025,4,Southeast,Bélgica,0
+2025-04-01,2025,4,Southeast,Cabo Verde,0
+2025-04-01,2025,4,Southeast,Canadá,9428
+2025-04-01,2025,4,Southeast,Chile,79396
+2025-04-01,2025,4,Southeast,China,1335
+2025-04-01,2025,4,Southeast,Colômbia,32535
+2025-04-01,2025,4,Southeast,Coreia Do Sul,0
+2025-04-01,2025,4,Southeast,Costa Rica,1533
+2025-04-01,2025,4,Southeast,Curaçao,722
+2025-04-01,2025,4,Southeast,Emirados Árabes Unidos,15796
+2025-04-01,2025,4,Southeast,Equador,390
+2025-04-01,2025,4,Southeast,Espanha,47870
+2025-04-01,2025,4,Southeast,Estados Unidos Da América,151203
+2025-04-01,2025,4,Southeast,Etiópia,4618
+2025-04-01,2025,4,Southeast,França,40891
+2025-04-01,2025,4,Southeast,Holanda,17093
+2025-04-01,2025,4,Southeast,Itália,36394
+2025-04-01,2025,4,Southeast,Jamaica,0
+2025-04-01,2025,4,Southeast,Luxemburgo,0
+2025-04-01,2025,4,Southeast,Marrocos,2850
+2025-04-01,2025,4,Southeast,México,12368
+2025-04-01,2025,4,Southeast,Nigéria,0
+2025-04-01,2025,4,Southeast,Panamá,34857
+2025-04-01,2025,4,Southeast,Paraguai,13227
+2025-04-01,2025,4,Southeast,Peru,29578
+2025-04-01,2025,4,Southeast,Porto Rico,0
+2025-04-01,2025,4,Southeast,Portugal,69242
+2025-04-01,2025,4,Southeast,Qatar,15796
+2025-04-01,2025,4,Southeast,Reino Unido,23584
+2025-04-01,2025,4,Southeast,República Dominicana,5630
+2025-04-01,2025,4,Southeast,Senegal,0
+2025-04-01,2025,4,Southeast,Suíça,7830
+2025-04-01,2025,4,Southeast,Turquia,6860
+2025-04-01,2025,4,Southeast,Uganda,312
+2025-04-01,2025,4,Southeast,Uruguai,31441
+2025-04-01,2025,4,Southeast,Venezuela,168
+2025-04-01,2025,4,Southeast,África Do Sul,6114
+2025-05-01,2025,5,Central-West,Alemanha,0
+2025-05-01,2025,5,Central-West,Argentina,4366
+2025-05-01,2025,5,Central-West,Bélgica,0
+2025-05-01,2025,5,Central-West,Cabo Verde,0
+2025-05-01,2025,5,Central-West,Chile,2372
+2025-05-01,2025,5,Central-West,Colômbia,2620
+2025-05-01,2025,5,Central-West,Espanha,0
+2025-05-01,2025,5,Central-West,Estados Unidos Da América,9036
+2025-05-01,2025,5,Central-West,México,1380
+2025-05-01,2025,5,Central-West,Panamá,5412
+2025-05-01,2025,5,Central-West,Peru,4193
+2025-05-01,2025,5,Central-West,Portugal,6022
+2025-05-01,2025,5,North,Argélia,0
+2025-05-01,2025,5,North,Bulgária,0
+2025-05-01,2025,5,North,Cabo Verde,0
+2025-05-01,2025,5,North,Colômbia,2481
+2025-05-01,2025,5,North,Equador,112
+2025-05-01,2025,5,North,Estados Unidos Da América,2433
+2025-05-01,2025,5,North,Guiana,29
+2025-05-01,2025,5,North,Guiana Francesa,546
+2025-05-01,2025,5,North,Jamaica,0
+2025-05-01,2025,5,North,Panamá,2785
+2025-05-01,2025,5,North,Peru,0
+2025-05-01,2025,5,North,Portugal,3138
+2025-05-01,2025,5,North,Suriname,1176
+2025-05-01,2025,5,North,Venezuela,365
+2025-05-01,2025,5,Northeast,Argentina,7649
+2025-05-01,2025,5,Northeast,Argélia,0
+2025-05-01,2025,5,Northeast,Bolívia,0
+2025-05-01,2025,5,Northeast,Bulgária,0
+2025-05-01,2025,5,Northeast,Cabo Verde,0
+2025-05-01,2025,5,Northeast,Chile,2382
+2025-05-01,2025,5,Northeast,Colômbia,73
+2025-05-01,2025,5,Northeast,Equador,0
+2025-05-01,2025,5,Northeast,Espanha,2978
+2025-05-01,2025,5,Northeast,Estados Unidos Da América,9420
+2025-05-01,2025,5,Northeast,França,5527
+2025-05-01,2025,5,Northeast,Guiana Francesa,489
+2025-05-01,2025,5,Northeast,Ilhas Canárias,0
+2025-05-01,2025,5,Northeast,Jamaica,0
+2025-05-01,2025,5,Northeast,Porto Rico,0
+2025-05-01,2025,5,Northeast,Portugal,23533
+2025-05-01,2025,5,Northeast,Santa Lúcia,0
+2025-05-01,2025,5,Northeast,Suriname,0
+2025-05-01,2025,5,Northeast,Trinidad E Tobago,0
+2025-05-01,2025,5,Northeast,Uruguai,1472
+2025-05-01,2025,5,Northeast,Venezuela,0
+2025-05-01,2025,5,South,Alemanha,0
+2025-05-01,2025,5,South,Argentina,11865
+2025-05-01,2025,5,South,Bélgica,0
+2025-05-01,2025,5,South,Cabo Verde,0
+2025-05-01,2025,5,South,Chile,18148
+2025-05-01,2025,5,South,Colômbia,0
+2025-05-01,2025,5,South,Estados Unidos Da América,0
+2025-05-01,2025,5,South,Luxemburgo,0
+2025-05-01,2025,5,South,Panamá,7122
+2025-05-01,2025,5,South,Paraguai,561
+2025-05-01,2025,5,South,Peru,3726
+2025-05-01,2025,5,South,Portugal,5941
+2025-05-01,2025,5,South,Uruguai,879
+2025-05-01,2025,5,Southeast,Alemanha,23224
+2025-05-01,2025,5,Southeast,Angola,2748
+2025-05-01,2025,5,Southeast,Argentina,124825
+2025-05-01,2025,5,Southeast,Aruba,780
+2025-05-01,2025,5,Southeast,Bahamas,0
+2025-05-01,2025,5,Southeast,Bolívia,9633
+2025-05-01,2025,5,Southeast,Bélgica,0
+2025-05-01,2025,5,Southeast,Cabo Verde,0
+2025-05-01,2025,5,Southeast,Canadá,10762
+2025-05-01,2025,5,Southeast,Chile,87043
+2025-05-01,2025,5,Southeast,China,1017
+2025-05-01,2025,5,Southeast,Colômbia,39123
+2025-05-01,2025,5,Southeast,Coreia Do Sul,0
+2025-05-01,2025,5,Southeast,Costa Rica,1739
+2025-05-01,2025,5,Southeast,Curaçao,693
+2025-05-01,2025,5,Southeast,Emirados Árabes Unidos,17144
+2025-05-01,2025,5,Southeast,Equador,735
+2025-05-01,2025,5,Southeast,Espanha,49408
+2025-05-01,2025,5,Southeast,Estados Unidos Da América,175466
+2025-05-01,2025,5,Southeast,Etiópia,5030
+2025-05-01,2025,5,Southeast,França,41944
+2025-05-01,2025,5,Southeast,Holanda,17674
+2025-05-01,2025,5,Southeast,Itália,36601
+2025-05-01,2025,5,Southeast,Jamaica,0
+2025-05-01,2025,5,Southeast,Luxemburgo,0
+2025-05-01,2025,5,Southeast,Marrocos,3485
+2025-05-01,2025,5,Southeast,México,12920
+2025-05-01,2025,5,Southeast,Nigéria,0
+2025-05-01,2025,5,Southeast,Panamá,40998
+2025-05-01,2025,5,Southeast,Paraguai,13472
+2025-05-01,2025,5,Southeast,Peru,31755
+2025-05-01,2025,5,Southeast,Porto Rico,0
+2025-05-01,2025,5,Southeast,Portugal,72155
+2025-05-01,2025,5,Southeast,Qatar,16621
+2025-05-01,2025,5,Southeast,Reino Unido,23173
+2025-05-01,2025,5,Southeast,República Dominicana,5622
+2025-05-01,2025,5,Southeast,Senegal,0
+2025-05-01,2025,5,Southeast,Suíça,8595
+2025-05-01,2025,5,Southeast,Togo,0
+2025-05-01,2025,5,Southeast,Turquia,7595
+2025-05-01,2025,5,Southeast,Uruguai,25911
+2025-05-01,2025,5,Southeast,Venezuela,180
+2025-05-01,2025,5,Southeast,África Do Sul,6421
+2025-06-01,2025,6,Central-West,Alemanha,0
+2025-06-01,2025,6,Central-West,Argentina,4343
+2025-06-01,2025,6,Central-West,Bélgica,0
+2025-06-01,2025,6,Central-West,Cabo Verde,0
+2025-06-01,2025,6,Central-West,Chile,2694
+2025-06-01,2025,6,Central-West,Colômbia,2522
+2025-06-01,2025,6,Central-West,Equador,0
+2025-06-01,2025,6,Central-West,Espanha,0
+2025-06-01,2025,6,Central-West,Estados Unidos Da América,10538
+2025-06-01,2025,6,Central-West,México,1098
+2025-06-01,2025,6,Central-West,Namíbia,53
+2025-06-01,2025,6,Central-West,Panamá,4134
+2025-06-01,2025,6,Central-West,Peru,3613
+2025-06-01,2025,6,Central-West,Portugal,6135
+2025-06-01,2025,6,North,Barbados,22
+2025-06-01,2025,6,North,Colômbia,2177
+2025-06-01,2025,6,North,Estados Unidos Da América,3418
+2025-06-01,2025,6,North,Guiana,48
+2025-06-01,2025,6,North,Guiana Francesa,526
+2025-06-01,2025,6,North,Jamaica,0
+2025-06-01,2025,6,North,Panamá,2767
+2025-06-01,2025,6,North,Portugal,3272
+2025-06-01,2025,6,North,Suriname,1201
+2025-06-01,2025,6,North,Venezuela,197
+2025-06-01,2025,6,Northeast,Alemanha,0
+2025-06-01,2025,6,Northeast,Antígua E Barbuda,109
+2025-06-01,2025,6,Northeast,Argentina,7872
+2025-06-01,2025,6,Northeast,Bolívia,0
+2025-06-01,2025,6,Northeast,Cabo Verde,0
+2025-06-01,2025,6,Northeast,Chile,2935
+2025-06-01,2025,6,Northeast,Colômbia,0
+2025-06-01,2025,6,Northeast,Espanha,5362
+2025-06-01,2025,6,Northeast,Estados Unidos Da América,6025
+2025-06-01,2025,6,Northeast,França,7143
+2025-06-01,2025,6,Northeast,Guiana Francesa,557
+2025-06-01,2025,6,Northeast,Holanda,0
+2025-06-01,2025,6,Northeast,Itália,0
+2025-06-01,2025,6,Northeast,Malta,228
+2025-06-01,2025,6,Northeast,Namíbia,0
+2025-06-01,2025,6,Northeast,Paraguai,0
+2025-06-01,2025,6,Northeast,Porto Rico,114
+2025-06-01,2025,6,Northeast,Portugal,28856
+2025-06-01,2025,6,Northeast,Uruguai,1976
+2025-06-01,2025,6,South,Alemanha,0
+2025-06-01,2025,6,South,Argentina,12517
+2025-06-01,2025,6,South,Bélgica,0
+2025-06-01,2025,6,South,Cabo Verde,0
+2025-06-01,2025,6,South,Chile,21107
+2025-06-01,2025,6,South,Colômbia,0
+2025-06-01,2025,6,South,Estados Unidos Da América,0
+2025-06-01,2025,6,South,Luxemburgo,0
+2025-06-01,2025,6,South,Panamá,6724
+2025-06-01,2025,6,South,Paraguai,440
+2025-06-01,2025,6,South,Peru,3123
+2025-06-01,2025,6,South,Portugal,5594
+2025-06-01,2025,6,South,Uruguai,879
+2025-06-01,2025,6,Southeast,Alemanha,24567
+2025-06-01,2025,6,Southeast,Angola,2957
+2025-06-01,2025,6,Southeast,Argentina,121895
+2025-06-01,2025,6,Southeast,Aruba,737
+2025-06-01,2025,6,Southeast,Bolívia,9890
+2025-06-01,2025,6,Southeast,Bélgica,0
+2025-06-01,2025,6,Southeast,Cabo Verde,0
+2025-06-01,2025,6,Southeast,Canadá,10891
+2025-06-01,2025,6,Southeast,Chile,101065
+2025-06-01,2025,6,Southeast,China,1193
+2025-06-01,2025,6,Southeast,Colômbia,35330
+2025-06-01,2025,6,Southeast,Coreia Do Sul,0
+2025-06-01,2025,6,Southeast,Costa Do Marfim,0
+2025-06-01,2025,6,Southeast,Costa Rica,1251
+2025-06-01,2025,6,Southeast,Curaçao,706
+2025-06-01,2025,6,Southeast,Emirados Árabes Unidos,16329
+2025-06-01,2025,6,Southeast,Equador,537
+2025-06-01,2025,6,Southeast,Espanha,56286
+2025-06-01,2025,6,Southeast,Estados Unidos Da América,168010
+2025-06-01,2025,6,Southeast,Etiópia,4349
+2025-06-01,2025,6,Southeast,França,42984
+2025-06-01,2025,6,Southeast,Holanda,18457
+2025-06-01,2025,6,Southeast,Itália,44045
+2025-06-01,2025,6,Southeast,Jamaica,0
+2025-06-01,2025,6,Southeast,Luxemburgo,0
+2025-06-01,2025,6,Southeast,Malta,242
+2025-06-01,2025,6,Southeast,Marrocos,3314
+2025-06-01,2025,6,Southeast,México,12646
+2025-06-01,2025,6,Southeast,Nigéria,0
+2025-06-01,2025,6,Southeast,Panamá,38638
+2025-06-01,2025,6,Southeast,Paraguai,11985
+2025-06-01,2025,6,Southeast,Peru,27832
+2025-06-01,2025,6,Southeast,Porto Rico,0
+2025-06-01,2025,6,Southeast,Portugal,77971
+2025-06-01,2025,6,Southeast,Qatar,16627
+2025-06-01,2025,6,Southeast,Reino Unido,23723
+2025-06-01,2025,6,Southeast,República Dominicana,5621
+2025-06-01,2025,6,Southeast,Senegal,0
+2025-06-01,2025,6,Southeast,Suíça,8166
+2025-06-01,2025,6,Southeast,Turquia,7733
+2025-06-01,2025,6,Southeast,Uruguai,25617
+2025-06-01,2025,6,Southeast,África Do Sul,6723
+2025-07-01,2025,7,Central-West,Alemanha,0
+2025-07-01,2025,7,Central-West,Argentina,4846
+2025-07-01,2025,7,Central-West,Bolívia,0
+2025-07-01,2025,7,Central-West,Bélgica,0
+2025-07-01,2025,7,Central-West,Cabo Verde,0
+2025-07-01,2025,7,Central-West,Chile,4735
+2025-07-01,2025,7,Central-West,Colômbia,2432
+2025-07-01,2025,7,Central-West,Espanha,0
+2025-07-01,2025,7,Central-West,Estados Unidos Da América,11943
+2025-07-01,2025,7,Central-West,México,2021
+2025-07-01,2025,7,Central-West,Panamá,4549
+2025-07-01,2025,7,Central-West,Peru,4051
+2025-07-01,2025,7,Central-West,Portugal,8609
+2025-07-01,2025,7,Central-West,República Dominicana,0
+2025-07-01,2025,7,North,Colômbia,3281
+2025-07-01,2025,7,North,Equador,72
+2025-07-01,2025,7,North,Estados Unidos Da América,5087
+2025-07-01,2025,7,North,Guiana,42
+2025-07-01,2025,7,North,Guiana Francesa,620
+2025-07-01,2025,7,North,Panamá,3720
+2025-07-01,2025,7,North,Portugal,4175
+2025-07-01,2025,7,North,República Dominicana,0
+2025-07-01,2025,7,North,Suriname,1274
+2025-07-01,2025,7,North,Venezuela,172
+2025-07-01,2025,7,Northeast,Argentina,16915
+2025-07-01,2025,7,Northeast,Chile,3294
+2025-07-01,2025,7,Northeast,Cuba,0
+2025-07-01,2025,7,Northeast,Espanha,8283
+2025-07-01,2025,7,Northeast,Estados Unidos Da América,6847
+2025-07-01,2025,7,Northeast,França,8029
+2025-07-01,2025,7,Northeast,Guiana Francesa,793
+2025-07-01,2025,7,Northeast,Paraguai,919
+2025-07-01,2025,7,Northeast,Porto Rico,0
+2025-07-01,2025,7,Northeast,Portugal,34273
+2025-07-01,2025,7,Northeast,Uruguai,1357
+2025-07-01,2025,7,South,Alemanha,0
+2025-07-01,2025,7,South,Argentina,15498
+2025-07-01,2025,7,South,Bélgica,0
+2025-07-01,2025,7,South,Cabo Verde,0
+2025-07-01,2025,7,South,Chile,37978
+2025-07-01,2025,7,South,Equador,0
+2025-07-01,2025,7,South,Estados Unidos Da América,0
+2025-07-01,2025,7,South,Luxemburgo,0
+2025-07-01,2025,7,South,Panamá,7157
+2025-07-01,2025,7,South,Paraguai,759
+2025-07-01,2025,7,South,Peru,4025
+2025-07-01,2025,7,South,Portugal,6779
+2025-07-01,2025,7,South,Uruguai,881
+2025-07-01,2025,7,Southeast,Alemanha,26797
+2025-07-01,2025,7,Southeast,Angola,3308
+2025-07-01,2025,7,Southeast,Argentina,197820
+2025-07-01,2025,7,Southeast,Aruba,1970
+2025-07-01,2025,7,Southeast,Bolívia,10083
+2025-07-01,2025,7,Southeast,Bélgica,0
+2025-07-01,2025,7,Southeast,Cabo Verde,0
+2025-07-01,2025,7,Southeast,Canadá,12996
+2025-07-01,2025,7,Southeast,Chile,159029
+2025-07-01,2025,7,Southeast,China,1338
+2025-07-01,2025,7,Southeast,Colômbia,38908
+2025-07-01,2025,7,Southeast,Coreia Do Sul,0
+2025-07-01,2025,7,Southeast,Costa Rica,1960
+2025-07-01,2025,7,Southeast,Curaçao,1226
+2025-07-01,2025,7,Southeast,Emirados Árabes Unidos,17171
+2025-07-01,2025,7,Southeast,Equador,709
+2025-07-01,2025,7,Southeast,Espanha,68931
+2025-07-01,2025,7,Southeast,Estados Unidos Da América,180558
+2025-07-01,2025,7,Southeast,Etiópia,5240
+2025-07-01,2025,7,Southeast,França,46458
+2025-07-01,2025,7,Southeast,Grécia,0
+2025-07-01,2025,7,Southeast,Holanda,19103
+2025-07-01,2025,7,Southeast,Ilhas Canárias,0
+2025-07-01,2025,7,Southeast,Itália,49478
+2025-07-01,2025,7,Southeast,Luxemburgo,0
+2025-07-01,2025,7,Southeast,México,15453
+2025-07-01,2025,7,Southeast,Nigéria,0
+2025-07-01,2025,7,Southeast,Panamá,42191
+2025-07-01,2025,7,Southeast,Paraguai,13627
+2025-07-01,2025,7,Southeast,Peru,31549
+2025-07-01,2025,7,Southeast,Porto Rico,0
+2025-07-01,2025,7,Southeast,Portugal,86965
+2025-07-01,2025,7,Southeast,Qatar,21645
+2025-07-01,2025,7,Southeast,Reino Unido,27287
+2025-07-01,2025,7,Southeast,República Dominicana,7816
+2025-07-01,2025,7,Southeast,Suíça,9084
+2025-07-01,2025,7,Southeast,Turquia,9994
+2025-07-01,2025,7,Southeast,Uruguai,28640
+2025-07-01,2025,7,Southeast,África Do Sul,8250
